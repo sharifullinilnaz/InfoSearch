@@ -1,0 +1,549 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/css/style.css">
+	<link rel="icon" href="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/favicon.ico"  type="image/x-icon">
+	<link rel="preconnect" href="https://mc.yandex.ru/">
+	<link rel="stylesheet" href="../css/style.css">
+    <link href="../css/mistakes.css" rel="stylesheet" type="text/css" />
+	<link href="../lightbox/css/lightbox.css" rel="stylesheet" />
+
+<link rel="canonical" href="https://исторический-сайт.рф/Общая-характеристика-Пензенского-сыскного-отделения-1.html" />
+	<title>Пензенский полицейский сыск-1</title>
+	<meta name="description" content="Краеведческое исследование по теме Пензенской сыскной полиции на основе архивных данных-Страница 1">
+	<meta name="keywords" content=" история пензы, Полиция" > 
+<meta property="og:title" content="Пензенский полицейский сыск"/>
+<meta property="og:description" content="Краеведческое исследование по теме Пензенской сыскной полиции на основе архивных данных"/>
+<meta property="og:image" content="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/images/logo4.jpg"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content= "https://исторический-сайт.рф/Общая-характеристика-Пензенского-сыскного-отделения-1.html" />
+
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+</head>
+
+<body>
+	<div class="in_top">
+		<span>↑ Наверх ↑</span>
+	</div>
+
+<div id="block">
+<div class="header">&nbsp&nbsp&nbsp&nbsp
+<a href="../"><img src="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/images/img_03.jpg" alt="Исторический сайт" ></a>
+<div id="css-menu">
+<br>
+<ul>
+<span class="letter3">
+<marquee  scrollamount="2" direction="left" 
+ height="40" width="100%" ><p>"Не знать истории - значит всегда быть ребенком" Марк Туллий Цицерон</p></marquee> 
+</span>
+<br>
+<li><a href="../">
+<span class="text-top">Главная</span>
+<span class="text-bottom">О нашем проекте</span>
+</a></li>
+<li><a href="../4.html">
+<span class="text-top">Разделы</span>
+<span class="text-bottom">Статьи</span>
+</a></li>
+<li><a href="../Конкурс-1.html">
+<span class="text-top">Конкурс</span>
+<span class="text-bottom">Работ по истории</span>
+</a></li>
+<li><a href="../Вопрос-ответ.html">
+<span class="text-top">Помощь</span>
+<span class="text-bottom">Вопрос-ответ</span>
+</a></li>
+<li><a href="../Генератор-тестов.html">
+<span class="text-top">Тесты</span>
+<span class="text-bottom">Создать тест</span>
+</a></li>
+<li><a href="../Опубликовать-статью.html">
+<span class="text-top">Опубликовать</span>
+<span class="text-bottom">Отправить статью</span>
+</a></li>
+<li><a href="../Новое.html">
+<span class="text-top">Новое</span>
+<span class="text-bottom">Новые статьи</span>
+</a></li>
+<li><a href="../Войти.html">
+<span class="text-top">Войти</span>
+<span class="text-bottom">В свой аккаунт</span>
+</a></li>
+<li><a href="https://vk.com/istorik_archeolog" target="_blank"><img src="../images/vk.jpg" alt="ВК" ></a></li>
+<li><a href="https://twitter.com/istoricheski" target="_blank"><img src="../images/twitter.jpg" alt="Твиттер" ></a></li>
+<li><a href="https://t.me/historyarchnews" target="_blank"><img src="../images/telegram.jpg" alt="Телеграмм" ></a></li>
+<li><a href="https://yandex.ru/q/loves/history/" target="_blank"><img src="../images/q.jpg" alt="Я.Кью" ></a></li>
+<li><a href="https://zen.yandex.ru/dorogami_tisyacheletiy" target="_blank"><img src="../images/dzen.jpg" alt="Я.Дзен" ></a></li>
+</ul>
+</ul>
+</div>
+</div>
+
+<div class="left_col">
+<p><span style="font-size:small;">
+<strong>
+    <a href='https://исторический-сайт.рф/33.html'>
+    <span class="letter">Н</span>овости истории</a></strong><br><strong>
+    <a href='https://исторический-сайт.рф/4.html'>
+    <span class="letter">С</span>татьи и заметки</a></strong><br>&nbsp;<a href='https://исторический-сайт.рф/14.html'>
+         - <span class="letter2">А</span>рхеология</a><br>&nbsp;<a href='https://исторический-сайт.рф/3.html'>
+         - <span class="letter2">В</span>сеобщая история</a><br>&nbsp;<a href='https://исторический-сайт.рф/13.html'>
+         - <span class="letter2">И</span>сторическая поэзия и проза</a><br>&nbsp;<a href='https://исторический-сайт.рф/6.html'>
+         - <span class="letter2">И</span>стория Пензенского края</a><br>&nbsp;<a href='https://исторический-сайт.рф/5.html'>
+         - <span class="letter2">И</span>стория России</a><br>&nbsp;<a href='https://исторический-сайт.рф/8.html'>
+         - <span class="letter2">П</span>олезные и интересные сайты</a><br>&nbsp;<a href='https://исторический-сайт.рф/7.html'>
+         - <span class="letter2">Р</span>азное</a><br>&nbsp;<a href='https://исторический-сайт.рф/19.html'>
+         - <span class="letter2">Т</span>есты по истории</a><br>&nbsp;<a href='https://исторический-сайт.рф/32.html'>
+         - <span class="letter2">Ш</span>паргалка</a><br><a href="/Конкурс-1.html"  name='Конкурс'><b><span class="letter">К</span>онкурс работ</b></a><br>
+<a href="/Генератор-тестов.html"  name='Генератор тестов'><b><span class="letter">С</span>оздать тест</b></a><br>
+<a href="/Отправить-статью.html"  name='Авторам'><b><span class="letter">А</span>вторам</b></a><br>
+<a href="/Друзья.html"  name='Ссылки'><b><span class="letter">Д</span>рузья сайта</b></a><br>
+<a href="/Вопрос-ответ.html"  name='чаВО'><b><span class="letter">В</span>опрос-ответ</b></a><br>
+<a href="/О-проекте.html"><b><span class="letter">О</span> проекте</b></a><br>
+<a href="/Контакты.html"><b><span class="letter">К</span>онтакты</b></a><br>
+</span></p>
+
+
+
+
+<p align= "center">
+<b><span class="letter2">Н</span>овые статьи:</b></p>
+<font size="2">
+  <a href='https://исторический-сайт.рф/gramota--1.html'>В Новгороде нашли первую «зимнюю» грамоту</a><br>........................<br>  <a href='https://исторический-сайт.рф/proval-1.html'>Названо самое провальное оружие Второй мировой войны</a><br>........................<br>  <a href='https://исторический-сайт.рф/asteroid-1.html'>Ученые подтвердили гибель динозавров от астероида</a><br>........................<br>  <a href='https://исторический-сайт.рф/pskov-1.html'>В Пскове под кинотеатром нашли древнюю церковь</a><br>........................<br>  <a href='https://исторический-сайт.рф/bacteria-1.html'>Красная Армия помешала Японии применить биологическое оружие</a><br>........................<br></font>
+
+<!-- Слева2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="7863885467"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+<div class="center_col">
+     
+   
+<!-- Yandex.RTB R-A-141379-6 -->
+<div id="yandex_rtb_R-A-141379-6" style="min-height:240px"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-6',
+    blockId: 'R-A-141379-6'
+  })
+})</script>
+    <br>
+ 
+<center><h1 style="font-size:20px"><b>Общая характеристика Пензенского сыскного отделения</b></h1>(Статья)</center>Раздел: <a href=/6.html><span class="letter2">И</span>стория Пензенского края</a><br>Автор: <a href ="/Автор-Понаморев Владислав">Понаморев Владислав</a><br>(научный руководитель - Переяслова Наталья Львовна)<br><h3 style="text-align: justify;"><span style="font-size: 14pt;"><strong>1. Организация Пензенского сыскного отделения.</strong></span></h3>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Пензенское сыскное отделение учреждено 1.08.1908 г. на основании закона &laquo;Об организации сыскной части&raquo; от 06.07.1908 г., как оперативный орган полицейского управления по делам политического и уголовного сыска.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Из существовавшей четырехразрядной системы штатов, Пензенское сыскное отделение занимало III разряд. Начальника отделения назначали губернатор и прокурор окружного суда. К чинам сыскного отделения относились: начальник, надзиратели и городовые. Сыскные отделения просуществовали до октября 1917 г.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Главная проблема Пензенского сыскного отделения &ndash; недостаточная профессиональная компетенция кадров. Почти ни одно дело не могло быть&nbsp; раскрыто без участия начальника отделения Упеника-Упенского. Он выступал инициатором плана ведения расследования и проводил основной розыск информации (сведения от частной агентуры, подсаживания лиц к преступникам для получения дополнительной информации, сношение с бывшими преступниками), допросы и другие дела. Надзиратели делали выезды и обыски мест преступлений, выполняли поручения по области и иногда занимались мелкой полицейской работой (охраной и т. п.).</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<h3 style="text-align: justify;"><span style="font-size: 14pt;"><strong>2. Проблемы финансовой отчетности в деятельности сыскного отделения.</strong></span></h3>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Проблемы финансового обеспечения и отчетности занимало важное место в работе Пензенского сыскного отделения. Во-первых, в пояснительных записках, адресованных в губернскую канцелярию начальник полицейского сыска Упеник&ndash;Упенский не только обосновывает траты, но и поясняет специфические методы работы сыскного отделения. Именно поэтому мы сочли необходимым рассмотреть данный вопрос в своем исследовании. Во-вторых, растрата государственных средств и казнокрадство были довольно распространены в Российской империи. Нам показался интересным факт, что подобные обвинения коснулись и полицейского сыска, а еще более интересно было выяснить как в действительности тратились средства сыскного отделения.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">25.07.1909 г. Канцелярия общего присутствия Пензенского губернского правления потребовала от начальника Пензенского сыскного отделения &laquo;немедленно представить Губернатору лично сведения о вышеуказанных неопределенных расходах, также таковые сведения представлять Его Превосходительству и на будущее время одновременно со счетами в расходовании имеющих быть отпущенными авансов&raquo;.[1] Ответом на это требование стал &laquo;Рапорт Начальника Пензенского Сыскного Отделения, начальнику Пензенской губернии&raquo;[2]</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Отчитываясь о потраченных средствах, Начальник Сыскного Отделения Упеник-Упенский сам формулирует методы работы сыскного отделения, что представляется нам чрезвычайно интересным. Проанализировав этот документ, мы выделили следующие методы работы пензенских сыщиков:</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; непосредственной сыскной работы и личные поручения начальника и высших чинов;</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; использование частной агентуры;</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; подсадка в камеры к преступникам лиц для выяснения дополнительной информации;</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; использование бывших преступников для добычи информации.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Начальник Сыскного отделения настаивает на том, что невозможно документально отчитаться по всем расходам, так как существует определенная специфика работы сыщиков. &laquo;Деньги расходовались умело и осторожно, но при всем этом в деле полицейского сыска, где я имею дело исключительно с ворами и мошенниками, бывают случаи, когда деньги, выданные за агентурные сведения, пропадают, не принося никакой пользы делу, показать их в расход и за что выданы &ndash; невозможно, и приходится вписать в расходы, что израсходованы мною лично на раскрытие преступлений. Также неудобно показывать в расходы деньги за подсадку, выданные ворам и доносчикам, тем более, что почти все отказываются от подписи своей фамилии, из боязни, что их фамилия будет известна и им отомстят &ndash; это во-первых, а во-вторых, что написав счет, в этом случае, кому и за что выданы деньги, я этим открываю приемы полицейского сыска, иногда не предусмотренные законом, и составляющие до некоторой степени мою служебную тайну, между тем, как приемы эти приносят явную пользу по раскрытии преступлений, не заставляя чинов Отделения входить в какие бы то ни было противузаконные отношения с ворами, кроме выдачи им денег&raquo;. (Упеник-Упенский).</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">В то же время начальник пензенского сыскного отделения напоминает государственным чинам о том, что вознаграждения тоже следует практиковать. За первое полугодие 1909 г. расследовано около 70% дел, в то время как Департамент Полиции считает хорошим результатом 50%. &laquo;Осмеливаюсь ВАШЕМУ ПРЕВОСХОДИТЕЛЬСТВУ доложить и то обстоятельство, что город Пенза III&nbsp;разряда, и я, в сравнении с начальниками сыскных отделений I и II разрядов соседних городов, получаю половину или менее всего содержания и при том, без квартиры от города, а преступлений открываю на десятки больше. Я тружусь честно, в сделку с совестью не пойду и ни копейки ни казенных, ни каких бы то ни было посторонних денег не присваивал; из пределов норм, отпущенных Правительством денег на розыск, выходил, и по настоящее время мне этих 166 руб. вполне достаточно для обслуживания города, и если понадобится, уездов губернии&raquo;. [3](Упеник-Упенский начальнику Пензенской губернии).</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Надо заметить, что проблема вознаграждения чинов полиции не была решена и во всероссийском масштабе. В 1913 г. на знаменитом &laquo;Совещании по вопросам упорядочения полицейского сыска&raquo; (г. Санкт-Петербург) будет сделано неоднозначное предложение по этому вопросу: позволить потерпевшим&nbsp; доставлять подарки и денежное вознаграждение в полицейское управление, где они будут заноситься в специальную регистрационную книгу. Из этих средств будет создан особый фонд, из которого особо отличившиеся по службе получат вознаграждение.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<h3 style="text-align: justify;"><span style="font-size: 14pt;"><strong>3. &nbsp;Организация уголовного сыска в Пензенском сыскном отделении.</strong></span></h3>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Наиболее полную информацию по этому вопросу мы нашли в&nbsp; &laquo;Докладе начальника Пензенского сыскного отделения&raquo;[4]</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Одна из главных проблем Пензенского сыскного отделения&nbsp; нехватка людей, недостаточная компетентность личного состава. В штате отделения &ndash; 8 человек постоянного состава (включая начальника) и 4 прикомандированных стражника. С учетом дежурств, регистрации, конвоирования преступников в суд,&nbsp; дрессировки собак, выездами на места преступлений в уезды для ежедневной розыскной&nbsp; работы остаются 4-5 человек, а этого явно недостаточно. Из-за нехватки людей трудно организовать работу по профилактике преступлений, хотя у начальника Отделения были дельные предложения по этому вопросу: &laquo;Установить постоянные дежурства в ломбарде и на толкучем рынке для надзора за сбытом краденых вещей и задержания воров; в Государственном Банке, Казначействе, Почтовых Отделениях &ndash; для предупреждения часто повторяющихся карманных краж и мошенничества, жертвами которых всегда бывает сельское население, прибывающее за получением или вкладом денег; на вокзалах &ndash; для наблюдения и задержания гастролирующих преступников, нередко приезжающих в Пензу, а также для предупреждения карманных краж и краж из поездов&raquo;. Очевидно, что первое время &laquo;из-за незнания вновь назначенными чинами преступного элемента, их приемов для совершения преступлений, приемов сыска, воровского жаргона, большой пользы ожидать нельзя, а потому в целях принесения несомненной пользы делу, желательно прикомандировать эти чинов к сыскному отделению постоянно&raquo;[5]. Упеник-Упенский даже разработал примерную программу подготовки чинов уездной полиции к сыскной деятельности:</span></p>
+<ol style="text-align: justify;">
+<li><span style="font-size: 14pt;">&nbsp;Обстоятельный осмотр места происшествия, выводы, заключения после осмотра.</span></li>
+<li><span style="font-size: 14pt;">&nbsp;Вещественные доказательства.</span></li>
+<li><span style="font-size: 14pt;">&nbsp;Способы выяснения виновных в преступлении.</span></li>
+<li><span style="font-size: 14pt;">&nbsp;Копирование следов ног и обуви.</span></li>
+<li><span style="font-size: 14pt;">&nbsp;Расспросы свидетелей.</span></li>
+<li><span style="font-size: 14pt;">&nbsp;Допросы обвиняемых.</span></li>
+<li><span style="font-size: 14pt;">&nbsp;Тщательный обыск.</span></li>
+<li><span style="font-size: 14pt;">&nbsp;Действительные и вымышленные заявления о преступлениях.</span></li>
+<li><span style="font-size: 14pt;">&nbsp;Наблюдение за подозрительными лицами.</span></li>
+<li><span style="font-size: 14pt;">Задержание преступников.</span></li>
+<li><span style="font-size: 14pt;">Меры предосторожности при поимке опасных преступников.</span></li>
+<li><span style="font-size: 14pt;">Воровской язык.</span></li>
+<li><span style="font-size: 14pt;">Дактилоскопия, антропометрия, словесные портреты.</span></li>
+</ol>
+<p style="text-align: justify;">&nbsp;</p>
+<h3 style="text-align: justify;"><span style="font-size: 14pt;"><strong>4. Использование служебных собак в полицейском сыске.</strong></span></h3>
+<p style="text-align: justify;"><span style="font-size: 14pt;">В &nbsp;начале XX века&nbsp; в Санкт-Петербурге существовало Русское Общество поощрения применения собак к полицейской и сторожевой службе. В северную столицу был командирован полицейский надзиратель Ксенофонтов для прохождения курса по дрессировке полицейских собак. Для его обучения был куплен немецкая овчарка &laquo;Вольф&raquo; 3 лет за 160 рублей (очень высокая цена, лошадь стоила намного дешевле). С 1911 г. по 1912 г. для Пензенского сыскного отделения приобрели ещё 5 собак: доберман-пинчер, 2 кавказские овчарки, немецкая овчарка и собака неизвестной породы. В 1912 г. в Пензе открылся отдел Российского общества поощрения применения собак к полицейской и сыскной службе, председателем Совета был избран губернатор А. П. фон Лилиенфельд &ndash; Тоаль. Целью общества было &laquo;желание снабдить в Пензенской губернии, особенно в деревнях, урядников и становых приставов собаками-ищейками&raquo;<a href="#_ftn6">[</a>6<a href="#_ftn6">]</a>.&nbsp; По инициативе и на деньги общества в 1913 г. был постороен питомник для содержания собак, располагавшийся на Щепной площади, неподалеку от здания Сыскного отделения. 25. 06. 1913 г. в Пензе была проведена выставка, на которой проводились пробные, проверочные испытания дрессированных &nbsp;полицейских собак. Программа состояла из 2 частей: комнатная дрессировка и полевая работа. Еженедельная пензенская газета &laquo;Полицейский листок&raquo; (№26 1913 г.)&nbsp; представила подробный отчет об испытаниях служебных собак. Судя по всему, четвероногие полицейские произвели огромное впечатление на публику: &laquo;Некоторые номера второй программы выполнялись собаками безукоризненно. Можно сказать, что если пустить их по свежим следам какого-либо преступника, то позавидовать ему нельзя &ndash; могут найти и разорвать&raquo;.[7]</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">В списке собак пензенского питомника мы обнаружили добермана-пинчера 3 лет &laquo;Трефа&raquo;. Очень интересный факт, потому что доберман-пинчер &laquo;Треф&raquo; - знаменитейшая собака Петербургской, &nbsp;а затем Московской полиции, но известная с 1909г. Пензенский &laquo;Треф&raquo; тоже был приобретен в петербургском питомнике. Неужели у нас в сыскном отделении служил &laquo;потомок&raquo; знаменитого полицейского пса!?</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Применение полицейских собак практиковалось как в Пензе, так и в уездах, в последнем случае проводники вместе с собаками выезжали в командировку на место совершения преступления. Вероятно, не все подобные выезды были успешны, зачастую из-за профессиональной неграмотности сельских полицейских. В связи с этим начальник Пензенского сыскного отделения Упеник-Упенский разработал подробную инструкцию по применению полицейских собак:</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; При обнаружении преступления, на которое предполагается вызвать собаку-ищейку, немедленно телеграфировать Начальнику Сыскного отделения.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Принять меры к полной сохранности обнаруженных следов злоумышленников, или же оставленных орудий, оружия и т.д. При этом никто (включая стражу) не должен приближаться к охраняемому месту ближе 2-3 саженей.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Подробный осмотр места преступления и оставшихся следов злоумышленников, желательно производить по прибытии проводника с собакой.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Вызов собаки и прибытие ее на место преступление должны сохраняться в тайне.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Все обнаруженные на месте преступления предметы должны оставаться на своих местах, нельзя дотрагиваться до них руками. А если случится, что кто-нибудь по незнанию нарушит это правило, об этом надо поставить в известность проводника, который будет применять собаку.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; До прибытия проводника добыть сведения, кто первый обнаружил преступление и при каких обстоятельствах, кто подозревается в данном преступлении, и какие на это имеются данные.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; По прибытии проводника с собакой-ищейкой на место преступления тотчас же передать ему все необходимые сведения, после чего проводник применяет собаку по своему усмотрению. Если проводник, осмотрев место преступления, найдет, что собаку применять нельзя, то нельзя настаивать на ее применении, так как&nbsp; от такой настойчивости при отсутствии знаний по существу, что из себя представляет собака-ищейка, получаются нежелательные последствия, от которых подрывается доверие к розыскным способностям собаки, а равно и постановке самого дела.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; При не сохранении следов на месте преступления, шедшего дождя или снега после совершения преступления &ndash; собак не вызывать.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; О каждом применении собаки-ищейки для розыска преступников чины местной полиции составляют протоколы за своей подписью и подписью понятых с описанием действий собаки и приложением чертежа места преступления с нанесением на нем путей, по которым производились розыски собакой&raquo;<a href="#_ftn8">[8]</a>.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">В полицейских рапортах нередки примеры того, как собаки помогали мгновенно раскрыть преступление по горячим следам. В одном из протоколов говорится о том, что собаку, взявшую след и нашедшую преступника, сопровождала вся деревня, эффект был потрясающий. Думается, такой метод расследования служил в значительной степени и профилактикой совершения преступлений.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Итак, в 1908-1909 гг. происходит становление полицейского сыска как спецслужбы. Мы увидели, что здесь были свои успехи и свои проблемы.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<hr size="1" />
+<p style="text-align: justify;"><span style="font-size: 14pt;">[1]ГАПО, ф. 176, оп. 1, д.6, лист 2</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">[2]ГАПО, ф. 176, оп. 1, д. 6, лист 14</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">[3]ГАПО, ф. 176, оп. 1, д. 6, лист 14</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">[4]ГАПО, ф.176, оп.1, д.17, лист 108-110</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">[5]ГАПО, &nbsp;ф.176,оп.1, д.17, лист 108-110</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">[6]ГАПО, ф. 176, оп.1, д.17, лист 10</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">[7]ГАПО, ф. 176, оп.1, д.17, лист 21</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">[8]ГАПО, ф.176, оп.1, д.17, лист 108-109</span></p><br>Раздел: <a href=/6.html><span class="letter2">И</span>стория Пензенского края</a><br>Дата публикации: 25.09.2011 13:11:12 <center> <a style="color: #808000; text-decoration: none;" ><b>1</b></a> <br> </center><br> 
+Подписывайтесь на наш <a href="https://t.me/historyarchnews" target="_blank">телеграм-канал</a>
+<br>
+Вступайте в нашу группу в <a href="https://vk.com/istorik_archeolog" target="_blank">Вконтакте</a>
+<br><br><b>Другие социальные сети:</b><br>
+<a href="https://vk.com/istorik_archeolog" target="_blank"><img src="../images/vk.jpg" alt="ВК" ></a>
+<a href="https://twitter.com/istoricheski" target="_blank"><img src="../images/twitter.jpg" alt="Твиттер" ></a>
+<a href="https://t.me/historyarchnews" target="_blank"><img src="../images/telegram.jpg" alt="Телеграм" ></a>
+<a href="https://yandex.ru/q/loves/history/" target="_blank"><img src="../images/q.jpg" alt="Я.Кью" ></a>
+<a href="https://zen.yandex.ru/dorogami_tisyacheletiy" target="_blank"><img src="../images/dzen.jpg" alt="Я.Дзен" ></a>
+<a href="https://www.facebook.com/istoricheski" target="_blank"><img src="../images/fb.jpg" alt="Фейсбук" ></a>
+<a href="https://www.instagram.com/istfil.ru/" target="_blank"><img src="../images/ig.jpg" alt="Инстаграм" ></a><br>
+<br>
+
+
+<br>
+<!-- Yandex.RTB R-A-141379-7 -->
+<div id="yandex_rtb_R-A-141379-7"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-7',
+    blockId: 'R-A-141379-7'
+  })
+})</script>
+<br>
+
+<b>Поделиться материалом в социальных сетях:</b>
+<div class="share42init"></div>
+
+<br>
+<center>
+<br>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="3861370147"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
+
+<script>
+    (yaads = window.yaads || []).push({
+        id: "141379-4",
+        render: "#id-141379-4"
+    });
+</script>
+<div id="id-141379-4"></div> 
+  <br>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="9313007376"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
+<b><span class="letter2">В</span>ас могут заинтересовать другие материалы из данного раздела: </b><br>
+<div class="grid">
+<article>
+<figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>История создания Первомайского района.</h2>
+                            <p>Каждый Начало формы Ка человек должен знать историю родного края, где он родился, вырос. Это непреложное утверждение, которое редко кто решиться оспорить. Тем более  что давно известна фраза - без истории нет будущего. Необходимо знать как историю всей страны в целом, так и историю своего города, края - малой Родины..</p>
+                            <a href='https://исторический-сайт.рф/История-создания-Первомайского-района-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Методы работы Пензенского полицейского сыска (по материалам отдельных дел)</h2>
+                            <p>Несколько дел из повседневной практики сыскной полиции/Методы работы Пензенского полицейского сыска (по материалам отдельных дел).</p>
+                            <a href='https://исторический-сайт.рф/Методы-работы-Пензенского-полицеского-сыска-по-материалам-отдельных-дел-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Родина</h2>
+                            <p>Эссе на тему Родина. .</p>
+                            <a href='https://исторический-сайт.рф/Родина-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Изучение краеведения в школах г. Кузнецка</h2>
+                            <p>Важной задачей исторического краеведения является фиксация и охрана памятников этнографии и искусства, это почти невыполнимо без привлечения широких масс историков - краеведов..</p>
+                            <a href='https://исторический-сайт.рф/Изучение-краеведения-в-школах-Кузнецка-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Ширшов Б.М. Гвардии лейтенант. От Кенинсберга до Праги. Ширшов А.М. Лейтенант. Гибель на Кавказе.</h2>
+                            <p>Великая Отечественная война 1941 – 1945 – война Союза Советских Социалистических Республик против Германской империи и её союзников (Болгарии, Венгрии, Италии, Румынии, Словакии, Финляндии, Хорватии); решающая часть Второй мировой войны..</p>
+                            <a href='https://исторический-сайт.рф/Ширшов-Б-М-Гвардии-лейтенант-От-Кенинсберга-до-Праги-Ширшов-А-М-Лейтенант-Гибель-на-Кавказе-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Народное просвещение в Нижнеломовском уезде в 19-20 веках</h2>
+                            <p>Нужно ли нам знать историю своего города? Лично я считаю, что, безусловно, нужно, ибо знание родного края воспитывает патриотизм! Если ты образованный человек, то тебе просто необходимо знать историю своего родного края. Кто-то из великих сказал: «без прошлого нет будущего». И был прав. Знать историю родного края - это показатель культуры и образованности человека..</p>
+                            <a href='https://исторический-сайт.рф/Народное-просвещение-в-Нижнеломовском-уезде-в-19-20-веках-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>История повседневности эпохи  Великой Отечественной войны в исторической памяти народа</h2>
+                            <p>История повседневности эпохи  Великой Отечественной войны в исторической памяти народа:  особенности источниковедческого анализа. На основе записанных на видео воспоминаний Ольховой Марии Ивановны.</p>
+                            <a href='https://исторический-сайт.рф/История-повседневности-эпохи-ВОВ-в-исторической-памяти-народа-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Место авиашколы ОСОАВИАХИМА в социально-экономическом развитии Пензенской области в 1930-е гг.</h2>
+                            <p>Место авиашколы ОСОАВИАХИМА в социально-экономическом развитии Пензенской области в 1930-е гг. В июне 1928 г. в поселке Свободном, который ранее назывался Манчжурией, была организована по инициативе местного ОСОАВИАХИМа школа гражданской авиации..</p>
+                            <a href='https://исторический-сайт.рф/Место-авиашколы-ОСОВИАХИМА-в-социально-экономическом-развитии-Пензенской-области-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Турецкие военнопленные в обороне г. Керенска в 1774 г.</h2>
+                            <p>Вопрос об участии турецких военнопленных в обороне г. Керенска Воронежской губернии (ныне с. Вадинск Пензенской обл.) в период Крестьянской войны под предводительством Е.И. Пугачева 1773–1775 гг., по существу, никогда не привлекал к себе внимания историков, в т.ч. и краеведов..</p>
+                            <a href='https://исторический-сайт.рф/Турецкие-военнопленные-в-обороне-Керенска-в-1774-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Мозжухин Иван Ильич – Король экрана</h2>
+                            <p>Научная работа «И.И. Мозжухин – король экрана» является попыткой систематизации информации о жизни и творчестве величайшего актера. Цель научной работы: привлечение внимания молодежи к личности великого земляка и значению его творчества в истории мирового искусства..</p>
+                            <a href='https://исторический-сайт.рф/Мозжухин-Иван-Ильич-Король-экрана-1.html'>Читать</a>
+                        </figcaption> </figure></article>
+</div>
+</span>
+</center>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="3459235498"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div class="right_col">
+<br><b><span class="letter2">И</span>скать на сайте:</b>
+<form action="https://www.google.ru/cse" id="cse-search-box" target="_blank">
+    <input type="hidden" name="cx" value="partner-pub-4644943942061688:0428779279" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" class="input-block-level" name="q" size="20" />
+    <input type="submit" name="sa" value="&#x041f;&#x043e;&#x0438;&#x0441;&#x043a;" />
+</form>
+  <script src="./vendor/jquery-2.0.3.min.js"></script>
+  <script async src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="./js/ajax-form.js"></script>
+ <!-- /вход-регистрация -->  
+<br><center><script language="javascript">
+<!--
+var h=(new Date()).getHours();
+if (h > 22 || h < 7) document.write('Доброй ночи,');
+if (h > 6 && h < 12) document.write('Доброе утро,'); 
+if (h > 11 && h < 19) document.write('Добрый день,'); 
+if (h > 18 && h < 23) document. write('Добрый вечер,'); 
+//-->
+</script >
+<script>
+$(document).ready(function() {
+    // Добавляем новую запись, когда произошел клик по кнопке
+    $("#FormSubmit").click(function (e) {
+        e.preventDefault();
+        if($("#contentText").val()==="") //simple validation
+        {
+            alert("Введите текст!");
+            return false;
+        }
+
+        var myData = "content_txt="+ $("#contentText").val(); //post variables
+
+        jQuery.ajax({
+            type: "POST", // HTTP метод  POST или GET
+            url: "./includes/response_stik.php", //url-адрес, по которому будет отправлен запрос
+            dataType:"text", // Тип данных,  которые пришлет сервер в ответ на запрос ,например, HTML, json
+            data:myData, //данные, которые будут отправлены на сервер (post переменные)
+            success:function(response){
+            $("#responds").append(response);
+            $("#contentText").val(''); //очищаем текстовое поле после успешной вставки
+            },
+            error:function (xhr, ajaxOptions, thrownError){
+                alert(thrownError); //выводим ошибку
+            }
+        });
+    });
+
+    //Удаляем запись при клике по крестику
+    $("body").on("click", "#responds .del_button", function(e) {
+        e.preventDefault();
+        var clickedID = this.id.split("-"); //Разбиваем строку (Split работает аналогично PHP explode)
+        var DbNumberID = clickedID[1]; //и получаем номер из массива
+        var myData = 'recordToDelete='+ DbNumberID; //выстраиваем  данные для POST
+
+        jQuery.ajax({
+            type: "POST", // HTTP метод  POST или GET
+            url: "./includes/response_stik.php", //url-адрес, по которому будет отправлен запрос
+            dataType:"text", // Тип данных
+            data:myData, //post переменные
+            success:function(response){
+            // в случае успеха, скрываем, выбранный пользователем для удаления, элемент
+            $('#item_'+DbNumberID).fadeOut("slow");
+            },
+            error:function (xhr, ajaxOptions, thrownError){
+                //выводим ошибку
+                alert(thrownError);
+            }
+        });
+    });
+});
+</script>
+Гость      <form class="form-signin ajax" method="post" action="../includes/ajax.php">
+        Пожалуйста, авторизуйтесь
+        <input name="username" type="text" class="input-block-level" placeholder="Логин" autofocus maxlength="15">
+        <input name="password" type="password" class="input-block-level" placeholder="Пароль" maxlength="15">
+        <label class="checkbox">
+          <input name="remember-me" type="checkbox" value="remember-me" checked> Запомнить
+        </label>
+        <input type="hidden" name="act" value="login">
+<input type="hidden" class="hidefield" id="user" name="user">
+<input type="hidden" class="hidefield" id="site" name="site" value="http://" >
+<input id="check" name="check" type="hidden" value="" />
+<input name="email" id="email2" class = "nonuserfield "maxlength="50" type="text" autocomplete="off" placeholder="Введите E-Mail *">
+        <button class="btn btn-normal btn-block" type="submit" onclick="document.getElementById('check').value = 'secretcode';">Войти</button>
+<font color=red><div class="main-error alert alert-error hide"></div></font>
+            <p>Нет аккаунта? <a href="../Регистрация.html">Регистрация.</a></p>
+      </form>
+       </center>
+<br>
+  <a href="javascript:void(0)" onclick="PressLink()">Заметили ошибку? Выделите её и нажмите ctrl+enter</a>
+
+    
+<!-- Yandex.RTB R-A-141379-2 -->
+<div id="yandex_rtb_R-A-141379-2"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-2',
+    blockId: 'R-A-141379-2'
+  })
+})</script>
+ </div>
+<div class="footer"><br><br><br>
+<span style="font-size:small;">
+<p align="center">
+Все права принадлежат авторам выкладываемых работ. Материалы сайта разрешено копировать с согласия автора работы, с обязательным указанием автора материала и прямой ссылкой на текст копируемого материала. На сайте используются файлы куки (cookie) для организации работы сайта. Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie, пользовательских данных.  Если Вы не хотите, чтобы ваши данные обрабатывались, произведите соответствующие настройки в браузере, либо воздержитесь от посещения сайта. Ознакомтесь с <a href="../Политика-конфиденциальности.html">политикой конфиденциальности</a> нашего сайта.
+</p><p align="center">
+Исторический-сайт.рф © 2011 - 2022.</font><center></span>
+<br>
+
+</center>
+</p>
+</div>
+</div>
+<script src="../vendor/jquery-2.0.3.min.js" ></script>
+<script type="text/javascript" src="../share42/share42/share42.js"></script>
+<script async src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+<script async type="text/javascript" src="../js/mistakes.js"></script>
+<script src="../lightbox/js/lightbox-2.6.min.js"></script>
+<script>
+	// назад
+		var bottom_position = 0; 
+		var flag_bottom = false;
+		var flag_animate = false;
+		
+		$(document).ready(function(){
+			$(".in_top").click(function(){
+				flag_animate = true;
+				if(flag_bottom){
+					$("body,html").animate({"scrollTop":bottom_position}, 300, function(){ 
+						flag_animate = false;
+					});
+						flag_bottom = false;
+					$(".in_top span").html("↑ Наверх ↑");
+				}else{
+						$("body,html").animate({"scrollTop":0}, 300, function(){ 
+						flag_animate = false;
+					});		
+					bottom_position = $(window).scrollTop();
+					flag_bottom = true;
+					$(".in_top span").html("↓ Назад ");
+				}
+			});
+		 
+				$(window).scroll(function(event){
+				var countScroll = $(window).scrollTop();
+							if (countScroll > 100 && !flag_animate){
+					$(".in_top").show();
+					if(flag_bottom){
+						flag_bottom = false;
+						$(".in_top span").html("↑ Наверх ↑");
+					}
+							}else{
+					if(!flag_bottom){
+						$(".in_top").hide();
+					}
+				}
+			});
+		});
+	</script> 
+	<script>
+$("#navToggle").click(function() {
+    $(this).toggleClass("active");
+    $(".overlay").toggleClass("open");
+    // this line ▼ prevents content scroll-behind
+    $("body").toggleClass("locked");
+});
+$('.overlay').click(function() {
+    $(this).removeClass('open');
+    $('.navBurger').removeClass('active');
+});
+</script>
+
+<script>
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 100) {
+            if ($('#upbutton').is(':hidden')) {
+                $('#upbutton').css({opacity : 1}).fadeIn('slow');
+            }
+        } else { $('#upbutton').stop(true, false).fadeOut('fast'); }
+    });
+    $('#upbutton').click(function() {
+        $('html, body').stop().animate({scrollTop : 0}, 300);
+    });
+</script>
+<style>
+  #upbutton {
+    background: url("/images/up.png") no-repeat top left;
+    height: 60px;
+    width: 60px;
+    bottom: 30px;
+    right: 30px;
+    cursor: pointer;
+    display: none;
+    position: fixed;
+    z-index: 999;
+  }
+</style>
+
+<script async src="https://an.yandex.ru/system/widget.js"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173238613-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-173238613-1');
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(65788204, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/65788204" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>
+ 
+ 
+ 

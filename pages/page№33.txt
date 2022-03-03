@@ -1,0 +1,552 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/css/style.css">
+	<link rel="icon" href="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/favicon.ico"  type="image/x-icon">
+	<link rel="preconnect" href="https://mc.yandex.ru/">
+	<link rel="stylesheet" href="../css/style.css">
+    <link href="../css/mistakes.css" rel="stylesheet" type="text/css" />
+	<link href="../lightbox/css/lightbox.css" rel="stylesheet" />
+
+<link rel="canonical" href="https://исторический-сайт.рф/Судьба-страны-на-примере-истории-моей-семьи-1.html" />
+	<title>Судьба страны на примере истории моей семьи-1</title>
+	<meta name="description" content=" В моей работе пойдет речь о любимой прабабушке Кий Марии Семеновне – ветеране войны и труда, беззаветно служившей всю свою жизнь на благо родины. Я хочу, чтобы на страницах Спасских летописей было больше материала об этом человеке с уникальной судьбой. Ее рассказы о войне интересны и познавательны, ее отношение к труду вызывает уважении и восхищение. -Страница 1">
+	<meta name="keywords" content=" история семьи, ветеран, Великая Отечественная война, Спасск" > 
+<meta property="og:title" content="Судьба страны на примере истории моей семьи"/>
+<meta property="og:description" content=" В моей работе пойдет речь о любимой прабабушке Кий Марии Семеновне – ветеране войны и труда, беззаветно служившей всю свою жизнь на благо родины. Я хочу, чтобы на страницах Спасских летописей было больше материала об этом человеке с уникальной судьбой. Ее рассказы о войне интересны и познавательны, ее отношение к труду вызывает уважении и восхищение. "/>
+<meta property="og:image" content="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/data/textimages/spassk/.thumbs/d662368c608303911fee36d65e4b32c1_450_400_0.jpg"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content= "https://исторический-сайт.рф/Судьба-страны-на-примере-истории-моей-семьи-1.html" />
+
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+</head>
+
+<body>
+	<div class="in_top">
+		<span>↑ Наверх ↑</span>
+	</div>
+
+<div id="block">
+<div class="header">&nbsp&nbsp&nbsp&nbsp
+<a href="../"><img src="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/images/img_03.jpg" alt="Исторический сайт" ></a>
+<div id="css-menu">
+<br>
+<ul>
+<span class="letter3">
+<marquee  scrollamount="2" direction="left" 
+ height="40" width="100%" ><p>"Величайшее недоразумение - это вдаваться в мораль, когда дело касается исторических фактов" Дени Дидро </p></marquee> 
+</span>
+<br>
+<li><a href="../">
+<span class="text-top">Главная</span>
+<span class="text-bottom">О нашем проекте</span>
+</a></li>
+<li><a href="../4.html">
+<span class="text-top">Разделы</span>
+<span class="text-bottom">Статьи</span>
+</a></li>
+<li><a href="../Конкурс-1.html">
+<span class="text-top">Конкурс</span>
+<span class="text-bottom">Работ по истории</span>
+</a></li>
+<li><a href="../Вопрос-ответ.html">
+<span class="text-top">Помощь</span>
+<span class="text-bottom">Вопрос-ответ</span>
+</a></li>
+<li><a href="../Генератор-тестов.html">
+<span class="text-top">Тесты</span>
+<span class="text-bottom">Создать тест</span>
+</a></li>
+<li><a href="../Опубликовать-статью.html">
+<span class="text-top">Опубликовать</span>
+<span class="text-bottom">Отправить статью</span>
+</a></li>
+<li><a href="../Новое.html">
+<span class="text-top">Новое</span>
+<span class="text-bottom">Новые статьи</span>
+</a></li>
+<li><a href="../Войти.html">
+<span class="text-top">Войти</span>
+<span class="text-bottom">В свой аккаунт</span>
+</a></li>
+<li><a href="https://vk.com/istorik_archeolog" target="_blank"><img src="../images/vk.jpg" alt="ВК" ></a></li>
+<li><a href="https://twitter.com/istoricheski" target="_blank"><img src="../images/twitter.jpg" alt="Твиттер" ></a></li>
+<li><a href="https://t.me/historyarchnews" target="_blank"><img src="../images/telegram.jpg" alt="Телеграмм" ></a></li>
+<li><a href="https://yandex.ru/q/loves/history/" target="_blank"><img src="../images/q.jpg" alt="Я.Кью" ></a></li>
+<li><a href="https://zen.yandex.ru/dorogami_tisyacheletiy" target="_blank"><img src="../images/dzen.jpg" alt="Я.Дзен" ></a></li>
+</ul>
+</ul>
+</div>
+</div>
+
+<div class="left_col">
+<p><span style="font-size:small;">
+<strong>
+    <a href='https://исторический-сайт.рф/33.html'>
+    <span class="letter">Н</span>овости истории</a></strong><br><strong>
+    <a href='https://исторический-сайт.рф/4.html'>
+    <span class="letter">С</span>татьи и заметки</a></strong><br>&nbsp;<a href='https://исторический-сайт.рф/14.html'>
+         - <span class="letter2">А</span>рхеология</a><br>&nbsp;<a href='https://исторический-сайт.рф/3.html'>
+         - <span class="letter2">В</span>сеобщая история</a><br>&nbsp;<a href='https://исторический-сайт.рф/13.html'>
+         - <span class="letter2">И</span>сторическая поэзия и проза</a><br>&nbsp;<a href='https://исторический-сайт.рф/6.html'>
+         - <span class="letter2">И</span>стория Пензенского края</a><br>&nbsp;<a href='https://исторический-сайт.рф/5.html'>
+         - <span class="letter2">И</span>стория России</a><br>&nbsp;<a href='https://исторический-сайт.рф/8.html'>
+         - <span class="letter2">П</span>олезные и интересные сайты</a><br>&nbsp;<a href='https://исторический-сайт.рф/7.html'>
+         - <span class="letter2">Р</span>азное</a><br>&nbsp;<a href='https://исторический-сайт.рф/19.html'>
+         - <span class="letter2">Т</span>есты по истории</a><br>&nbsp;<a href='https://исторический-сайт.рф/32.html'>
+         - <span class="letter2">Ш</span>паргалка</a><br><a href="/Конкурс-1.html"  name='Конкурс'><b><span class="letter">К</span>онкурс работ</b></a><br>
+<a href="/Генератор-тестов.html"  name='Генератор тестов'><b><span class="letter">С</span>оздать тест</b></a><br>
+<a href="/Отправить-статью.html"  name='Авторам'><b><span class="letter">А</span>вторам</b></a><br>
+<a href="/Друзья.html"  name='Ссылки'><b><span class="letter">Д</span>рузья сайта</b></a><br>
+<a href="/Вопрос-ответ.html"  name='чаВО'><b><span class="letter">В</span>опрос-ответ</b></a><br>
+<a href="/О-проекте.html"><b><span class="letter">О</span> проекте</b></a><br>
+<a href="/Контакты.html"><b><span class="letter">К</span>онтакты</b></a><br>
+</span></p>
+
+
+
+
+<p align= "center">
+<b><span class="letter2">Н</span>овые статьи:</b></p>
+<font size="2">
+  <a href='https://исторический-сайт.рф/gramota--1.html'>В Новгороде нашли первую «зимнюю» грамоту</a><br>........................<br>  <a href='https://исторический-сайт.рф/proval-1.html'>Названо самое провальное оружие Второй мировой войны</a><br>........................<br>  <a href='https://исторический-сайт.рф/asteroid-1.html'>Ученые подтвердили гибель динозавров от астероида</a><br>........................<br>  <a href='https://исторический-сайт.рф/pskov-1.html'>В Пскове под кинотеатром нашли древнюю церковь</a><br>........................<br>  <a href='https://исторический-сайт.рф/bacteria-1.html'>Красная Армия помешала Японии применить биологическое оружие</a><br>........................<br></font>
+
+<!-- Слева2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="7863885467"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+<div class="center_col">
+     
+   
+<!-- Yandex.RTB R-A-141379-6 -->
+<div id="yandex_rtb_R-A-141379-6" style="min-height:240px"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-6',
+    blockId: 'R-A-141379-6'
+  })
+})</script>
+    <br>
+ 
+<center><h1 style="font-size:20px"><b>Судьба страны на примере истории моей семьи</b></h1>(Статья)</center>Раздел: <a href=/6.html><span class="letter2">И</span>стория Пензенского края</a><br>Автор: <a href ="/Автор-Кухарева Анастасия">Кухарева Анастасия</a><br><br><p class="western" style="text-align: justify;" align="CENTER"><span style="font-family: 'times new roman', times; font-size: 14pt;">В моей работе пойдет речь о любимой прабабушке Кий Марии Семеновне &ndash; ветеране войны и труда, беззаветно служившей всю свою жизнь на благо родины. Я хочу, чтобы на страницах Спасских летописей было больше материала об этом человеке с уникальной судьбой. Ее рассказы о войне интересны и познавательны, ее отношение к труду вызывает уважении и восхищение. Ее жизнелюбие может послужить примером для многих молодых людей, не испытавших даже половину того, что выпало на эти женские плечи. Она никогда не унывает, всегда рада людям и с каждым находит общий язык. Жаль, что в последнее время ее здоровье не позволяло посещать учебные учреждения, ведь ее рассказы могли бы многому научить молодежь.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;"><strong>Основная часть.</strong></span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Родилась в 1922 г в г. Беднодемьяновске в семье крестьянина. Это была довольно большая семья - 5 детей, Мария Семеновна &ndash; старшая. Когда организовался колхоз, отец сразу в него вступил. Его выбрали бригадиром. Мама была домохозяйкой. В 1930 году Мария Семеновна пошла в школу, а в 1940 году окончила 10 классов. В этом же году поступила в Пензу на курсы учителей на заочное отделение. В 1940 году стала работать учителем начальных классов в селе Монастырске в семилетней школе. </span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">В 1941 году жизнь всего советского народа изменилась. Мария Семеновна рассказывает о себе:</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">- Первый день войны я помню хорошо и сейчас. Это было воскресенье. В городе была ярмарка. А это для жителей было настоящим праздником. Все веселились, на площади стояли три карусели, молодежь играла в игры, ничто не предвещало беды. Подъехал грузовик, а на нем городское начальство. И в рупор объявили: &laquo;Началась война. Германия напала на наши границы без объявления войны&raquo; Сразу все веселье прекратилось. </span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Очень много нашлось добровольцев, которые сели в машину и поехали в военкомат. Когда я шла домой, то у одних соседей, то у других стоял плач. Я спросила мать: &laquo;Почему плачут?&raquo; А она ответила: &laquo;Как же не плакать, принесли повестки явиться в военкомат с отправкой на войну&raquo;</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Только потом я поняла, что отцы прощались с родными навсегда.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">10мая принесли повестку и мне, а 12 мая 1942 года была призвана на фронт, <strong>направлена в 65 школу младших командиров в город Ульяновск, где о</strong>бучалась шесть месяцев на радиста-кодировщика, им прослужила всю войну. Курсантам выдали обмундирование, большая часть из которого было мужским: нижнее белье и гимнастерки мужские, сапоги кирзовые, портянки, на голове у кого буденовки, у кого пилотки, и спасительницу шинель. Только юбка была принадлежностью женского гардероба.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Окончила школу в звании сержанта и <strong> была направлена под Сталинград, 1 -ый Белорусский фронт , 8-я армия 391 батальон радисткой метеонаблюдения.</strong></span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">До Сталинграда добирались целый месяц в товарных вагонах. Эшелоны часто бомбили. Было страшно. При одной бомбежке выбежала из вагона и легла на землю. Потом почувствовала сильную тяжесть: меня прикрыл своим телом командир, командира простой солдат. Когда бомбежка закончилась, оказалось, что рядового солдата убило, а командира ранило в руку. Девиз был такой на войне: &laquo;Сам погибай, а командира выручай&raquo;</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Когда прибыли в Сталинград, командир вручил нам, четырем девчонкам, пакет и сказал: ищите свой 391 батальон аэродромного обслуживания. Это был 1 белорусский фронт, 8 воздушная армия. Аэродромы находились в лесу. Когда стали подходить к Сталинграду, пришлось переходить реку Волгу. Река вся была покрыта трупами немецкими и наших солдат, так что идти приходилась прямо по ним. По льду текла кровь, а земля вся была в осколках металла. Вот такие страшные были бои под Сталинградом. Свой батальон мы нашли через две недели. </span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Жили в землянках, не было ни коек, ни постельного белья. В землянке жили мы 4 девчонки. Стелили на землю шинель, на ней спали, шинелью и укрывались.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Ты с любовью сшитая, </span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Пулями пробитая,</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">В ночь сырую длинную</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Служишь ты периною</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Укрываешь ласково</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Серая шинель.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Дежурили сутками, на вторые сутки после обеда ходили на физические работы. Жили, в основном, в лесу в землянке. Часто приходилось работать под огнем, бомбежкой противника. Особенно вспоминается страшная бомбежка Белоруссии. Колонна русских продвигалась вперед, и эту колонну немцы начали бомбить. По приказу начальства женщины должны были бежать направо, а мужчины налево. Все бежали, не понимая куда. Путем неимоверных усилий четыре женщины добрались до речки. Перед ними предстала ужасная картина: на берегу было много народа, матери согревали маленьких детей. Утром, когда закончилась бомбежка, пошли к своей колонне. Машины были разбиты, дальнейшее продвижение было возможно лишь пешком. Такое встречалось не один раз.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Враг был очень жесток. Особенно запомнился случай в одной из Белорусских деревень. В этом селе осталась в живых лишь одна женщина, которая находилась в яме из-под картошки. Она-то и рассказала эту жуткую историю. Когда немцы отходили, все дома подожгли, а людей: женщин, детей, стариков &ndash; отправили в конец села, где заставили рыть яму, а потом расстреливали и бросали в эту яму. Было много раненых, и живая женщина от страха тоже упала в эту яму. Когда немцы ушли, она очнулась: слышит стону, повсюду кровь. Чтобы выбраться из ямы, она подтащила несколько трупов и вылезла.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">В 1944 году на территории Польши встретилась с маршалом Жуковым. Было построение. Мы, девчонки, несмотря на войну, хотели выглядеть привлекательно и упросили командира не надевать ватные штаны. А этот было в начале апреля. Когда все построились, То три девушки, в том числе и я оказались в первом ряду. Когда проходил маршал Жуков с начальством, он остановился в середине строя, как раз напротив нас. И стал рассказывать, как идут дела на других фронтах. Последние слова он сказал так: &laquo; Держитесь, мои дорогие, победа будет за нами&raquo; И когда они пошли дальше, то он поинтересовался: &laquo;Что это за босоногая команда?&raquo; Мы эти слова услышали и очень боялись, что нас посадят на гауптвахту за нарушение формы одежды. Мы оставались у себя на станции ждать своего командира. Он пришел примерно через час и ничего нам не сказал. А примерно через неделю нас вызвали на вещевой склад и выдали нам чулки, рейтузы и сказали, что мы каждый месяц будем получать по 200 г песка и 100 г ваты.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Приказ о капитуляции услышала на территории Германии. От радости, все 12 человек вскочили на стол, обнимались, целовались и плакали от радости. Тогда я в первый раз увидела, как плачут мужчины. Войну закончила под Берлином.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Вернулась домой и сразу пошла работать по направлению РОНО в детский дом №2, где проработала 13 лет. В 1949 году вышла замуж за Кий Владимира Ивановича, который заканчивал учебу в Беднодемьяновском техникуме. Здесь была специальная группа из офицеров Великой Отечественной войны, которых взяли на войну из учебных заведений. У них было двухлетнее обучение. С1947 по 1949 год им представлялось бесплатное трехразовое питание и общежитие. По завершению учебы муж стал работать преподавателем в СПТУ№9 и поступил в институт на заочное отделение.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">С мужем переехала в Мордовию, его направили после института в СПТЧ преподавателем. В Мордовии работала завучем в детском доме, преподавателем Ичалковского СПТУ№10. После выхода на пенсию продолжала работать в училище в общежитии воспитателем до 1984 года.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">В 1984 году вернулась в родной город. Мария Семеновна всегда занимается общественной работой. В детском доме - секретарь, председатель жен совета. Была секретарем партийной организации на протяжении 8 лет. Ей присвоено звание &laquo;Отличник народного образования&raquo;, &laquo;Ветеран труда&raquo;</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Имеет благодарностей - 20 штук, </span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Грамот - 18 штук, </span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Наград - 18 штук.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;"><strong>Награды: </strong></span></p>
+<ul style="text-align: justify;">
+<li>
+<p class="western" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;"><strong>орден &laquo;Отечественной войны 1 степени&raquo;, </strong></span></p>
+</li>
+<li>
+<p class="western" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;"><strong>Медаль &laquo;За победу над Германией&raquo;,</strong></span></p>
+</li>
+<li>
+<p class="western" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;"><strong>медаль Жукова.</strong></span></p>
+</li>
+<li>
+<p class="western" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;"><strong>Юбилейные медали: 20 лет Победы, 25 лет Победы, 30 лет Победы, 35 лет Победы, 40 лет Победы, 45 лет Победы, 50 лет Победы, 55лет Победы, 60 лет Победы, 65 лет Победы</strong></span></p>
+</li>
+</ul>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">В 1996 году вступила в Клуб Ветеранов, где готовили программу для выступлений. С выступленьями выезжали во все села нашего района. На областных соревнованиях Клуб Ветеранов занимал второе место несколько лет подряд.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Воспитала троих детей. Сын Вячеслав проживал в Беднодемьяновске, работал слесарем на дизельном заводе, дочь Татьяна получила высшее образование - инженер по холодному металлу, а сын Леонид пошел по стопам родителей - выбрал педагогическую сферу деятельности.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Несмотря на свой почтенный возраст и здоровье, Мария Семёновна радушно принимала у себя гостей - волонтеров. Она вспоминала о тех страшных днях войны, и охотно делилась своими воспоминаниями с ребятами, а когда здоровье позволяло, она была частым гостем и в учебных заведениях, и в общественных организациях, и солисткой хора ветеранов. </span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">В 2012 году Марии Семеновны не стало.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-size: 14pt;"><strong style="font-family: 'times new roman', times;">Заключение.</strong></span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">Я проживаю в Спасске сравнительно недавно &ndash; всего четыре года. Но и когда еще жила в Рузаевке, часто приезжала к прабабушке на каникулы. Я очень любила слушать ее рассказы о войне, о молодости. Ведь Мария Семеновна - замечательный рассказчик. Долгими семейными вечерами мы вместе с мамой сидели на диване и слушали бабушку. Я часто делилась услышанным от нее в школе, и мои одноклассники с интересом воспринимали эту информацию. И тогда я решила записать и представить материал в школьный музей. А когда об этом узнали члены Клуба Ветеранов, то попросили предоставить экземпляр для них. Историю делали простые люди, такие как наши бабушка и дедушка. Я не хочу быть &laquo;Иваном родства не помнящим&raquo;. В дальнейшем надеюсь собрать материал и о своем прадедушке.</span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY">&nbsp;</p>
+<p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-size: 14pt;"><strong style="font-family: 'times new roman', times;">Литература</strong></span></p>
+<ol style="text-align: justify;">
+<li>
+<p class="western" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;">В работе использованы материалы из личного архива Кий Марии Семеновны</span></p>
+</li>
+</ol>
+<p class="western" style="text-align: justify;" align="JUSTIFY">&nbsp;</p>
+<p class="western" style="text-align: center;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;"><strong>&nbsp;Странички из фотоальбома.</strong></span></p>
+<p class="western" style="text-align: center;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;"><strong><a class="data-lightbox" title="hist-family1" href="../data/textimages/spassk/hist-family1.jpg" rel="lightbox"><img src="../data/textimages/spassk/.thumbs/d662368c608303911fee36d65e4b32c1_450_400_0.jpg" alt="hist-family1" width="284" height="400" /></a><a title="hist-family1" href="../data/textfiles/hist-family1.jpg"> <br /></a></strong></span></p>
+<p class="western" style="text-align: center;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;"><strong><a class="data-lightbox" title="hist-family2" href="../data/textimages/spassk/hist-family2.jpg" rel="lightbox"><img src="../data/textimages/spassk/.thumbs/85eb17d3b9a0132fc9b280d66cdc6fda_450_400_0.jpg" alt="hist-family2" width="450" height="286" /></a> </strong></span></p>
+<p class="western" style="text-align: center;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;"><strong><a class="data-lightbox" title="hist-family3" href="../data/textimages/spassk/hist-family3.jpg" rel="lightbox"><img src="../data/textimages/spassk/.thumbs/9fa0f1670f42dc5e9abab188479deb38_450_400_0.jpg" alt="hist-family3" width="290" height="400" /></a> </strong></span></p>
+<p class="western" style="text-align: center;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;"><strong><a class="data-lightbox" title="hist-family4" href="../data/textimages/spassk/hist-family4.jpg" rel="lightbox"><img src="../data/textimages/spassk/.thumbs/52e6c13c54c63fee946a76fdc0083220_450_400_0.jpg" alt="hist-family4" width="292" height="400" /></a> </strong></span></p>
+<p class="western" style="text-align: center;" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;"><strong><img src="../data/textimages/spassk/hist-family5.jpg" alt="hist-family5" width="448" height="336" /> </strong></span></p>
+<p class="western" align="JUSTIFY"><span style="font-family: 'times new roman', times; font-size: 14pt;"><strong><a class="data-lightbox" title="hist-family6" href="../data/textimages/spassk/hist-family6.jpg" rel="lightbox"><img style="display: block; margin-left: auto; margin-right: auto;" src="../data/textimages/spassk/.thumbs/a90df13c3ff15dd21212bf879be55196_450_400_0.jpg" alt="hist-family6" width="450" height="327" /></a> </strong></span></p>
+<p class="western" style="text-align: justify;" align="JUSTIFY">&nbsp;</p><br>Раздел: <a href=/6.html><span class="letter2">И</span>стория Пензенского края</a><br>Дата публикации: 04.01.2014 19:11:51 <center> <a style="color: #808000; text-decoration: none;" ><b>1</b></a> <br> </center><br> 
+Подписывайтесь на наш <a href="https://t.me/historyarchnews" target="_blank">телеграм-канал</a>
+<br>
+Вступайте в нашу группу в <a href="https://vk.com/istorik_archeolog" target="_blank">Вконтакте</a>
+<br><br><b>Другие социальные сети:</b><br>
+<a href="https://vk.com/istorik_archeolog" target="_blank"><img src="../images/vk.jpg" alt="ВК" ></a>
+<a href="https://twitter.com/istoricheski" target="_blank"><img src="../images/twitter.jpg" alt="Твиттер" ></a>
+<a href="https://t.me/historyarchnews" target="_blank"><img src="../images/telegram.jpg" alt="Телеграм" ></a>
+<a href="https://yandex.ru/q/loves/history/" target="_blank"><img src="../images/q.jpg" alt="Я.Кью" ></a>
+<a href="https://zen.yandex.ru/dorogami_tisyacheletiy" target="_blank"><img src="../images/dzen.jpg" alt="Я.Дзен" ></a>
+<a href="https://www.facebook.com/istoricheski" target="_blank"><img src="../images/fb.jpg" alt="Фейсбук" ></a>
+<a href="https://www.instagram.com/istfil.ru/" target="_blank"><img src="../images/ig.jpg" alt="Инстаграм" ></a><br>
+<br>
+
+
+<br>
+<!-- Yandex.RTB R-A-141379-7 -->
+<div id="yandex_rtb_R-A-141379-7"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-7',
+    blockId: 'R-A-141379-7'
+  })
+})</script>
+<br>
+
+<b>Поделиться материалом в социальных сетях:</b>
+<div class="share42init"></div>
+
+<br>
+<center>
+<br>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="3861370147"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
+
+<script>
+    (yaads = window.yaads || []).push({
+        id: "141379-4",
+        render: "#id-141379-4"
+    });
+</script>
+<div id="id-141379-4"></div> 
+  <br>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="9313007376"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
+<b><span class="letter2">В</span>ас могут заинтересовать другие материалы из данного раздела: </b><br>
+<div class="grid">
+<article>
+<figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Мозжухин Иван Ильич – Король экрана</h2>
+                            <p>Научная работа «И.И. Мозжухин – король экрана» является попыткой систематизации информации о жизни и творчестве величайшего актера. Цель научной работы: привлечение внимания молодежи к личности великого земляка и значению его творчества в истории мирового искусства..</p>
+                            <a href='https://исторический-сайт.рф/Мозжухин-Иван-Ильич-Король-экрана-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Между прошлым и будущим:  из истории семьи Плотниковых</h2>
+                            <p>Я родилась и выросла в самой обыкновенной семье. Папа мой – автомеханик, мама –  гальваник фотопечати. Очень часто слышала я от них рассказы о далеком  прошлом моих близких. Некоторые истории казались настолько интересными, что мне давно хотелось записать их, познакомить с ними друзей. Поэтому возможность провести глубокое исследование, посвященное моей семье, захватило меня целиком. Правда, это оказалось непросто: забыты многие даты, путается хронология событий… Сохранилось главное. Увлеченная сбором фактов, я не сразу это поняла… Дело в том, что меня в семейных преданиях интересовала совсем не точность информации. Слушая повествования о жизни моих бабушек и дедушек, прабабушек и прадедушек, я словно бы переносилась совсем в другую эпоху, в другой мир, даже в другую страну. Вот этот дух времени я и постаралась передать в своей работе. То, как отразилась жизнь страны в судьбах моих близких. .</p>
+                            <a href='https://исторический-сайт.рф/Между-прошлым-и-будущим-из-истории-семьи-Плотниковых-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>История повседневности эпохи  Великой Отечественной войны в исторической памяти народа</h2>
+                            <p>История повседневности эпохи  Великой Отечественной войны в исторической памяти народа:  особенности источниковедческого анализа. На основе записанных на видео воспоминаний Ольховой Марии Ивановны.</p>
+                            <a href='https://исторический-сайт.рф/История-повседневности-эпохи-ВОВ-в-исторической-памяти-народа-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Народное просвещение в Нижнеломовском уезде в 19-20 веках</h2>
+                            <p>Нужно ли нам знать историю своего города? Лично я считаю, что, безусловно, нужно, ибо знание родного края воспитывает патриотизм! Если ты образованный человек, то тебе просто необходимо знать историю своего родного края. Кто-то из великих сказал: «без прошлого нет будущего». И был прав. Знать историю родного края - это показатель культуры и образованности человека..</p>
+                            <a href='https://исторический-сайт.рф/Народное-просвещение-в-Нижнеломовском-уезде-в-19-20-веках-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Родина</h2>
+                            <p>Эссе на тему Родина. .</p>
+                            <a href='https://исторический-сайт.рф/Родина-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>История создания первой публичной библиотеки в городе Пензе.</h2>
+                            <p>История развития библиотек в регионах составляет  отдельный, уникальный пласт российской провинциальной культуры, активное  освоение которого начинается только сейчас.  С одной стороны,  оно диктуется внутренним развитием библиотековедения как науки, совершенствованием ее теоретико-методологического аппарата.  С другой стороны, привлечение наследия регионов  ускорит восстановление полноценной истории российских библиотек в целом  и, безусловно, будет способствовать решению задач, стоящих перед библиотечной наукой и практикой на современном этапе..</p>
+                            <a href='https://исторический-сайт.рф/История-создания-первой-публичной-библиотеки-в-городе-Пензе-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Село Прянзерки. Жители села в годы Великой Отечественной войны</h2>
+                            <p>Мы, современные люди, мало знаем о родном селе, не знакомы с его прошлым, мало интересуемся настоящим. Каждый человек должен знать  историю  своей родины, любить её, ведь родина начинается  с «порога»  отчего дома.  Любить  Родину -  значит жить с ней одной жизнью..</p>
+                            <a href='https://исторический-сайт.рф/Село-Прянзерки-Жители-села-в-годы-Великой-Отечественной-войны-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Изучение краеведения в школах г. Кузнецка</h2>
+                            <p>Важной задачей исторического краеведения является фиксация и охрана памятников этнографии и искусства, это почти невыполнимо без привлечения широких масс историков - краеведов..</p>
+                            <a href='https://исторический-сайт.рф/Изучение-краеведения-в-школах-Кузнецка-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Методы работы Пензенского полицейского сыска (по материалам отдельных дел)</h2>
+                            <p>Несколько дел из повседневной практики сыскной полиции/Методы работы Пензенского полицейского сыска (по материалам отдельных дел).</p>
+                            <a href='https://исторический-сайт.рф/Методы-работы-Пензенского-полицеского-сыска-по-материалам-отдельных-дел-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Силен тот род, который своих предков помнит и бережет!</h2>
+                            <p>А сегодня мы можем сказать, кем были наши предки? Чем занимались? Сегодня, как ни печально это отметить, многие люди утратили родовые корни и не знают даже имен прабабушек и прадедушек, хотя миллионы из них могли бы гордиться своими предками, трудом которых создано богатство Родины..</p>
+                            <a href='https://исторический-сайт.рф/Силен-тот-род-который-своих-предков-помнит-и-бережет-1.html'>Читать</a>
+                        </figcaption> </figure></article>
+</div>
+</span>
+</center>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="3459235498"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div class="right_col">
+<br><b><span class="letter2">И</span>скать на сайте:</b>
+<form action="https://www.google.ru/cse" id="cse-search-box" target="_blank">
+    <input type="hidden" name="cx" value="partner-pub-4644943942061688:0428779279" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" class="input-block-level" name="q" size="20" />
+    <input type="submit" name="sa" value="&#x041f;&#x043e;&#x0438;&#x0441;&#x043a;" />
+</form>
+  <script src="./vendor/jquery-2.0.3.min.js"></script>
+  <script async src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="./js/ajax-form.js"></script>
+ <!-- /вход-регистрация -->  
+<br><center><script language="javascript">
+<!--
+var h=(new Date()).getHours();
+if (h > 22 || h < 7) document.write('Доброй ночи,');
+if (h > 6 && h < 12) document.write('Доброе утро,'); 
+if (h > 11 && h < 19) document.write('Добрый день,'); 
+if (h > 18 && h < 23) document. write('Добрый вечер,'); 
+//-->
+</script >
+<script>
+$(document).ready(function() {
+    // Добавляем новую запись, когда произошел клик по кнопке
+    $("#FormSubmit").click(function (e) {
+        e.preventDefault();
+        if($("#contentText").val()==="") //simple validation
+        {
+            alert("Введите текст!");
+            return false;
+        }
+
+        var myData = "content_txt="+ $("#contentText").val(); //post variables
+
+        jQuery.ajax({
+            type: "POST", // HTTP метод  POST или GET
+            url: "./includes/response_stik.php", //url-адрес, по которому будет отправлен запрос
+            dataType:"text", // Тип данных,  которые пришлет сервер в ответ на запрос ,например, HTML, json
+            data:myData, //данные, которые будут отправлены на сервер (post переменные)
+            success:function(response){
+            $("#responds").append(response);
+            $("#contentText").val(''); //очищаем текстовое поле после успешной вставки
+            },
+            error:function (xhr, ajaxOptions, thrownError){
+                alert(thrownError); //выводим ошибку
+            }
+        });
+    });
+
+    //Удаляем запись при клике по крестику
+    $("body").on("click", "#responds .del_button", function(e) {
+        e.preventDefault();
+        var clickedID = this.id.split("-"); //Разбиваем строку (Split работает аналогично PHP explode)
+        var DbNumberID = clickedID[1]; //и получаем номер из массива
+        var myData = 'recordToDelete='+ DbNumberID; //выстраиваем  данные для POST
+
+        jQuery.ajax({
+            type: "POST", // HTTP метод  POST или GET
+            url: "./includes/response_stik.php", //url-адрес, по которому будет отправлен запрос
+            dataType:"text", // Тип данных
+            data:myData, //post переменные
+            success:function(response){
+            // в случае успеха, скрываем, выбранный пользователем для удаления, элемент
+            $('#item_'+DbNumberID).fadeOut("slow");
+            },
+            error:function (xhr, ajaxOptions, thrownError){
+                //выводим ошибку
+                alert(thrownError);
+            }
+        });
+    });
+});
+</script>
+Гость      <form class="form-signin ajax" method="post" action="../includes/ajax.php">
+        Пожалуйста, авторизуйтесь
+        <input name="username" type="text" class="input-block-level" placeholder="Логин" autofocus maxlength="15">
+        <input name="password" type="password" class="input-block-level" placeholder="Пароль" maxlength="15">
+        <label class="checkbox">
+          <input name="remember-me" type="checkbox" value="remember-me" checked> Запомнить
+        </label>
+        <input type="hidden" name="act" value="login">
+<input type="hidden" class="hidefield" id="user" name="user">
+<input type="hidden" class="hidefield" id="site" name="site" value="http://" >
+<input id="check" name="check" type="hidden" value="" />
+<input name="email" id="email2" class = "nonuserfield "maxlength="50" type="text" autocomplete="off" placeholder="Введите E-Mail *">
+        <button class="btn btn-normal btn-block" type="submit" onclick="document.getElementById('check').value = 'secretcode';">Войти</button>
+<font color=red><div class="main-error alert alert-error hide"></div></font>
+            <p>Нет аккаунта? <a href="../Регистрация.html">Регистрация.</a></p>
+      </form>
+       </center>
+<br>
+  <a href="javascript:void(0)" onclick="PressLink()">Заметили ошибку? Выделите её и нажмите ctrl+enter</a>
+
+    
+<!-- Yandex.RTB R-A-141379-2 -->
+<div id="yandex_rtb_R-A-141379-2"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-2',
+    blockId: 'R-A-141379-2'
+  })
+})</script>
+ </div>
+<div class="footer"><br><br><br>
+<span style="font-size:small;">
+<p align="center">
+Все права принадлежат авторам выкладываемых работ. Материалы сайта разрешено копировать с согласия автора работы, с обязательным указанием автора материала и прямой ссылкой на текст копируемого материала. На сайте используются файлы куки (cookie) для организации работы сайта. Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie, пользовательских данных.  Если Вы не хотите, чтобы ваши данные обрабатывались, произведите соответствующие настройки в браузере, либо воздержитесь от посещения сайта. Ознакомтесь с <a href="../Политика-конфиденциальности.html">политикой конфиденциальности</a> нашего сайта.
+</p><p align="center">
+Исторический-сайт.рф © 2011 - 2022.</font><center></span>
+<br>
+
+</center>
+</p>
+</div>
+</div>
+<script src="../vendor/jquery-2.0.3.min.js" ></script>
+<script type="text/javascript" src="../share42/share42/share42.js"></script>
+<script async src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+<script async type="text/javascript" src="../js/mistakes.js"></script>
+<script src="../lightbox/js/lightbox-2.6.min.js"></script>
+<script>
+	// назад
+		var bottom_position = 0; 
+		var flag_bottom = false;
+		var flag_animate = false;
+		
+		$(document).ready(function(){
+			$(".in_top").click(function(){
+				flag_animate = true;
+				if(flag_bottom){
+					$("body,html").animate({"scrollTop":bottom_position}, 300, function(){ 
+						flag_animate = false;
+					});
+						flag_bottom = false;
+					$(".in_top span").html("↑ Наверх ↑");
+				}else{
+						$("body,html").animate({"scrollTop":0}, 300, function(){ 
+						flag_animate = false;
+					});		
+					bottom_position = $(window).scrollTop();
+					flag_bottom = true;
+					$(".in_top span").html("↓ Назад ");
+				}
+			});
+		 
+				$(window).scroll(function(event){
+				var countScroll = $(window).scrollTop();
+							if (countScroll > 100 && !flag_animate){
+					$(".in_top").show();
+					if(flag_bottom){
+						flag_bottom = false;
+						$(".in_top span").html("↑ Наверх ↑");
+					}
+							}else{
+					if(!flag_bottom){
+						$(".in_top").hide();
+					}
+				}
+			});
+		});
+	</script> 
+	<script>
+$("#navToggle").click(function() {
+    $(this).toggleClass("active");
+    $(".overlay").toggleClass("open");
+    // this line ▼ prevents content scroll-behind
+    $("body").toggleClass("locked");
+});
+$('.overlay').click(function() {
+    $(this).removeClass('open');
+    $('.navBurger').removeClass('active');
+});
+</script>
+
+<script>
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 100) {
+            if ($('#upbutton').is(':hidden')) {
+                $('#upbutton').css({opacity : 1}).fadeIn('slow');
+            }
+        } else { $('#upbutton').stop(true, false).fadeOut('fast'); }
+    });
+    $('#upbutton').click(function() {
+        $('html, body').stop().animate({scrollTop : 0}, 300);
+    });
+</script>
+<style>
+  #upbutton {
+    background: url("/images/up.png") no-repeat top left;
+    height: 60px;
+    width: 60px;
+    bottom: 30px;
+    right: 30px;
+    cursor: pointer;
+    display: none;
+    position: fixed;
+    z-index: 999;
+  }
+</style>
+
+<script async src="https://an.yandex.ru/system/widget.js"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173238613-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-173238613-1');
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(65788204, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/65788204" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>
+ 
+ 
+ 
