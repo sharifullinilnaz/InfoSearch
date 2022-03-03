@@ -1,0 +1,519 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/css/style.css">
+	<link rel="icon" href="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/favicon.ico"  type="image/x-icon">
+	<link rel="preconnect" href="https://mc.yandex.ru/">
+	<link rel="stylesheet" href="../css/style.css">
+    <link href="../css/mistakes.css" rel="stylesheet" type="text/css" />
+	<link href="../lightbox/css/lightbox.css" rel="stylesheet" />
+
+<link rel="canonical" href="https://исторический-сайт.рф/Турецкие-военнопленные-в-обороне-Керенска-в-1774-1.html" />
+	<title>Турецкие военнопленные в обороне г. Керенска в 1774 г.-1</title>
+	<meta name="description" content="Вопрос об участии турецких военнопленных в обороне г. Керенска Воронежской губернии (ныне с. Вадинск Пензенской обл.) в период Крестьянской войны под предводительством Е.И. Пугачева 1773–1775 гг., по существу, никогда не привлекал к себе внимания историков, в т.ч. и краеведов.-Страница 1">
+	<meta name="keywords" content=" Турецкие военнопленные, Керенск, Пугачевщина" > 
+<meta property="og:title" content="Турецкие военнопленные в обороне г. Керенска в 1774 г."/>
+<meta property="og:description" content="Вопрос об участии турецких военнопленных в обороне г. Керенска Воронежской губернии (ныне с. Вадинск Пензенской обл.) в период Крестьянской войны под предводительством Е.И. Пугачева 1773–1775 гг., по существу, никогда не привлекал к себе внимания историков, в т.ч. и краеведов."/>
+<meta property="og:image" content="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/images/logo4.jpg"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content= "https://исторический-сайт.рф/Турецкие-военнопленные-в-обороне-Керенска-в-1774-1.html" />
+
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+</head>
+
+<body>
+	<div class="in_top">
+		<span>↑ Наверх ↑</span>
+	</div>
+
+<div id="block">
+<div class="header">&nbsp&nbsp&nbsp&nbsp
+<a href="../"><img src="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/images/img_03.jpg" alt="Исторический сайт" ></a>
+<div id="css-menu">
+<br>
+<ul>
+<span class="letter3">
+<marquee  scrollamount="2" direction="left" 
+ height="40" width="100%" ><p>"Величайшее недоразумение - это вдаваться в мораль, когда дело касается исторических фактов" Дени Дидро </p></marquee> 
+</span>
+<br>
+<li><a href="../">
+<span class="text-top">Главная</span>
+<span class="text-bottom">О нашем проекте</span>
+</a></li>
+<li><a href="../4.html">
+<span class="text-top">Разделы</span>
+<span class="text-bottom">Статьи</span>
+</a></li>
+<li><a href="../Конкурс-1.html">
+<span class="text-top">Конкурс</span>
+<span class="text-bottom">Работ по истории</span>
+</a></li>
+<li><a href="../Вопрос-ответ.html">
+<span class="text-top">Помощь</span>
+<span class="text-bottom">Вопрос-ответ</span>
+</a></li>
+<li><a href="../Генератор-тестов.html">
+<span class="text-top">Тесты</span>
+<span class="text-bottom">Создать тест</span>
+</a></li>
+<li><a href="../Опубликовать-статью.html">
+<span class="text-top">Опубликовать</span>
+<span class="text-bottom">Отправить статью</span>
+</a></li>
+<li><a href="../Новое.html">
+<span class="text-top">Новое</span>
+<span class="text-bottom">Новые статьи</span>
+</a></li>
+<li><a href="../Войти.html">
+<span class="text-top">Войти</span>
+<span class="text-bottom">В свой аккаунт</span>
+</a></li>
+<li><a href="https://vk.com/istorik_archeolog" target="_blank"><img src="../images/vk.jpg" alt="ВК" ></a></li>
+<li><a href="https://twitter.com/istoricheski" target="_blank"><img src="../images/twitter.jpg" alt="Твиттер" ></a></li>
+<li><a href="https://t.me/historyarchnews" target="_blank"><img src="../images/telegram.jpg" alt="Телеграмм" ></a></li>
+<li><a href="https://yandex.ru/q/loves/history/" target="_blank"><img src="../images/q.jpg" alt="Я.Кью" ></a></li>
+<li><a href="https://zen.yandex.ru/dorogami_tisyacheletiy" target="_blank"><img src="../images/dzen.jpg" alt="Я.Дзен" ></a></li>
+</ul>
+</ul>
+</div>
+</div>
+
+<div class="left_col">
+<p><span style="font-size:small;">
+<strong>
+    <a href='https://исторический-сайт.рф/33.html'>
+    <span class="letter">Н</span>овости истории</a></strong><br><strong>
+    <a href='https://исторический-сайт.рф/4.html'>
+    <span class="letter">С</span>татьи и заметки</a></strong><br>&nbsp;<a href='https://исторический-сайт.рф/14.html'>
+         - <span class="letter2">А</span>рхеология</a><br>&nbsp;<a href='https://исторический-сайт.рф/3.html'>
+         - <span class="letter2">В</span>сеобщая история</a><br>&nbsp;<a href='https://исторический-сайт.рф/13.html'>
+         - <span class="letter2">И</span>сторическая поэзия и проза</a><br>&nbsp;<a href='https://исторический-сайт.рф/6.html'>
+         - <span class="letter2">И</span>стория Пензенского края</a><br>&nbsp;<a href='https://исторический-сайт.рф/5.html'>
+         - <span class="letter2">И</span>стория России</a><br>&nbsp;<a href='https://исторический-сайт.рф/8.html'>
+         - <span class="letter2">П</span>олезные и интересные сайты</a><br>&nbsp;<a href='https://исторический-сайт.рф/7.html'>
+         - <span class="letter2">Р</span>азное</a><br>&nbsp;<a href='https://исторический-сайт.рф/19.html'>
+         - <span class="letter2">Т</span>есты по истории</a><br>&nbsp;<a href='https://исторический-сайт.рф/32.html'>
+         - <span class="letter2">Ш</span>паргалка</a><br><a href="/Конкурс-1.html"  name='Конкурс'><b><span class="letter">К</span>онкурс работ</b></a><br>
+<a href="/Генератор-тестов.html"  name='Генератор тестов'><b><span class="letter">С</span>оздать тест</b></a><br>
+<a href="/Отправить-статью.html"  name='Авторам'><b><span class="letter">А</span>вторам</b></a><br>
+<a href="/Друзья.html"  name='Ссылки'><b><span class="letter">Д</span>рузья сайта</b></a><br>
+<a href="/Вопрос-ответ.html"  name='чаВО'><b><span class="letter">В</span>опрос-ответ</b></a><br>
+<a href="/О-проекте.html"><b><span class="letter">О</span> проекте</b></a><br>
+<a href="/Контакты.html"><b><span class="letter">К</span>онтакты</b></a><br>
+</span></p>
+
+
+
+
+<p align= "center">
+<b><span class="letter2">Н</span>овые статьи:</b></p>
+<font size="2">
+  <a href='https://исторический-сайт.рф/gramota--1.html'>В Новгороде нашли первую «зимнюю» грамоту</a><br>........................<br>  <a href='https://исторический-сайт.рф/proval-1.html'>Названо самое провальное оружие Второй мировой войны</a><br>........................<br>  <a href='https://исторический-сайт.рф/asteroid-1.html'>Ученые подтвердили гибель динозавров от астероида</a><br>........................<br>  <a href='https://исторический-сайт.рф/pskov-1.html'>В Пскове под кинотеатром нашли древнюю церковь</a><br>........................<br>  <a href='https://исторический-сайт.рф/bacteria-1.html'>Красная Армия помешала Японии применить биологическое оружие</a><br>........................<br></font>
+
+<!-- Слева2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="7863885467"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+<div class="center_col">
+     
+   
+<!-- Yandex.RTB R-A-141379-6 -->
+<div id="yandex_rtb_R-A-141379-6" style="min-height:240px"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-6',
+    blockId: 'R-A-141379-6'
+  })
+})</script>
+    <br>
+ 
+<center><h1 style="font-size:20px"><b>Турецкие военнопленные в обороне г. Керенска в 1774 г.</b></h1>(Статья)</center>Раздел: <a href=/6.html><span class="letter2">И</span>стория Пензенского края</a><br>Автор: <a href ="/Автор-Познахирев Виталий Витальевич">Познахирев Виталий Витальевич</a><br><br><p style="text-align: justify;">&nbsp;</p>
+<p><span style="font-size: 14pt;"><!-- 		@page { size: 21cm 29.7cm; margin: 2cm } 		P { margin-bottom: 0.21cm } --></span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-size: 14pt; font-family: 'times new roman', times;">Вопрос об участии турецких военнопленных в обороне г. Керенска Воронежской губернии (ныне с. Вадинск Пензенской обл.) в период Крестьянской войны под предводительством Е.И.&nbsp;Пугачева 1773&ndash;1775 гг., по существу, никогда не привлекал к себе внимания историков, в т.ч. и краеведов. О турках лишь вскользь упомянули в своих трудах Н.Ф.&nbsp;Дубровин и С.И.&nbsp;Тхоржевский, а И.Ф.&nbsp;Кузьмин и Г.П.&nbsp;Петерсон вообще обошли данный вопрос молчанием&nbsp;[1].</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-size: 14pt; font-family: 'times new roman', times;">Правда, отдельные эпизоды рассматриваемого события освещены в ряде иных источников: донесениях Керенской воеводской канцелярии, переписке Екатерины&nbsp;II с графом П.И.&nbsp;Паниным, &laquo;Записках&raquo; П.С.&nbsp;Рунича и др.&nbsp;[2], которые в совокупности позволяют воссоздать достаточно цельную картину обороны города. В то же время место и роль в этом событии именно пленных турок, а также мотивы, которыми пленные могли руководствоваться, и меры их поощрения изложены в указанных документах фрагментарно и противоречиво.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">Так, остается не вполне понятным, на каком именно этапе турки влились в ряды защитников Керенска. Как известно, попытки взять город предпринимались пугачевцами трижды, с небольшими интервалами (8, 9 и 17&nbsp;августа). То, что последний приступ отражался при участии пленных, подтверждается, в частности, донесением Керенской воеводской канцелярии Воронежскому губернатору от 17 августа 1774 г.&nbsp;[3]. Гораздо меньше ясности наблюдается в отношении двух предыдущих штурмов. Так, капитан Петр Бутремович, находившийся в те дни в Шацкой провинции, в своем рапорте Воронежскому губернатору о событиях 9 августа указал буквально следующее: &laquo;чем кончился керенский пожар, - неизвестен; однако слышал, что Керенск, с помощью пленных турок от злодея защитился&raquo;&nbsp;[4]. Принимая во внимание тот факт, что пожар в Керенске возникал в рассматриваемый период лишь единожды, и именно 9 августа, слова капитана следует понимать в том смысле, что в этот день турки уже принимали участие в обороне города, причем участие довольно активное. </span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">С другой стороны, пространное донесение Керенской воеводской канцелярии в Правительствующий сенат от 12 августа 1774 г., с детальным описанием событий 8 и 9 августа, не содержит вообще никаких упоминаний о турках [5]. Кроме того, из рассказа одного из защитников Керенска, приведенного в &laquo;Записках&raquo; П.С.&nbsp;Рунича, нельзя не сделать вывод, что в ночь на 17 августа турки (в количестве около 30 чел.) были привлечены к обороне города <em>впервые </em>[6]. </span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-size: 14pt; font-family: 'times new roman', times;">В этой связи мы склонны полагать, что в отражении первых двух штурмов пленные участия не принимали. В рапорте же Петра Бутремовича вполне могли отразиться и более поздние события, т.е., относящиеся к 17 августа. (Это выглядит особенно вероятным с учетом того обстоятельства, что указанный рапорт не имеет даты).</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-size: 14pt; font-family: 'times new roman', times;">Что касается роли турок в обороне Керенска, то, судя по упомянутому выше рассказу одного из защитников города, приведенному в &laquo;Записках&raquo; П.С.&nbsp;Рунича, роль их трудно назвать иначе, как &laquo;ключевой&raquo; (и это, кстати, заставляет по-новому взглянуть на тот факт, что Керенск оказался единственным населенным пунктом Пензенского края, &laquo;не покорившимся злодею&raquo;). Действительно, при ночной вылазке и нападении на лагерь осаждающих, в котором по разным оценкам насчитывалось от 5 до 10 тыс. чел., турки составили основу одного из двух ударных отрядов. В результате пугачевцы бежали &laquo;кто куда мог, а конные турки, гнав бежавших, рубили, кололи и брали в полон&raquo;&nbsp;[7].</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-size: 14pt; font-family: 'times new roman', times;">За исключением данных о количестве осаждающих, которые, возможно, преувеличены, представленная картина не кажется нам фантастической. Сам факт того, что 17 августа оборона Керенска носила активный характер, подтверждается донесением воеводской канцелярии Воронежскому губернатору, согласно которому в тот день &laquo;из злодеев убито до тридцати, да переловлено несколько человек и отбито 8 небольших пушек, от чего злодеи бежав и грабленные пожитки, платье, оловянную посуду и прочее оставить принуждены&raquo; [8]. Не вызывает сомнений и возможность производства турками атаки именно в конном строю. В ряде исследований отмечается, что в структуре османской армии периода русско-турецкой войны 1768&ndash;1774 гг. наблюдался явный избыток кавалерии, при недостатке пехоты [9]. А это означает, что доля кавалеристов среди пленных была если не доминирующей, то значительной.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-size: 14pt; font-family: 'times new roman', times;">При определении мотивов, которыми руководствовались турки, вмешиваясь в &laquo;русскую смуту&raquo;, приходится брать в качестве рабочей гипотезы все тот же рассказ одного из защитников Керенска, приведенный в &laquo;Записках&raquo; П.С.&nbsp;Рунича. Согласно последнему, воеводский товарищ Иван Перской (Персков) &laquo;уговорил на сие дело турок&raquo;, заверив их в том, &laquo;что если поможет ему Бог разбить неприятеля, то они, турки, будут из полону выпущены&raquo; [10].</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-size: 14pt; font-family: 'times new roman', times;">Если этот рассказ соответствует действительности, то воеводский товарищ, мягко говоря, немного слукавил, т.к. согласно существующему порядку, пленный мог быть &laquo;из полону выпущен&raquo; не иначе, как на основании высочайшего указа. Впрочем, Иван Перской мог быть и почти искренен, ибо незадолго до этого, 10 июля 1774 г., Россия и Турция заключили Кючук-Кайнарджийский мирный договор, и воеводский товарищ, не будучи искушенным в процедурах реализации международных соглашений, мог вполне полагать, что репатриация турок вот-вот последует (в действительности же она началась лишь в марте-апреле 1775 г.).</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-size: 14pt; font-family: 'times new roman', times;">Однако, как бы то ни было, сказанное вплотную подводит нас к последнему вопросу: в чем состояло поощрение турок за столь существенную услугу, оказанную ими законной российской власти? Как утверждает П.С.&nbsp;Рунич, &laquo;туркам каждому выдано 100 руб., освобождены они все из плена и до границы сопровождены на казенный счет&raquo; [11].</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-size: 14pt; font-family: 'times new roman', times;">К сожалению, эта мысль была некритически заимствована некоторыми современными историками и, в частности, И.А.&nbsp;Заичкиным и И.Н.&nbsp;Почкаевым [12]. Между тем, она вызывает обоснованные сомнения. Так, что касается (досрочного) освобождения турок из плена, то никаких данных на этот счет нами не выявлено. Да и сама возможность подобного освобождения видится маловероятной. Для сравнения заметим, что пленные турецкие моряки, воевавшие на стороне России в период русско-шведской войны 1788&ndash;1790 гг., т.е., имевшие заслуги никак не меньше защитников Керенска, были возвращены на родину не ранее ратификации Ясского мирного договора 1791&nbsp;г. и на основании высочайшего указа, подписанного всего за 2 недели до подписания акта об общей репатриации [13].</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-size: 14pt; font-family: 'times new roman', times;">Названный П.С.&nbsp;Руничем размер денежного вознаграждения для турок убедительно опровергается письмом графа П.И.&nbsp;Панина Екатерине&nbsp;II из Керенска от 6 сентября 1774 г., в котором тот сообщает, что &laquo;взял смелость высочайшим Вашего Императорского Величества именем&hellip; слугам барским и туркам велеть выдать в награждение по одному рублю&raquo;. Правда, в ответном письме императрица сочла такую меру поощрения турок недостаточной. Но ни о каких деньгах она речи не вела, а лишь дала графу своего рода совет: &laquo;пленным туркам, кои за нас стояли, прикажите дать по кармозинному кафтану если сукно найдете&raquo; [14].</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">Что же касается репатриации &laquo;на казенный счет&raquo;, то либо это заявление есть следствие какого-то недоразумения, либо автор &laquo;Записок&raquo; даже на склоне лет искренне полагал, что военнопленный обычно возвращается на родину <em>за свой счет</em>, что для офицера в чине майора (каковым являлся П.С.&nbsp;Рунич), прошедшего к тому же через две войны, выглядит, скажем так, несколько странно.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-size: 14pt; font-family: 'times new roman', times;">К сказанному нельзя не добавить, что в высочайшем Манифесте к жителям Керенска от 29 октября 1774 г. императрица объявила &laquo;благоволение, милость и похвалу&raquo; всем отличившимся, выделила их ключевые заслуги (&laquo;город от разорения, и в нем денежную казну, так же казенную соль сохранили, а паче граждан спасли&raquo;) и перечислила основные категории защитников города (канцелярские служители, штатная команда и т.д.). Однако турки в числе последних уже не фигурировали [15].</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">Примечания:</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">[1]. Кузьмин И.Ф. Пензенская губерния. Уч. пособ. 2-е перераб. изд. Пенза: Паровая типолитограф. В.Н.&nbsp;Умнова, 1902; Петерсон Г.П. Исторический очерк Керенского края. Пенза: Губ. типогр., 1882; Дубровин Н.Ф. Пугачев и его сообщники. Эпизод из истории царствования Императрицы Екатерины II. 1773&ndash;1774 гг. Том III. СПб.: Тип. И.Н.Скороходова, 1884. С. 171&ndash;172, 299&ndash;300; Тхоржевский С.И. Пугачевщина в помещичьей России: восстание на правой стороне Волги в июне-октябре 1774 года. М.: Издат-во всесоюзного общества политкаторжан и сс-поселенцев, 1930. С. 74 &ndash; 75.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">[2]. Записки сенатора Павла Степановича Рунича о Пугачевской бунте, 1774 г. // Русская старина. 1870. Т. II. Изд. 1 и 2. С. 116&ndash;131, 211&ndash;253, 321&ndash;372; Бумаги графа Петра Ивановича Панина о Пугачевском бунте // Сборник Императорского русского исторического общества. Т. 6. СПб.: Типогр. Академии наук, 1871; Пугачевщина. В 3 т. Т. 3. Из архива Пугачева // Материалы по истории революционного движения в России. Подгот. к печати С.А.&nbsp;Голубцовым. М.&ndash;Л.: Госуд. соц. экон. изд-во, 1931 и др.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">[3]. Российский государственный архив древних актов (РГАДА). Ф. 6. Оп. 1. Д. 490. Ч. 1. Л.&nbsp;258.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">[4]. Пугачевщина&hellip; С. 108.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">[5]. Там же. С. 116&ndash;130.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">[6]. Записки сенатора Павла Степановича Рунича&hellip; С. 234.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">[7]. Там же.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">[8]. РГАДА. Ф. 6. Оп. 1. Д. 490. Ч. 1. Л.&nbsp;258.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">[9]. См., например: Бескровный Л.Г. Русская армия и флот в XVIII веке. М.: Воениздат, 1958. С. 464.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">[10]. Записки сенатора Павла Степановича Рунича&hellip; &ndash; Примечание 30. С. 234.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">[11]. Там же. С. 235.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;"><span lang="en-US">[</span>12<span lang="en-US">]</span>. Заичкин И.А., Почкаев И.Н. Русская история от Екатерины Великой до Александра II. М.: Мысль, 1994. С. 60&ndash;61.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">[13]. Российский государственный исторический архив (РГИА). Ф. 468. Оп. 1. Д.&nbsp;3907. Л. 36; Полное собрание законов Российской Империи. Собр. первое. Т. <span lang="en-US">XXIII</span>. №&nbsp;17023.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">[14]. Бумаги графа Петра Ивановича Панина... С. 133, 136.</span></p>
+<p style="text-indent: 1.25cm; margin-bottom: 0cm; line-height: 150%; text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">[15]. РГИА. Ф. 796. Оп. 55. Д. 479. Л. 3.</span></p><br>Раздел: <a href=/6.html><span class="letter2">И</span>стория Пензенского края</a><br>Дата публикации: 16.04.2012 16:27:16 <center> <a style="color: #808000; text-decoration: none;" ><b>1</b></a> <br> </center><br> 
+Подписывайтесь на наш <a href="https://t.me/historyarchnews" target="_blank">телеграм-канал</a>
+<br>
+Вступайте в нашу группу в <a href="https://vk.com/istorik_archeolog" target="_blank">Вконтакте</a>
+<br><br><b>Другие социальные сети:</b><br>
+<a href="https://vk.com/istorik_archeolog" target="_blank"><img src="../images/vk.jpg" alt="ВК" ></a>
+<a href="https://twitter.com/istoricheski" target="_blank"><img src="../images/twitter.jpg" alt="Твиттер" ></a>
+<a href="https://t.me/historyarchnews" target="_blank"><img src="../images/telegram.jpg" alt="Телеграм" ></a>
+<a href="https://yandex.ru/q/loves/history/" target="_blank"><img src="../images/q.jpg" alt="Я.Кью" ></a>
+<a href="https://zen.yandex.ru/dorogami_tisyacheletiy" target="_blank"><img src="../images/dzen.jpg" alt="Я.Дзен" ></a>
+<a href="https://www.facebook.com/istoricheski" target="_blank"><img src="../images/fb.jpg" alt="Фейсбук" ></a>
+<a href="https://www.instagram.com/istfil.ru/" target="_blank"><img src="../images/ig.jpg" alt="Инстаграм" ></a><br>
+<br>
+
+
+<br>
+<!-- Yandex.RTB R-A-141379-7 -->
+<div id="yandex_rtb_R-A-141379-7"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-7',
+    blockId: 'R-A-141379-7'
+  })
+})</script>
+<br>
+
+<b>Поделиться материалом в социальных сетях:</b>
+<div class="share42init"></div>
+
+<br>
+<center>
+<br>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="3861370147"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
+
+<script>
+    (yaads = window.yaads || []).push({
+        id: "141379-4",
+        render: "#id-141379-4"
+    });
+</script>
+<div id="id-141379-4"></div> 
+  <br>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="9313007376"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
+<b><span class="letter2">В</span>ас могут заинтересовать другие материалы из данного раздела: </b><br>
+<div class="grid">
+<article>
+<figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Общая характеристика Пензенского сыскного отделения</h2>
+                            <p>Краеведческое исследование по теме Пензенской сыскной полиции на основе архивных данных.</p>
+                            <a href='https://исторический-сайт.рф/Общая-характеристика-Пензенского-сыскного-отделения-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Помни, как гремели орудий раскаты…</h2>
+                            <p>Весь мир, как натянутая струна. Кажется, один неверный шаг, промах, неудача – и уже не хватит сил, чтобы заработала правильная, богатая, жизненная гармония. Тысяча осколков, не склеить и не собрать никакой силой. Такая невеселая мозаика складывается сегодня для многих из нашего поколения. Однако люди, рождённые более, чем полвека назад, таких чувств не испытывали. Выросшие  в неимоверной нужде и невзгодах, ни прошли большую школу испытаний и верили в свой собственный опыт, находили единственный правильный жизненный путь. Они знали свое предназначение, умели добиваться цели, были большими энтузиастами, оптимистами и правдолюбцами. Речь идет о поколении людей, переживших и 30-е, и 40-е, и 50-е годы. Это были наши деды и прадеды, немногие из которых живы, а их воспоминания для нас – живая история века. Мы думаем, что на жизни старшего поколения будут учиться еще многие..</p>
+                            <a href='https://исторический-сайт.рф/Помни-как-гремели-орудий-раскаты-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>История создания Первомайского района.</h2>
+                            <p>Каждый Начало формы Ка человек должен знать историю родного края, где он родился, вырос. Это непреложное утверждение, которое редко кто решиться оспорить. Тем более  что давно известна фраза - без истории нет будущего. Необходимо знать как историю всей страны в целом, так и историю своего города, края - малой Родины..</p>
+                            <a href='https://исторический-сайт.рф/История-создания-Первомайского-района-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Мозжухин Иван Ильич – Король экрана</h2>
+                            <p>Научная работа «И.И. Мозжухин – король экрана» является попыткой систематизации информации о жизни и творчестве величайшего актера. Цель научной работы: привлечение внимания молодежи к личности великого земляка и значению его творчества в истории мирового искусства..</p>
+                            <a href='https://исторический-сайт.рф/Мозжухин-Иван-Ильич-Король-экрана-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Турецкие военнопленные в обороне г. Керенска в 1774 г.</h2>
+                            <p>Вопрос об участии турецких военнопленных в обороне г. Керенска Воронежской губернии (ныне с. Вадинск Пензенской обл.) в период Крестьянской войны под предводительством Е.И. Пугачева 1773–1775 гг., по существу, никогда не привлекал к себе внимания историков, в т.ч. и краеведов..</p>
+                            <a href='https://исторический-сайт.рф/Турецкие-военнопленные-в-обороне-Керенска-в-1774-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Место авиашколы ОСОАВИАХИМА в социально-экономическом развитии Пензенской области в 1930-е гг.</h2>
+                            <p>Место авиашколы ОСОАВИАХИМА в социально-экономическом развитии Пензенской области в 1930-е гг. В июне 1928 г. в поселке Свободном, который ранее назывался Манчжурией, была организована по инициативе местного ОСОАВИАХИМа школа гражданской авиации..</p>
+                            <a href='https://исторический-сайт.рф/Место-авиашколы-ОСОВИАХИМА-в-социально-экономическом-развитии-Пензенской-области-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Методы работы Пензенского полицейского сыска (по материалам отдельных дел)</h2>
+                            <p>Несколько дел из повседневной практики сыскной полиции/Методы работы Пензенского полицейского сыска (по материалам отдельных дел).</p>
+                            <a href='https://исторический-сайт.рф/Методы-работы-Пензенского-полицеского-сыска-по-материалам-отдельных-дел-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Война глазами солдата</h2>
+                            <p>Война глазами солдата. Сталинградская битва. Владимир Керхонаджев родился 3 августа 1924г. В греческой семье в посёлке Ленрудник Армянской ССР. В 1931 году поступил в русскую школу и 1941 году окончил 10 классов. Мечтал о поступлении в военное училище, но военным училищем стала для него война. Юноша просился на фронт, но семнадцатилетних на фронт не брали, а призвали в подразделение для охраны медеплавильного завода.</p>
+                            <a href='https://исторический-сайт.рф/Война-глазами-солдата-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Между прошлым и будущим:  из истории семьи Плотниковых</h2>
+                            <p>Я родилась и выросла в самой обыкновенной семье. Папа мой – автомеханик, мама –  гальваник фотопечати. Очень часто слышала я от них рассказы о далеком  прошлом моих близких. Некоторые истории казались настолько интересными, что мне давно хотелось записать их, познакомить с ними друзей. Поэтому возможность провести глубокое исследование, посвященное моей семье, захватило меня целиком. Правда, это оказалось непросто: забыты многие даты, путается хронология событий… Сохранилось главное. Увлеченная сбором фактов, я не сразу это поняла… Дело в том, что меня в семейных преданиях интересовала совсем не точность информации. Слушая повествования о жизни моих бабушек и дедушек, прабабушек и прадедушек, я словно бы переносилась совсем в другую эпоху, в другой мир, даже в другую страну. Вот этот дух времени я и постаралась передать в своей работе. То, как отразилась жизнь страны в судьбах моих близких. .</p>
+                            <a href='https://исторический-сайт.рф/Между-прошлым-и-будущим-из-истории-семьи-Плотниковых-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Народное просвещение в Нижнеломовском уезде в 19-20 веках</h2>
+                            <p>Нужно ли нам знать историю своего города? Лично я считаю, что, безусловно, нужно, ибо знание родного края воспитывает патриотизм! Если ты образованный человек, то тебе просто необходимо знать историю своего родного края. Кто-то из великих сказал: «без прошлого нет будущего». И был прав. Знать историю родного края - это показатель культуры и образованности человека..</p>
+                            <a href='https://исторический-сайт.рф/Народное-просвещение-в-Нижнеломовском-уезде-в-19-20-веках-1.html'>Читать</a>
+                        </figcaption> </figure></article>
+</div>
+</span>
+</center>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="3459235498"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div class="right_col">
+<br><b><span class="letter2">И</span>скать на сайте:</b>
+<form action="https://www.google.ru/cse" id="cse-search-box" target="_blank">
+    <input type="hidden" name="cx" value="partner-pub-4644943942061688:0428779279" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" class="input-block-level" name="q" size="20" />
+    <input type="submit" name="sa" value="&#x041f;&#x043e;&#x0438;&#x0441;&#x043a;" />
+</form>
+  <script src="./vendor/jquery-2.0.3.min.js"></script>
+  <script async src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="./js/ajax-form.js"></script>
+ <!-- /вход-регистрация -->  
+<br><center><script language="javascript">
+<!--
+var h=(new Date()).getHours();
+if (h > 22 || h < 7) document.write('Доброй ночи,');
+if (h > 6 && h < 12) document.write('Доброе утро,'); 
+if (h > 11 && h < 19) document.write('Добрый день,'); 
+if (h > 18 && h < 23) document. write('Добрый вечер,'); 
+//-->
+</script >
+<script>
+$(document).ready(function() {
+    // Добавляем новую запись, когда произошел клик по кнопке
+    $("#FormSubmit").click(function (e) {
+        e.preventDefault();
+        if($("#contentText").val()==="") //simple validation
+        {
+            alert("Введите текст!");
+            return false;
+        }
+
+        var myData = "content_txt="+ $("#contentText").val(); //post variables
+
+        jQuery.ajax({
+            type: "POST", // HTTP метод  POST или GET
+            url: "./includes/response_stik.php", //url-адрес, по которому будет отправлен запрос
+            dataType:"text", // Тип данных,  которые пришлет сервер в ответ на запрос ,например, HTML, json
+            data:myData, //данные, которые будут отправлены на сервер (post переменные)
+            success:function(response){
+            $("#responds").append(response);
+            $("#contentText").val(''); //очищаем текстовое поле после успешной вставки
+            },
+            error:function (xhr, ajaxOptions, thrownError){
+                alert(thrownError); //выводим ошибку
+            }
+        });
+    });
+
+    //Удаляем запись при клике по крестику
+    $("body").on("click", "#responds .del_button", function(e) {
+        e.preventDefault();
+        var clickedID = this.id.split("-"); //Разбиваем строку (Split работает аналогично PHP explode)
+        var DbNumberID = clickedID[1]; //и получаем номер из массива
+        var myData = 'recordToDelete='+ DbNumberID; //выстраиваем  данные для POST
+
+        jQuery.ajax({
+            type: "POST", // HTTP метод  POST или GET
+            url: "./includes/response_stik.php", //url-адрес, по которому будет отправлен запрос
+            dataType:"text", // Тип данных
+            data:myData, //post переменные
+            success:function(response){
+            // в случае успеха, скрываем, выбранный пользователем для удаления, элемент
+            $('#item_'+DbNumberID).fadeOut("slow");
+            },
+            error:function (xhr, ajaxOptions, thrownError){
+                //выводим ошибку
+                alert(thrownError);
+            }
+        });
+    });
+});
+</script>
+Гость      <form class="form-signin ajax" method="post" action="../includes/ajax.php">
+        Пожалуйста, авторизуйтесь
+        <input name="username" type="text" class="input-block-level" placeholder="Логин" autofocus maxlength="15">
+        <input name="password" type="password" class="input-block-level" placeholder="Пароль" maxlength="15">
+        <label class="checkbox">
+          <input name="remember-me" type="checkbox" value="remember-me" checked> Запомнить
+        </label>
+        <input type="hidden" name="act" value="login">
+<input type="hidden" class="hidefield" id="user" name="user">
+<input type="hidden" class="hidefield" id="site" name="site" value="http://" >
+<input id="check" name="check" type="hidden" value="" />
+<input name="email" id="email2" class = "nonuserfield "maxlength="50" type="text" autocomplete="off" placeholder="Введите E-Mail *">
+        <button class="btn btn-normal btn-block" type="submit" onclick="document.getElementById('check').value = 'secretcode';">Войти</button>
+<font color=red><div class="main-error alert alert-error hide"></div></font>
+            <p>Нет аккаунта? <a href="../Регистрация.html">Регистрация.</a></p>
+      </form>
+       </center>
+<br>
+  <a href="javascript:void(0)" onclick="PressLink()">Заметили ошибку? Выделите её и нажмите ctrl+enter</a>
+
+    
+<!-- Yandex.RTB R-A-141379-2 -->
+<div id="yandex_rtb_R-A-141379-2"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-2',
+    blockId: 'R-A-141379-2'
+  })
+})</script>
+ </div>
+<div class="footer"><br><br><br>
+<span style="font-size:small;">
+<p align="center">
+Все права принадлежат авторам выкладываемых работ. Материалы сайта разрешено копировать с согласия автора работы, с обязательным указанием автора материала и прямой ссылкой на текст копируемого материала. На сайте используются файлы куки (cookie) для организации работы сайта. Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie, пользовательских данных.  Если Вы не хотите, чтобы ваши данные обрабатывались, произведите соответствующие настройки в браузере, либо воздержитесь от посещения сайта. Ознакомтесь с <a href="../Политика-конфиденциальности.html">политикой конфиденциальности</a> нашего сайта.
+</p><p align="center">
+Исторический-сайт.рф © 2011 - 2022.</font><center></span>
+<br>
+
+</center>
+</p>
+</div>
+</div>
+<script src="../vendor/jquery-2.0.3.min.js" ></script>
+<script type="text/javascript" src="../share42/share42/share42.js"></script>
+<script async src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+<script async type="text/javascript" src="../js/mistakes.js"></script>
+<script src="../lightbox/js/lightbox-2.6.min.js"></script>
+<script>
+	// назад
+		var bottom_position = 0; 
+		var flag_bottom = false;
+		var flag_animate = false;
+		
+		$(document).ready(function(){
+			$(".in_top").click(function(){
+				flag_animate = true;
+				if(flag_bottom){
+					$("body,html").animate({"scrollTop":bottom_position}, 300, function(){ 
+						flag_animate = false;
+					});
+						flag_bottom = false;
+					$(".in_top span").html("↑ Наверх ↑");
+				}else{
+						$("body,html").animate({"scrollTop":0}, 300, function(){ 
+						flag_animate = false;
+					});		
+					bottom_position = $(window).scrollTop();
+					flag_bottom = true;
+					$(".in_top span").html("↓ Назад ");
+				}
+			});
+		 
+				$(window).scroll(function(event){
+				var countScroll = $(window).scrollTop();
+							if (countScroll > 100 && !flag_animate){
+					$(".in_top").show();
+					if(flag_bottom){
+						flag_bottom = false;
+						$(".in_top span").html("↑ Наверх ↑");
+					}
+							}else{
+					if(!flag_bottom){
+						$(".in_top").hide();
+					}
+				}
+			});
+		});
+	</script> 
+	<script>
+$("#navToggle").click(function() {
+    $(this).toggleClass("active");
+    $(".overlay").toggleClass("open");
+    // this line ▼ prevents content scroll-behind
+    $("body").toggleClass("locked");
+});
+$('.overlay').click(function() {
+    $(this).removeClass('open');
+    $('.navBurger').removeClass('active');
+});
+</script>
+
+<script>
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 100) {
+            if ($('#upbutton').is(':hidden')) {
+                $('#upbutton').css({opacity : 1}).fadeIn('slow');
+            }
+        } else { $('#upbutton').stop(true, false).fadeOut('fast'); }
+    });
+    $('#upbutton').click(function() {
+        $('html, body').stop().animate({scrollTop : 0}, 300);
+    });
+</script>
+<style>
+  #upbutton {
+    background: url("/images/up.png") no-repeat top left;
+    height: 60px;
+    width: 60px;
+    bottom: 30px;
+    right: 30px;
+    cursor: pointer;
+    display: none;
+    position: fixed;
+    z-index: 999;
+  }
+</style>
+
+<script async src="https://an.yandex.ru/system/widget.js"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173238613-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-173238613-1');
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(65788204, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/65788204" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>
+ 
+ 
+ 

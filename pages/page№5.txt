@@ -1,0 +1,541 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/css/style.css">
+	<link rel="icon" href="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/favicon.ico"  type="image/x-icon">
+	<link rel="preconnect" href="https://mc.yandex.ru/">
+	<link rel="stylesheet" href="../css/style.css">
+    <link href="../css/mistakes.css" rel="stylesheet" type="text/css" />
+	<link href="../lightbox/css/lightbox.css" rel="stylesheet" />
+
+<link rel="canonical" href="https://исторический-сайт.рф/К-ВОПРОСУ-ОБ-АРЕАЛЕ-ЕЛШАНСКОЙ-КУЛЬТУРЫ-1.html" />
+	<title>К ВОПРОСУ ОБ АРЕАЛЕ ЕЛШАНСКОЙ КУЛЬТУРЫ  (на основе анализа керамических комплексов)-1</title>
+	<meta name="description" content="На сегодняшний день известно около тридцати памятников содержащих керамику елшанской культуры. Часть из них образует достаточно компактное скопление на территории Самарской, Оренбургской и Ульяновской областей, другая часть простирается далеко на запад и северо-запад от Среднего Поволжья.-Страница 1">
+	<meta name="keywords" content=" ЕЛШАНСКАЯ КУЛЬТУРА" > 
+<meta property="og:title" content="К ВОПРОСУ ОБ АРЕАЛЕ ЕЛШАНСКОЙ КУЛЬТУРЫ  (на основе анализа керамических комплексов)"/>
+<meta property="og:description" content="На сегодняшний день известно около тридцати памятников содержащих керамику елшанской культуры. Часть из них образует достаточно компактное скопление на территории Самарской, Оренбургской и Ульяновской областей, другая часть простирается далеко на запад и северо-запад от Среднего Поволжья."/>
+<meta property="og:image" content="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/images/logo4.jpg"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content= "https://исторический-сайт.рф/К-ВОПРОСУ-ОБ-АРЕАЛЕ-ЕЛШАНСКОЙ-КУЛЬТУРЫ-1.html" />
+
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+</head>
+
+<body>
+	<div class="in_top">
+		<span>↑ Наверх ↑</span>
+	</div>
+
+<div id="block">
+<div class="header">&nbsp&nbsp&nbsp&nbsp
+<a href="../"><img src="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/images/img_03.jpg" alt="Исторический сайт" ></a>
+<div id="css-menu">
+<br>
+<ul>
+<span class="letter3">
+<marquee  scrollamount="2" direction="left" 
+ height="40" width="100%" ><p><span>"Глядя в историю, словно в зеркало, я стараюсь изменить к лучшему собственную жизнь" Плутарх</span></p></marquee> 
+</span>
+<br>
+<li><a href="../">
+<span class="text-top">Главная</span>
+<span class="text-bottom">О нашем проекте</span>
+</a></li>
+<li><a href="../4.html">
+<span class="text-top">Разделы</span>
+<span class="text-bottom">Статьи</span>
+</a></li>
+<li><a href="../Конкурс-1.html">
+<span class="text-top">Конкурс</span>
+<span class="text-bottom">Работ по истории</span>
+</a></li>
+<li><a href="../Вопрос-ответ.html">
+<span class="text-top">Помощь</span>
+<span class="text-bottom">Вопрос-ответ</span>
+</a></li>
+<li><a href="../Генератор-тестов.html">
+<span class="text-top">Тесты</span>
+<span class="text-bottom">Создать тест</span>
+</a></li>
+<li><a href="../Опубликовать-статью.html">
+<span class="text-top">Опубликовать</span>
+<span class="text-bottom">Отправить статью</span>
+</a></li>
+<li><a href="../Новое.html">
+<span class="text-top">Новое</span>
+<span class="text-bottom">Новые статьи</span>
+</a></li>
+<li><a href="../Войти.html">
+<span class="text-top">Войти</span>
+<span class="text-bottom">В свой аккаунт</span>
+</a></li>
+<li><a href="https://vk.com/istorik_archeolog" target="_blank"><img src="../images/vk.jpg" alt="ВК" ></a></li>
+<li><a href="https://twitter.com/istoricheski" target="_blank"><img src="../images/twitter.jpg" alt="Твиттер" ></a></li>
+<li><a href="https://t.me/historyarchnews" target="_blank"><img src="../images/telegram.jpg" alt="Телеграмм" ></a></li>
+<li><a href="https://yandex.ru/q/loves/history/" target="_blank"><img src="../images/q.jpg" alt="Я.Кью" ></a></li>
+<li><a href="https://zen.yandex.ru/dorogami_tisyacheletiy" target="_blank"><img src="../images/dzen.jpg" alt="Я.Дзен" ></a></li>
+</ul>
+</ul>
+</div>
+</div>
+
+<div class="left_col">
+<p><span style="font-size:small;">
+<strong>
+    <a href='https://исторический-сайт.рф/33.html'>
+    <span class="letter">Н</span>овости истории</a></strong><br><strong>
+    <a href='https://исторический-сайт.рф/4.html'>
+    <span class="letter">С</span>татьи и заметки</a></strong><br>&nbsp;<a href='https://исторический-сайт.рф/14.html'>
+         - <span class="letter2">А</span>рхеология</a><br>&nbsp;<a href='https://исторический-сайт.рф/3.html'>
+         - <span class="letter2">В</span>сеобщая история</a><br>&nbsp;<a href='https://исторический-сайт.рф/13.html'>
+         - <span class="letter2">И</span>сторическая поэзия и проза</a><br>&nbsp;<a href='https://исторический-сайт.рф/6.html'>
+         - <span class="letter2">И</span>стория Пензенского края</a><br>&nbsp;<a href='https://исторический-сайт.рф/5.html'>
+         - <span class="letter2">И</span>стория России</a><br>&nbsp;<a href='https://исторический-сайт.рф/8.html'>
+         - <span class="letter2">П</span>олезные и интересные сайты</a><br>&nbsp;<a href='https://исторический-сайт.рф/7.html'>
+         - <span class="letter2">Р</span>азное</a><br>&nbsp;<a href='https://исторический-сайт.рф/19.html'>
+         - <span class="letter2">Т</span>есты по истории</a><br>&nbsp;<a href='https://исторический-сайт.рф/32.html'>
+         - <span class="letter2">Ш</span>паргалка</a><br><a href="/Конкурс-1.html"  name='Конкурс'><b><span class="letter">К</span>онкурс работ</b></a><br>
+<a href="/Генератор-тестов.html"  name='Генератор тестов'><b><span class="letter">С</span>оздать тест</b></a><br>
+<a href="/Отправить-статью.html"  name='Авторам'><b><span class="letter">А</span>вторам</b></a><br>
+<a href="/Друзья.html"  name='Ссылки'><b><span class="letter">Д</span>рузья сайта</b></a><br>
+<a href="/Вопрос-ответ.html"  name='чаВО'><b><span class="letter">В</span>опрос-ответ</b></a><br>
+<a href="/О-проекте.html"><b><span class="letter">О</span> проекте</b></a><br>
+<a href="/Контакты.html"><b><span class="letter">К</span>онтакты</b></a><br>
+</span></p>
+
+
+
+
+<p align= "center">
+<b><span class="letter2">Н</span>овые статьи:</b></p>
+<font size="2">
+  <a href='https://исторический-сайт.рф/gramota--1.html'>В Новгороде нашли первую «зимнюю» грамоту</a><br>........................<br>  <a href='https://исторический-сайт.рф/proval-1.html'>Названо самое провальное оружие Второй мировой войны</a><br>........................<br>  <a href='https://исторический-сайт.рф/asteroid-1.html'>Ученые подтвердили гибель динозавров от астероида</a><br>........................<br>  <a href='https://исторический-сайт.рф/pskov-1.html'>В Пскове под кинотеатром нашли древнюю церковь</a><br>........................<br>  <a href='https://исторический-сайт.рф/bacteria-1.html'>Красная Армия помешала Японии применить биологическое оружие</a><br>........................<br></font>
+
+<!-- Слева2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="7863885467"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+<div class="center_col">
+     
+   
+<!-- Yandex.RTB R-A-141379-6 -->
+<div id="yandex_rtb_R-A-141379-6" style="min-height:240px"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-6',
+    blockId: 'R-A-141379-6'
+  })
+})</script>
+    <br>
+ 
+ <center> <a style="color: #808000; text-decoration: none;" ><b>1</b></a> | <a style="color: #808000; text-decoration: none;" href=https://исторический-сайт.рф/К-ВОПРОСУ-ОБ-АРЕАЛЕ-ЕЛШАНСКОЙ-КУЛЬТУРЫ-2.html>2</a>  </center> <center><h1 style="font-size:20px"><b>К ВОПРОСУ ОБ АРЕАЛЕ ЕЛШАНСКОЙ КУЛЬТУРЫ  (на основе анализа керамических комплексов)</b></h1>(Статья)</center>Раздел: <a href=/14.html><span class="letter2">А</span>рхеология</a> <br>Автор: <a href ="/Автор-Андреев К.М.">Андреев К.М.</a><br>(Самара)<br><p style="text-align: justify;"><span style="font-size: 14pt;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">На сегодняшний день известно около </span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">тридцати памятников содержащих керамику елшанской культуры. Часть из них образует достаточно компактное скопление на территории Самарской, Оренбургской и Ульяновской областей, другая часть простирается далеко на запад и северо-запад от Среднего Поволжья. По нашему мнению, первую группу памятников можно обозначить &ndash; восточной, а вторую &ndash; западной (Андреев, 2011а). </span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">Керамические коллекции обеих групп аналогичны с точки зрения технологии производства и форм сосудов. Для них характерна тонкостенная посуда</span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">, толщина черепка редко превышает 1 см, колеблясь в пределах 0,5-0,8 см. Поверхность сосудов тщательно заглажена, вплоть до лощения, фактура черепка плотная. Они изготовлены из запесоченых илистых глин иногда с искусственной примесью шамота или сухой глины. Срез венчика, как правило округлый, приостренный или прямой. Шейка сосудов имеет либо прямую, либо </span></span><span style="font-family: 'Times New Roman', serif;">S</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">-видную форму, редко встречаются экземпляры с прикрытым горлом. Днища представлены острыми, плоскими и округлыми формами. Можно выделить сосуды яйцевидной и баночной форм.</span></span></span></p>
+<p style="text-align: justify;"><span style="font-family: 'Times New Roman', serif; font-size: 14pt;"><span lang="ru-RU">Основные различия западной и восточной групп наблюдаются в системе орнаментации. Большее количество керамики обеих групп не орнаментировано. Характерной чертой является также использование жемчужного пояска под срезом венчика, хотя на посуде западной группы он периодически заменятся рядом сквозных отверстий нанесенных в процессе конструирования сосудов. В орнаментации посуды восточной группы памятников широкое распространение получили прочерченные линии, реже используются разряженные наколы и короткие насечки. Они образуют следующие мотивы: горизонтальный зигзаг, горизонтальные ряды параллельных линий (в единичных случаях наколов), &laquo;свисающие&raquo; треугольники, косая решетка, параллельные прочерченные линии с рядом наколов между ними, насечки/наколы по срезу венчика. Для керамики западной группы памятников характерно широкое применение накольчатых элементов в орнаментации посуды, наколы представлены следующими формами: треугольные, округлые, тычковые, реже &ndash; отступающие. Из других элементов на керамике западной группы представлены прочерченные линии и насечки. Элементы орнамента образуют следующие мотивы: горизонтальные линии наколов (состоящие иногда из нескольких рядов), горизонтальные линии наколов с отходящими от них диагональными линиями наколов; диагональные и вертикальные линии наколов; сочетание прочерченных линий и наколов; параллельные и одиночные прочерченные линии (горизонтальные и вертикальные); перекрещивающиеся под углом прочерченные линии; ромбическая сетка. У обеих групп орнамент приурочен к верхней трети сосуда и крайне редко распространяется на тулово, для него характерна достаточно четкая зональность нанесения.</span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">Обозначенные выше различия, на наш взгляд, имеют генетичес</span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">кий и хронологический характер.</span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">Уже при</span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> исследовании первого памятника восточной группы исследователями отмечалась его близость среднеазиатским коллекциям (Васильев, Пенин, 1977. С. 18). В связи с этим ряд специалистов предполагает прямую миграцию населения с территории Приаралья и Восточного Прикаспия в Среднее Поволжье (Васильев, Выборнов, 1988; Андреев 2011б). Другая группа исследователей склоняется к мысли о &laquo;заимствовании идей гончарного производства&raquo; из указанных областей (Моргунова, 1995. С. 56-57; Моргунова, 2000; Мамонов, 1999. С. 36-41; Мамонов, 2000а). В частности с елшанскими коллекциями Самарского Поволжья наибольшее сходство обнаруживают керамические материалы 4 слоя пещеры Джебел в Восточном Прикаспии, стоянки Учащи 131, Аякагитма и Лявляканские стоянки Приаралья. Для данных памятников характерна тонкостенная посуда яйцевидной формы без видимых примесей в тесте (в единичных случаях встречается примесь шамота или толченой раковины), внешняя и внутренняя поверхности залощены или заглажены. Размеры сосудов небольшие, венчики отогнутые или прямые (утонченные и скругленные), вся керамика остро- и круглодонна. Орнамент очень беден, большая часть сосудов вообще не орнаментирована. Характерны узкие горизонтальные пояски в верхней или средней части сосудов из насечек или прочерченных линий. Изредка встречаются более сложные композиции, например, длинные косые гирлянды, ниспадающие от верхнего края сосуда, косая решетка (Окладников, 1956. С. 104-109; Виноградов, 1981. С. 65-67; Виноградов, Мамедов, 1975. С. 52-204, 216-221; </span></span><span style="font-family: 'Times New Roman', serif;">Szymczak</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">, </span></span><span style="font-family: 'Times New Roman', serif;">Khudzhanazarov</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">, 2006). </span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">Керамика данного типа впервые появляется на территории лесостепного Поволжья в </span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">первой четверти </span></span><span style="font-family: 'Times New Roman', serif;">VI</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> тысячелетия до н.э. (Андреев и др., 2012). Проникновению населения с территории Средней Азии в лесостепное Поволжье способствовала географическая близость регионов и схожесть их природно-климатических условий в эпохи мезолита &ndash; раннего неолита (Окладников, 1956. С. 215). А также демографический взрыв, отмечаемый, на территории Средней Азии в конце мезолита &ndash; начале неолита (Виноградов, 1981. С. 160) и экспансия неолитических сообществ Северного Ирана в южные районы Средней Азии (</span></span><span style="font-family: 'Times New Roman', serif;">Lloyd</span><span style="font-family: 'Times New Roman', serif;">Weeks</span><span style="font-family: 'Times New Roman', serif;">et</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">. </span></span><span style="font-family: 'Times New Roman', serif;">all</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">, 2006. </span></span><span style="font-family: 'Times New Roman', serif;">P</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">. 24), что явилось причиной миграции части среднеазиатского населения в северо-западные регионы. </span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">Процесс освоения лесостепного Поволжья не был единовременным</span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">, в нем, по данным изучения технологии изготовления керамики, фиксируется как минимум две волны (Васильева, 2007. С. 36-38). Исходя из этого, можно предположить, что контакты населения Средней Азии и лесостепного Поволжья имели регулярный характер на протяжении второй и третьей четвертей </span></span><span style="font-family: 'Times New Roman', serif;">VI</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> тысячелетия до н.э., чему способствовала близость природно-климатической обстановки обоих регионов, характерная для современной климатической зоны степей (Виноградов, Мамедов, 1975. С. 253). </span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">Постепенно в результате увеличения численности населения (в следствии естественного прироста и притока новых групп из первоначального района обитания) и усиливающихся кризисных явлений, связанных с аридизацией, пик которой приходится </span></span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">на 7200 лет назад (Спиридонова, Алешинская, 1999. С. 25), часть населения с территории Самарского Заволжья продвигается в западном и северо-западном направлениях</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">. В ходе данного процесса начинается формирование западной группы памятников елшанской культуры. </span></span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">Последней четвертью</span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">VI</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> тысячелетия до н.э. датируется распространений елшанского населения в Среднем Посурье, где на стоянках Утюж </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">I</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">, Вьюново озеро </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">I</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> и Молебное озеро </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">I</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> была обнаружена елшанская керамика (Березина, 2010; Березина, 2011). Однако нельзя исключать возможность начала данного процесса еще в третьей четверти 6 тысячелетия до н.э.. В том числе на данных памятниках обнаружены неорнаментированные сосуды яйцевидной формы с выраженными плечиками и рядом сквозных отверстий под венчиком. Данные материалы близки керамическим комплексам стоянок низовий р. Оки &ndash; Старое Щербинино </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">XV</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> и Новое Щербинино </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">V</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">, где обнаружена тонкостенная неорнаментированная, округло- и остродонная посуда </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">S</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">-видной формы с рядами сквозных отверстий под венчиком и лощеной поверхностью (Гонозов, 2004). Данные материалы были выделены исследователем в особый, щербининский тип, однако, на наш взгляд, они обнаруживают значительное сходство с Сурскими памятниками и могут быть отнесены к западной группе елшанской культуры. Примечательно, что сквозные отверстия под венчиком сосудов на стоянке Новое Щербинино </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">V</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> располагаются в желобках, что является характерной чертой верхневолжской культуры, о чем будет сказано ниже. Обозначенные стоянки маркируют северо-западный тренд движения представителей елшанской культуры с территории лесостепного Поволжья к берегам Оки. Рубежом </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">VI</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">-</span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">V</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> тысячелетий до н.э. </span></span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">(Андреев и др., 2012)</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> может быть также датирован процесс распространения елшанского населения на территорию Примокшанья: стоянки Озименки </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">II</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">, Имерка </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">VII</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> и др. (Ставицкий, 1999. С. 34-46; Выборнов и др., 2006), Поочья: Городок </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">I</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> (Выборнов и др., 2004) и далее на запад вплоть до притоков р. Дон: стоянки Плаутино </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">I</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">, Карамышево </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">V</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> и др. (Сурков, 2007. С. 37-54; Смольянинов, 2003; Смольянинов, 2008). На данных памятниках исследователями фиксируется керамика находящая наиболее близкие аналогии в елшанских материалах, но не полностью им тождественная </span></span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">(Мамонов, 2007)</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">. </span></span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">Необходимо отметить, что</span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">, в то же время, западная группа памятников имеет ряд общих черт с материалами сурской и ракушечноярской культур. В связи с чем ряд исследователей выдвинули предположение о происхождении керамического производства в лесостепном Поволжье под влиянием населения Приазовья и Северного Причерноморья (Ставицкий, 2005. С. 147-150; Котова, 2002. С. 76-78; Вискалин, 2006. С. 91-92; Вискалин, 2010. С. 229). Для данных культур характерно использование при изготовлении керамики разнообразных примесей: раковина, растительность, песок или их сочетания, поверхность заглажена, реже &ndash; залощена. Сосуды имеют острые и плоские днища, округлое тулово, венчики прямые и профилированные, срез: округлый, приостренный, прямой. Большая часть керамики не орнаментирована. Из элементов орнамента типичными являются вдавления треугольной, полукруглой, прямоугольной, овальной форм; реже встречаются прочерченные линии и насечки, широко распространены сквозные отверстия в стенках сосудов. Элементы орнамента образуют горизонтальные и вертикальные линии, иногда в несколько рядов в сочетании с диагональными линиями тех же элементов. В целом для орнамента характерна четкая зональность и он приурочен к верхней части сосуда (Котова, 2002. С. 13-15, 28-30; Белановская, 1995. С. 96-122). </span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">На наш взгляд, м</span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">ожно констатировать высокую степень сходства елшанской керамики и керамики Приазовья и Северного Причерноморья, но необходимо признать достаточно серьезные отличия керамических традиций указанных регионов. Данные обстоятельства могут свидетельствовать о том, что процесс неолитизации Среднего Поволжья и Приазовья проходил независимо из одного центра возникновения гончарного производства в результате чего керамика обозначенных культур имеет высокую степень сходства (Белановская, Тимофеев, 2003. С. 19; Тимофеев, 2002. С. 212). Можно предположить наличие одного очага возникновения древнего гончарства на территории Малой и/или Передней Азии, откуда технология изготовления керамики, путем миграции населения, распространилась в Восточную Европу двумя путями: по восточному побережью Черного моря в Приазовье и через территорию Восточного Прикаспия и Приаралья в Среднее Поволжье. Данное предположение не противоречит природно-климатическим наблюдениям исследователей, которые отмечают благоприятную климатическую обстановку на рубеже бореала и атлантика, когда, по нашему мнению, началось распространение населения (и вместе с ним навыков гончарного производства) из Передней Азии в северные регионы (</span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">Спиридонова, Алешинская, 1999. С</span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">. 23-25). </span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">В дальнейшем кризисные явления, связанные с аридизацией второй половины </span></span><span style="font-family: 'Times New Roman', serif;">VI</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> тысячелетия до н.э., стали причиной движения населения из Причерноморско-Приазовского региона в северном направлении, куда в это время проникали отдельные группы елшанского населения, под влиянием аналогичных природно-климатических факторов. Этим же временем рядом исследователей датируется резкое увеличение уровня воды в Черном море, что также могло вызвать отток населения обитавшего на его побережье и дельтах рек впадающих в него (</span></span><span style="font-family: 'Times New Roman', serif;">Yanko</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">-</span></span><span style="font-family: 'Times New Roman', serif;">Hombach</span><span style="font-family: 'Times New Roman', serif;">V</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">.</span></span><span style="font-family: 'Times New Roman', serif;">et</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">.</span></span><span style="font-family: 'Times New Roman', serif;">all</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">,</span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">2011. </span></span><span style="font-family: 'Times New Roman', serif;">P</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">. 251-253). На данной территории обе группы ранненеолитического населения вступали во взаимодействие, следствием чего явилось возникновение керамики западной группы елшанской культуры находящей близкие аналогии, как в материалах Среднего Поволжья, так и Причерноморско-Приазовского региона. Об этом свидетельствует и присутствие отдельных импортных вещей в комплексах памятников западной группы. В этой связи интересен фрагмент венчика, обнаруженный на стоянке Утюж </span></span><span style="font-family: 'Times New Roman', serif;">I</span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">, орнаментированный широкими прочерченными линиями с округлыми наколами между ними, возможно, образующими мотив висячего треугольника, находящий наиболее близкие параллели в материалах стоянок сурской, а не елшанской культуры (Стрильча Скеля, Семеновка, Игрень-городок). Исходя из всех приведенных выше доводов, мы считаем правомерным сделать вывод о том, что территория распространения западной группы елшанских памятников являлась контактной зоной между носителями &laquo;классических&raquo; елшанских керамических традиций Среднего Поволжья и носителями ракушечноярских и сурских керамических традиций Приазовья и Северного Причерноморья. Таким образом, мы считаем возможным выделить западную группу памятников елшанской культуры в особый тип (с перспективой обособления в самостоятельную культуру). </span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">Продвижение небольших групп елшанского</span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> и сурского-ракушечноярского населения носило диффузионный характер в ходе которого они сталкивались с представителями местных мезолитических племен. Контакты местного и пришлого населения не были тесными, о чем свидетельствует отсутствие наложения ранненеолитических стоянок на мезолитические (Никитин, 2006а. С. 254). Это обстоятельство также лишний раз подчеркивает пришлый характер ранненеолитического населения данных регионов, чей генезис никак не связан с аборигенными позднемезолитическими племенами. Однако они оставили определенный след в материальной культуре пришлого населения воспринявшего, по мнению ряда исследователей, кремневую индустрию аборигенного мезолитического населения (Никитин, 2006а). Нельзя исключать и некоторого влияния мезолитического населения, с его специфическими сакральными и ритуальными представлениями, на керамическое производство пришельцев, особенно на его орнаментацию, что выразилось в закреплении традиции накольчатой орнаментации на данной территории. </span></span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">Не исключена определенная </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">роль в распространении накольчатой системы орнаментации неолитических племен Северного Прикаспия. Их проникновение в лесостепное Поволжье фиксируется последней четвертью </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">VI</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> тысячелетия до н.э. и было вызвано теми же причинами экологического характера (Васильев, Выборнов, 1988. С</span></span></span><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">. 26-36; Выборнов, 2010. С. 25; Васильева, 2011, Выборнов, 2008. С. 239-247; Выборонв и др., 2009). Однако данный тезис нуждается в дополнительной проработке и аргументации. </span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">Н</span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">еобходимо отметить определенную близость западной группы елшанских памятников и верхневолжской культуры, особенно ее ранней стадии выделяемой рядом исследователей в самостоятельную волго-окскую культуру (Цетлин, 1996; Цетлин 2008). Исследователями неоднократно подчеркивался заимствованный характер верхневолжской керамики с юга (Костылева, 1987. С. 129; Крайнов, 1996. С. 169 и др.), а так же высказывались предположения о ее возможной связи с елшанской культурой Среднего Поволжья (Выборнов, 2000; Мамонов, 2000б; Никитин, 2006; Костылева, 2003; Андреев, 2012). </span></span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">Для раннего этапа верхневолжской культуры характерно изготовление сосудов </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">из илистого сырья с добавлением шамота и песка. Сосуды тонкостенные (0,4-0,7 см) с заглаженной или залощенной поверхностью. Венчики прямые или загнутые внутрь, с прямым, приостренным и округлым срезом. Под срезом венчика часто нанесены сквозные отверстия, располагающиеся в проглаженных желобках. Поверхность черепков неорнаментирована или имеет ряды разряженных тычково-накольчатых вдавлений преимущественно в верхней и нижней частях сосудов, для ряда стоянок характерна традиция орнаментации среза венчика. Преобладают вдавления овальной формы наряду с каплевидными, подтреугольными и округлыми. Данные элементы чаще всего образуют горизонтальные мотивы в один или несколько рядов. Посуда изготавливалась двух форм с приостренно-округлыми (преобладают на ранних памятниках) и плоскими днищами (диаметром 2,5-10 см, иногда вогнуты внутрь). Сосуды небольших размеров, диаметр горла в среднем 14-16 см, иногда достигает 30 см (Крайнов, 1996. С. 169; Костылева, 1994. С. 53-55 и др.). Таким образом, мы можем констатировать определенную близость ранней верхневолжской керамики материалам западной группы стоянок елшанской культуры, как на уровне конструирования и формообразования сосудов, так и на уровне их декорирования. </span></span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">Как нами отмечалось выше ряд стоянок западной группы памятников к рубежу </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">VI</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">-</span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">V</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> тысячелетий до н.э. достиг берегов р. Оки и, по всей видимости, население их оставившее продолжило свое движение в северо-западном направлении, где в ходе смешения с позднемезолитическими коллективами, при доминировании последних, что отразилось в сохранении в кремневом инвентаре ранних памятников мезолитических черт (Лозовский, 2003. С. 238; Крайнов, 1996. С. 169 и др.), дали начало первому этапу верхневолжской (или волго-окской) ранненеолитической культуры. С этими обстоятельствами, на наш взгляд, может быть связана и высокая степень сходства материалов верхневолжской и средневолжской неолитических культур (Никитин, 2009. С. 181-182; Никитин, 2002. С. 294) имеющих одну ранненеолитическую основу формирования в лице елшанской керамической традиции. Наибольшее сходство с елшанскими материалами обнаруживают стоянки московско-окского и восточного варианта верхневолжской культуры. </span></span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">В конце работы мы бы хотели </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">еще раз подчеркнуть ее основные положения. В первой четверти </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">VI</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> тысячелетия до н.э. группы носителей елшансколй керамической традиции появляются в Среднем Поволжье с территории Средней Азии. На этом контакты обозначенных регионов не прерываются, а продолжают функционировать на протяжении как минимум третьей-второй четверти </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">VI</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> тысячелетия до н.э. Постепенно, в связи с нарастанием кризисных явлений связанных с аридизацией второй половины </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">VI</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> тысячелетия до н.э., группы елшанского населения начинают свое движение в западном и северо-западном направлениях. На данных территориях они вступают во взаимодействие с носителями сурских и ракушечноярских керамических традиций, чье проникновение было обусловлено теми же природно-климатическими обстоятельствами и с аборигенным мезолитическим населением, следствием чего является формирование западной группы памятников елшанской культуры. В ходе северо-западного движения носители елшанской культурной традиции, к рубежу </span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">VI</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU">-</span></span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;">V</span></span><span style="color: #000000;"><span style="font-family: 'Times New Roman', serif;"><span lang="ru-RU"> тысячелетий до н.э., достигают р. Оки и проникают за ее пределы, способствуя неолитизации северных регионов, и становятся основой для формирования верхневолжской ранненеолитической культуры. В то же время на территории лесостепного Поволжья на базе елшанской керамической традиции происходит формирование накольчатой традиции орнаментации средневолжской культуры. </span></span></span></span></p>
+<p lang="ru-RU" style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span style="font-size: 14pt; font-family: 'times new roman', times;"><span lang="ru-RU">Список </span><span lang="ru-RU">литературы</span></span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;"><span lang="ru-RU">&nbsp;</span>1. Андреев К. М. Область распространения керамики елшанской культуры. // Новый век: история глазами молодых: Межвуз. сб. науч. тр. молодых ученых, аспирантов и студентов. Вып. 10. Саратов, 2011а.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">&nbsp;<span lang="ru-RU">2. Андреев К.М. Происхождение и ареал распространения керамики елшанской культуры. // </span>XLIII<span lang="ru-RU"> международная Урало-Поволжская археологическая студенческая конференция: материалы и тезисы докладов. Оренбург, 2011б.</span></span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">&nbsp;<span style="color: #000000;"><span lang="ru-RU">3. Андреев К.М. </span></span><span lang="ru-RU">К вопросу о соотношении елшанской и верхневолжской культур. // </span>XLIV<span lang="ru-RU"> международная Урало-Поволжская студенческая конференция: тезисы докладов. Екатеринбург, 2012.</span></span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;"><span lang="ru-RU">4. Андреев К.М., Выборнов А.А., Кулькова М.А. Некоторые итоги и перспективы радиоуглеродного датирования елшанской культуры лесостепного Поволжья. // Известия Самарского научного центра РАН. </span><span lang="ru-RU">Том 14. № 3. Самара, 2012.</span></span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">5. Белановская Т.Д. Из древнего прошлого Нижнего Подонья: поселение времени неолита и энеолита Ракушечный Яр. СПб, 1995.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">6. Белановская Т.Д., Тимофеев В.И. Многослойное поселение Ракушечный Яр (Нижнее Подонье) и проблемы неолитизации Восточной Европы. // Неолит &ndash; энеолит юга и неолит севера Восточной Европы. СПб, 2003.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">7. Березина Н.С. Ранний неолит Чувашского Поволжья. // Ученые записки Казанского государственного университета. Серия гуманитарные науки. Том. 152, кн. 3, ч 1. Казань, 2010.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">8. Березина Н.С. Ранний неолит Чувашского Поволжья. // Тверской археологический сборник. Вып. 8. Том. 1. Тверь, 2011.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">9. Васильев И.Б., Пенин Г.Г. Елшанские стоянки на реке Самаре в Оренбургской области. // Неолит и бронзовый век Поволжья и Приуралья. Куйбышев, 1977.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">10. Васильев И.Б., Выборнов А.А. Неолит Поволжья. Степь и лесостепь. Куйбышев, 1988.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">11. Васильева И.Н. О гончарной технологии населения Волго-Уралья в эпоху неолита (по материалам Ивановской стоянки). // Археологические памятники Оренбуржья. Вып. 8. Оренбург, 2007.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">12. Васильева И.Н. Ранненеолитическое гончарство Волго-Уралья (по материалам елшанской культуры). // Археология, этнография и антропология Евразии. Новосибирск, 2011.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">13. Виноградов А.В. Древние охотники и рыболовы среднеазиатского междуречья. М., 1981.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">14. Виноградов А.В., Мамедов Э.Д. Первобытный Лявлякан. М., 1975.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">15. Вискалин А.В. К вопросу о происхождении елшанской культуры. // Археологическое изучение центральной России. Липецк, 2006.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">16. Вискалин А.В. Динамика климатических колебаний и культурные процессы в неолите Волго-Уральской лесостепи. // Человек и древность: памяти Александра Александровича Формозова (1928-2009). М., 2010.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">17. Выборнов А.А. Хронологические аспекты изучения неолита Поволжья. // Хронология неолита Восточной Европы: Тезисы докладов международной конференции, посвященной памяти д.и.н. Н.Н. Гуриной. СПб, 2000.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;"><span lang="ru-RU">18. Выборнов А.А., Королев А.И., Ставицкий В.В., Челянов В.П. Ранний комплекс поселения Городок </span>I<span lang="ru-RU"> на реке Ранова в Рязанской области. // Исторические исследования. Вып. 5. Самара, 2004.</span></span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;"><span lang="ru-RU">19. Выборнов А.А., Королев А.И., Ставицкий В.В. Неолитические материалы стоянки Озименки </span>II<span lang="ru-RU"> в Примокшанье. // Вопросы археологии Поволжья. Вып. 4. Самара, 2006.</span></span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">20. Выборнов А.А. Неолит Волго-Камья. Самара, 2008.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">21. Выборнов А.А., Ковалюх Н.Н., Скрипкин В.В. К радиокарбоновой хронологии неолита Среднего Поволжья: восточный регион. // РА. 2009. № 3.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;"><span lang="ru-RU">22. Выборнов А.А. Неолит Самарского Поволжья.</span><span lang="ru-RU"> // 40 лет Средневолжской археологической экспедиции: Краеведческие записки. Вып. 15. Самара, 2010.</span></span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;"><span lang="ru-RU">23. Гонозов А.В. Стоянка Старое Щербинино </span>XV<span lang="ru-RU"> - новый памятник эпохи раннего неолита бассейна Нижней Оки. // Нижегородские исследования по краеведению и археологии. Сборник научных и методических статей. Н. Новгород, 2004.</span></span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;"><span lang="ru-RU">24. Костылева Е.Л. Новые исследования раннего неолита Верхнего Поволжья. // Задачи советской археологии в свете решений </span>XXVII<span lang="ru-RU"> съезда КПСС. М., 1987.</span></span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">25. Костылева Е.Л. Ранненеолитическая керамика Верхнего Поволжья. // Тверской археологический сборник. Вып. 1. Тверь, 1994.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">26. Костылева Е.Л. Основные вопросы неолитизации центра Русской равнины. // Неолит &ndash; энеолит юга и неолит севера Восточной Европы. СПб, 2003.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">27. Котова Н.С. Неолитизация Украины. Луганск, 2002.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">28. Крайнов Д.А. Верхневолжская культура. // Неолит Северной Евразии. Археология. М., 1996.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;"><span lang="ru-RU">29. Лозовский В.М. Переход от лесного мезолита к лесному неолиту в Волго-Окском междуречье (по материалам стоянки Замостье 2).</span><span lang="ru-RU"> // Неолит &ndash; энеолит юга и неолит севера Восточной Европы. СПб, 2003.</span></span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">30. Мамонов А.Е. О культурном статусе елшанских комплексов. // Вопросы археологии Поволжья. Вып. 1. Самара, 1999.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">31. Мамонов А.Е. Елшанская культура.// История Самарского Поволжья с древнейших времен до наших дней. Каменный век. Самара, 2000а.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">32. Мамонов А.Е. Хронологический аспект изучения елшанской культуры. // Хронология неолита Восточной Европы: Тезисы докладов международной конференции, посвященной памяти д.и.н. Н.Н. Гуриной. СПб, 2000б.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">33. Мамонов А.Е. Об &laquo;елшанских&raquo; комплексах за пределами ареала елшанской культуры. // Археологические памятники Оренбуржья. Вып. 8. Оренбург, 2007.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">34. Моргунова Н.Л. Неолит и энеолит юга лесостепи Волго-Уральского междуречья. Оренбург, 1995.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">35. Моргунова Н.Л. К проблеме хронологии волго-уральской культуры. // Хронология неолита Восточной Европы: Тезисы докладов международной конференции, посвященной памяти д.и.н. Н.Н. Гуриной. СПб, 2000.</span><br><br>Автор: Андреев К.М.<br>Раздел: <a href=/14.html><span class="letter2">А</span>рхеология</a><br>Дата публикации: 23.08.2013 02:41:19 <center> <a style="color: #808000; text-decoration: none;" ><b>1</b></a> | <a style="color: #808000; text-decoration: none;" href=https://исторический-сайт.рф/К-ВОПРОСУ-ОБ-АРЕАЛЕ-ЕЛШАНСКОЙ-КУЛЬТУРЫ-2.html>2</a> <br> </center><br> 
+Подписывайтесь на наш <a href="https://t.me/historyarchnews" target="_blank">телеграм-канал</a>
+<br>
+Вступайте в нашу группу в <a href="https://vk.com/istorik_archeolog" target="_blank">Вконтакте</a>
+<br><br><b>Другие социальные сети:</b><br>
+<a href="https://vk.com/istorik_archeolog" target="_blank"><img src="../images/vk.jpg" alt="ВК" ></a>
+<a href="https://twitter.com/istoricheski" target="_blank"><img src="../images/twitter.jpg" alt="Твиттер" ></a>
+<a href="https://t.me/historyarchnews" target="_blank"><img src="../images/telegram.jpg" alt="Телеграм" ></a>
+<a href="https://yandex.ru/q/loves/history/" target="_blank"><img src="../images/q.jpg" alt="Я.Кью" ></a>
+<a href="https://zen.yandex.ru/dorogami_tisyacheletiy" target="_blank"><img src="../images/dzen.jpg" alt="Я.Дзен" ></a>
+<a href="https://www.facebook.com/istoricheski" target="_blank"><img src="../images/fb.jpg" alt="Фейсбук" ></a>
+<a href="https://www.instagram.com/istfil.ru/" target="_blank"><img src="../images/ig.jpg" alt="Инстаграм" ></a><br>
+<br>
+
+
+<br>
+<!-- Yandex.RTB R-A-141379-7 -->
+<div id="yandex_rtb_R-A-141379-7"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-7',
+    blockId: 'R-A-141379-7'
+  })
+})</script>
+<br>
+
+<b>Поделиться материалом в социальных сетях:</b>
+<div class="share42init"></div>
+
+<br>
+<center>
+<br>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="3861370147"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
+
+<script>
+    (yaads = window.yaads || []).push({
+        id: "141379-4",
+        render: "#id-141379-4"
+    });
+</script>
+<div id="id-141379-4"></div> 
+  <br>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="9313007376"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
+<b><span class="letter2">В</span>ас могут заинтересовать другие материалы из данного раздела: </b><br>
+<div class="grid">
+<article>
+<figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>ТЕКСТИЛЬНЫЕ ИЗДЕЛИЯ  ИЗ ЧУЛКОВСКОГО МОГИЛЬНИКА:  К ВОПРОСУ О МЕЖПЛЕМЕННЫХ КОНТАКТАХ МУРОМЫ</h2>
+                            <p>Чулковский могильник муромы расположен на левом берегу реки Тужи (правый приток р. Оки), неподалеку от д. Чулково и Звягино Вачского района Нижегородской области. Он был открыт в 1959 г. Е. А. Безуховой (Халиковой), впервые исследовался в 1974 г. экспедицией Мордовского государственного университета под руководством М. Ф. Жиганова (было изучено 9 погребений) (Авдеев и др., 1975. С. 132). Широкомасштабные раскопки могильника велись в 1985-1992 гг. под руководством В. В. Гришакова, всего было исследовано около 100 погребений (Гришаков, 1986)..</p>
+                            <a href='https://исторический-сайт.рф/ТЕКСТИЛЬНЫЕ-ИЗДЕЛИЯ-ИЗ-ЧУЛКОВСКОГО-МОГИЛЬНИКА-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Как это было или делюсь впечатлениями от первой экспедиции</h2>
+                            <p>Личные впечатления одного из участников археологической экспедиции в Алатырский район республики Чувашия.</p>
+                            <a href='https://исторический-сайт.рф/Экспедиция-в-Чувашии-2011-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>ПРОНИКНОВЕНИЕ ГЕОМЕТРИЧЕСКИХ МИКРОЛИТОВ В СРЕДНЕДНЕПРОВСКУЮ ИСТОРИКО-КУЛЬТУРНУЮ ОБЛАСТЬ ПОЗДНЕЙ ПОРЫ ВЕРХНЕГО ПАЛЕОЛИТА:  МИГРАЦИЯ ЛЮДЕЙ ИЛИ МИГРАЦИЯ ИДЕЙ? </h2>
+                            <p>На рубеже XX–XXI веков в бассейне Днепра на р. Сейм (N51°38´54´´, O35°30´34´´) был открыт и частично исследован новый куст памятников верхнепалеолитической эпохи, получивший по ближайшему селу наименование микрорегион Быки (Чубур, 1998, 2000, 2001; Григорьева, Филиппов, 1978; Гаврилов, Ахметгалеева, 2004 и др.). Археология, геология и радиоуглеродный метод датируют этот куст стоянок постграветтом – максимумом поздневалдайского похолодания (21000-16000 л.н.), исключение представляет лишь более поздняя стоянка Быки 5 (конец верхнего палеолита). Памятники важны для понимания доистории центра и юга Восточной Европы на протяжении начала поздней поры верхнего палеолита. .</p>
+                            <a href='https://исторический-сайт.рф/ПРОНИКНОВЕНИЕ-ГЕОМЕТРИЧЕСКИХ-МИКРОЛИТОВ-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>К вопросу о происхождении елшанской культуры</h2>
+                            <p>В данной статье рассмотриваются основные теории происхождения елшанской культуры, наиболее аргументированой из которых считается теория Выбонова А.А. о среднеазиатских корнях елшанской культуры.</p>
+                            <a href='https://исторический-сайт.рф/О-происхождении-елшанской-культуры-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Керамический комплекс Лядинского могильника</h2>
+                            <p>В 1869 году при строительстве железной дороги Тамбов – Саратов, был обна-ружен Лядинский могильник принадлежащий древней мордве. В 1888 г. работы на могильнике проводил В.Н. Ястребов. Судя по отчёту, в погребениях им было обнаружено 86 глиняных сосудов. Однако для нашего исследования доступны только те, которые попали в иллюстрации отчёта (пять сосудов). Спустя сто лет, в 1983 – 1985 гг. на могильнике производила работы Р.Ф. Воронина. Она так же об-наружила 30 сосудов. Всего же было найдено около 116 горшков. В результате всех работ был накоплен большой материал по истории культуры и быта народа оставившего этот могильник. К сожалению, мы не имеем возможности получить доступ ко всему керамическому материалу из всех раскопок в связи с тем что, часть материала со временем была утрачена. .</p>
+                            <a href='https://исторический-сайт.рф/Керамический-комплекс-Лядинского-могильника-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Комплекс раннего железного века с Явлейского 2 городища в Среднем Посурье </h2>
+                            <p>Около с. Янгалычево Дубенского района Ресублики Мордовия, в левобережье Суры на левом берегу коренного берега р. Лаша, зафиксирован комплекс из четырех городищ и ряда селищ, отмеченных на археологической карте П. Д. Степанова (1969. С. 47–48). Судя по характеру фортификационных сооружений (небольшая площадка, защищенная высоким шишковидным валом и глубоким рвом), а также по подъемному материалу, их сооружение связано с племенами именьковской культуры эпохи раннего средневековья (Степанов, 1969. С. 47–48). Все они расположены в овражных системах, скрытых соседними возвышенностями. .</p>
+                            <a href='https://исторический-сайт.рф/Комплекс-раннего-железного-века-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>К вопросу о локальных районах срубно-алакульской контактной зоны по данным гончарной технологии.</h2>
+                            <p>В результате многолетнего изучения памятников эпохи бронзы Южного Урала, данный регион большинством исследователей признан контактной зоной двух крупных историко-культурных общностей: срубной и алакульской. (Рутто, 2003) В то же время, сам механизм культурных взаимодействий редко становился объектом специального исследования. И сами авторы работ по данной тематике всегда подчёркивали необходимость более детальной разработки проблемы (Рутто, 2003. С. 112)..</p>
+                            <a href='https://исторический-сайт.рф/К-вопросу-о-локальных-районах-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>ОРУДИЯ ТРУДА И ПРЕДМЕТЫ ВООРУЖЕНИЯ  С ЗАПАДНЫХ РАЙОНОВ РЕСПУБЛИКИ МОРДОВИЯ </h2>
+                            <p>В данной работе вводятся в научный оборот находки с археологиче-ских памятников расположенных в западных районах Республики Мордо-вия, находящиеся в частных коллекциях и обнаруженных частными лицами в районах сел: Мордовские Парки, Старое Девичье, Лосевка, Кулишейка, Юрьевка, Ефаево, Шаверки, Пальцо, Тенишево, Учхоз, Куликовка..</p>
+                            <a href='https://исторический-сайт.рф/ОРУДИЯ-ТРУДА-И-ПРЕДМЕТЫ-ВООРУЖЕНИЯ-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>К вопросу о территории распространения и происхождении хвалынской культуры</h2>
+                            <p>Во время раскопок 2006-2007 гг. на поселении Утюж I, расположенного вблизи с. Стемассы Алатырского района Чувашии на левом берегу небольшой реки Утюж вблизи ее впадения в р. Суру  было обнаружено жилище, которое по ряду признаков можно отнести к хвалынской культуре. Это позволяет откорректировать ареал распространения хвалынской культуры..</p>
+                            <a href='https://исторический-сайт.рф/Территория-распространения-и-происхождение-хвалынской-культуры-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Байбек - новая стоянка развитого неолита в Северном Прикаспии. </h2>
+                            <p>Обследование песчаных массивов, расположенных севернее р. Кигач Красноярско¬го района Астраханской области позволили выявить в 5 км на север от пос. Байбек в дефляционной котловине археологический материал: фрагменты грубых лепных керамических сосудов и каменные изделия. Размеры котловины с севера на юг 250 м, с запада на восток - более 300 м, она расположена в южной части разрушенного бархана значительных размеров: с севера на юг его протяженность око¬ло 1000 м, с запада на восток — до 400 м..</p>
+                            <a href='https://исторический-сайт.рф/Байбек-1.html'>Читать</a>
+                        </figcaption> </figure></article>
+</div>
+</span>
+</center>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="3459235498"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div class="right_col">
+<br><b><span class="letter2">И</span>скать на сайте:</b>
+<form action="https://www.google.ru/cse" id="cse-search-box" target="_blank">
+    <input type="hidden" name="cx" value="partner-pub-4644943942061688:0428779279" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" class="input-block-level" name="q" size="20" />
+    <input type="submit" name="sa" value="&#x041f;&#x043e;&#x0438;&#x0441;&#x043a;" />
+</form>
+  <script src="./vendor/jquery-2.0.3.min.js"></script>
+  <script async src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="./js/ajax-form.js"></script>
+ <!-- /вход-регистрация -->  
+<br><center><script language="javascript">
+<!--
+var h=(new Date()).getHours();
+if (h > 22 || h < 7) document.write('Доброй ночи,');
+if (h > 6 && h < 12) document.write('Доброе утро,'); 
+if (h > 11 && h < 19) document.write('Добрый день,'); 
+if (h > 18 && h < 23) document. write('Добрый вечер,'); 
+//-->
+</script >
+<script>
+$(document).ready(function() {
+    // Добавляем новую запись, когда произошел клик по кнопке
+    $("#FormSubmit").click(function (e) {
+        e.preventDefault();
+        if($("#contentText").val()==="") //simple validation
+        {
+            alert("Введите текст!");
+            return false;
+        }
+
+        var myData = "content_txt="+ $("#contentText").val(); //post variables
+
+        jQuery.ajax({
+            type: "POST", // HTTP метод  POST или GET
+            url: "./includes/response_stik.php", //url-адрес, по которому будет отправлен запрос
+            dataType:"text", // Тип данных,  которые пришлет сервер в ответ на запрос ,например, HTML, json
+            data:myData, //данные, которые будут отправлены на сервер (post переменные)
+            success:function(response){
+            $("#responds").append(response);
+            $("#contentText").val(''); //очищаем текстовое поле после успешной вставки
+            },
+            error:function (xhr, ajaxOptions, thrownError){
+                alert(thrownError); //выводим ошибку
+            }
+        });
+    });
+
+    //Удаляем запись при клике по крестику
+    $("body").on("click", "#responds .del_button", function(e) {
+        e.preventDefault();
+        var clickedID = this.id.split("-"); //Разбиваем строку (Split работает аналогично PHP explode)
+        var DbNumberID = clickedID[1]; //и получаем номер из массива
+        var myData = 'recordToDelete='+ DbNumberID; //выстраиваем  данные для POST
+
+        jQuery.ajax({
+            type: "POST", // HTTP метод  POST или GET
+            url: "./includes/response_stik.php", //url-адрес, по которому будет отправлен запрос
+            dataType:"text", // Тип данных
+            data:myData, //post переменные
+            success:function(response){
+            // в случае успеха, скрываем, выбранный пользователем для удаления, элемент
+            $('#item_'+DbNumberID).fadeOut("slow");
+            },
+            error:function (xhr, ajaxOptions, thrownError){
+                //выводим ошибку
+                alert(thrownError);
+            }
+        });
+    });
+});
+</script>
+Гость      <form class="form-signin ajax" method="post" action="../includes/ajax.php">
+        Пожалуйста, авторизуйтесь
+        <input name="username" type="text" class="input-block-level" placeholder="Логин" autofocus maxlength="15">
+        <input name="password" type="password" class="input-block-level" placeholder="Пароль" maxlength="15">
+        <label class="checkbox">
+          <input name="remember-me" type="checkbox" value="remember-me" checked> Запомнить
+        </label>
+        <input type="hidden" name="act" value="login">
+<input type="hidden" class="hidefield" id="user" name="user">
+<input type="hidden" class="hidefield" id="site" name="site" value="http://" >
+<input id="check" name="check" type="hidden" value="" />
+<input name="email" id="email2" class = "nonuserfield "maxlength="50" type="text" autocomplete="off" placeholder="Введите E-Mail *">
+        <button class="btn btn-normal btn-block" type="submit" onclick="document.getElementById('check').value = 'secretcode';">Войти</button>
+<font color=red><div class="main-error alert alert-error hide"></div></font>
+            <p>Нет аккаунта? <a href="../Регистрация.html">Регистрация.</a></p>
+      </form>
+       </center>
+<br>
+  <a href="javascript:void(0)" onclick="PressLink()">Заметили ошибку? Выделите её и нажмите ctrl+enter</a>
+
+    
+<!-- Yandex.RTB R-A-141379-2 -->
+<div id="yandex_rtb_R-A-141379-2"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-2',
+    blockId: 'R-A-141379-2'
+  })
+})</script>
+ </div>
+<div class="footer"><br><br><br>
+<span style="font-size:small;">
+<p align="center">
+Все права принадлежат авторам выкладываемых работ. Материалы сайта разрешено копировать с согласия автора работы, с обязательным указанием автора материала и прямой ссылкой на текст копируемого материала. На сайте используются файлы куки (cookie) для организации работы сайта. Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie, пользовательских данных.  Если Вы не хотите, чтобы ваши данные обрабатывались, произведите соответствующие настройки в браузере, либо воздержитесь от посещения сайта. Ознакомтесь с <a href="../Политика-конфиденциальности.html">политикой конфиденциальности</a> нашего сайта.
+</p><p align="center">
+Исторический-сайт.рф © 2011 - 2022.</font><center></span>
+<br>
+
+</center>
+</p>
+</div>
+</div>
+<script src="../vendor/jquery-2.0.3.min.js" ></script>
+<script type="text/javascript" src="../share42/share42/share42.js"></script>
+<script async src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+<script async type="text/javascript" src="../js/mistakes.js"></script>
+<script src="../lightbox/js/lightbox-2.6.min.js"></script>
+<script>
+	// назад
+		var bottom_position = 0; 
+		var flag_bottom = false;
+		var flag_animate = false;
+		
+		$(document).ready(function(){
+			$(".in_top").click(function(){
+				flag_animate = true;
+				if(flag_bottom){
+					$("body,html").animate({"scrollTop":bottom_position}, 300, function(){ 
+						flag_animate = false;
+					});
+						flag_bottom = false;
+					$(".in_top span").html("↑ Наверх ↑");
+				}else{
+						$("body,html").animate({"scrollTop":0}, 300, function(){ 
+						flag_animate = false;
+					});		
+					bottom_position = $(window).scrollTop();
+					flag_bottom = true;
+					$(".in_top span").html("↓ Назад ");
+				}
+			});
+		 
+				$(window).scroll(function(event){
+				var countScroll = $(window).scrollTop();
+							if (countScroll > 100 && !flag_animate){
+					$(".in_top").show();
+					if(flag_bottom){
+						flag_bottom = false;
+						$(".in_top span").html("↑ Наверх ↑");
+					}
+							}else{
+					if(!flag_bottom){
+						$(".in_top").hide();
+					}
+				}
+			});
+		});
+	</script> 
+	<script>
+$("#navToggle").click(function() {
+    $(this).toggleClass("active");
+    $(".overlay").toggleClass("open");
+    // this line ▼ prevents content scroll-behind
+    $("body").toggleClass("locked");
+});
+$('.overlay').click(function() {
+    $(this).removeClass('open');
+    $('.navBurger').removeClass('active');
+});
+</script>
+
+<script>
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 100) {
+            if ($('#upbutton').is(':hidden')) {
+                $('#upbutton').css({opacity : 1}).fadeIn('slow');
+            }
+        } else { $('#upbutton').stop(true, false).fadeOut('fast'); }
+    });
+    $('#upbutton').click(function() {
+        $('html, body').stop().animate({scrollTop : 0}, 300);
+    });
+</script>
+<style>
+  #upbutton {
+    background: url("/images/up.png") no-repeat top left;
+    height: 60px;
+    width: 60px;
+    bottom: 30px;
+    right: 30px;
+    cursor: pointer;
+    display: none;
+    position: fixed;
+    z-index: 999;
+  }
+</style>
+
+<script async src="https://an.yandex.ru/system/widget.js"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173238613-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-173238613-1');
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(65788204, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/65788204" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>
+ 
+ 
+ 

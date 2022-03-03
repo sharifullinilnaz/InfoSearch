@@ -1,0 +1,493 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/css/style.css">
+	<link rel="icon" href="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/favicon.ico"  type="image/x-icon">
+	<link rel="preconnect" href="https://mc.yandex.ru/">
+	<link rel="stylesheet" href="../css/style.css">
+    <link href="../css/mistakes.css" rel="stylesheet" type="text/css" />
+	<link href="../lightbox/css/lightbox.css" rel="stylesheet" />
+
+<link rel="canonical" href="https://исторический-сайт.рф/Экспедиция-в-Чувашии-2011-1.html" />
+	<title>Археологическая экспедиция в Чувашии 2011-1</title>
+	<meta name="description" content="Личные впечатления одного из участников археологической экспедиции в Алатырский район республики Чувашия-Страница 1">
+	<meta name="keywords" content=" Чувашия, 2011, раскопки, археологи, Владимир Вячеславович Ставицкий " > 
+<meta property="og:title" content="Археологическая экспедиция в Чувашии 2011"/>
+<meta property="og:description" content="Личные впечатления одного из участников археологической экспедиции в Алатырский район республики Чувашия"/>
+<meta property="og:image" content="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/images/logo4.jpg"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content= "https://исторический-сайт.рф/Экспедиция-в-Чувашии-2011-1.html" />
+
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+</head>
+
+<body>
+	<div class="in_top">
+		<span>↑ Наверх ↑</span>
+	</div>
+
+<div id="block">
+<div class="header">&nbsp&nbsp&nbsp&nbsp
+<a href="../"><img src="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/images/img_03.jpg" alt="Исторический сайт" ></a>
+<div id="css-menu">
+<br>
+<ul>
+<span class="letter3">
+<marquee  scrollamount="2" direction="left" 
+ height="40" width="100%" ><p>"Никакой век не в состоянии написать своей собственной истории" Герберт Спенсер</p></marquee> 
+</span>
+<br>
+<li><a href="../">
+<span class="text-top">Главная</span>
+<span class="text-bottom">О нашем проекте</span>
+</a></li>
+<li><a href="../4.html">
+<span class="text-top">Разделы</span>
+<span class="text-bottom">Статьи</span>
+</a></li>
+<li><a href="../Конкурс-1.html">
+<span class="text-top">Конкурс</span>
+<span class="text-bottom">Работ по истории</span>
+</a></li>
+<li><a href="../Вопрос-ответ.html">
+<span class="text-top">Помощь</span>
+<span class="text-bottom">Вопрос-ответ</span>
+</a></li>
+<li><a href="../Генератор-тестов.html">
+<span class="text-top">Тесты</span>
+<span class="text-bottom">Создать тест</span>
+</a></li>
+<li><a href="../Опубликовать-статью.html">
+<span class="text-top">Опубликовать</span>
+<span class="text-bottom">Отправить статью</span>
+</a></li>
+<li><a href="../Новое.html">
+<span class="text-top">Новое</span>
+<span class="text-bottom">Новые статьи</span>
+</a></li>
+<li><a href="../Войти.html">
+<span class="text-top">Войти</span>
+<span class="text-bottom">В свой аккаунт</span>
+</a></li>
+<li><a href="https://vk.com/istorik_archeolog" target="_blank"><img src="../images/vk.jpg" alt="ВК" ></a></li>
+<li><a href="https://twitter.com/istoricheski" target="_blank"><img src="../images/twitter.jpg" alt="Твиттер" ></a></li>
+<li><a href="https://t.me/historyarchnews" target="_blank"><img src="../images/telegram.jpg" alt="Телеграмм" ></a></li>
+<li><a href="https://yandex.ru/q/loves/history/" target="_blank"><img src="../images/q.jpg" alt="Я.Кью" ></a></li>
+<li><a href="https://zen.yandex.ru/dorogami_tisyacheletiy" target="_blank"><img src="../images/dzen.jpg" alt="Я.Дзен" ></a></li>
+</ul>
+</ul>
+</div>
+</div>
+
+<div class="left_col">
+<p><span style="font-size:small;">
+<strong>
+    <a href='https://исторический-сайт.рф/33.html'>
+    <span class="letter">Н</span>овости истории</a></strong><br><strong>
+    <a href='https://исторический-сайт.рф/4.html'>
+    <span class="letter">С</span>татьи и заметки</a></strong><br>&nbsp;<a href='https://исторический-сайт.рф/14.html'>
+         - <span class="letter2">А</span>рхеология</a><br>&nbsp;<a href='https://исторический-сайт.рф/3.html'>
+         - <span class="letter2">В</span>сеобщая история</a><br>&nbsp;<a href='https://исторический-сайт.рф/13.html'>
+         - <span class="letter2">И</span>сторическая поэзия и проза</a><br>&nbsp;<a href='https://исторический-сайт.рф/6.html'>
+         - <span class="letter2">И</span>стория Пензенского края</a><br>&nbsp;<a href='https://исторический-сайт.рф/5.html'>
+         - <span class="letter2">И</span>стория России</a><br>&nbsp;<a href='https://исторический-сайт.рф/8.html'>
+         - <span class="letter2">П</span>олезные и интересные сайты</a><br>&nbsp;<a href='https://исторический-сайт.рф/7.html'>
+         - <span class="letter2">Р</span>азное</a><br>&nbsp;<a href='https://исторический-сайт.рф/19.html'>
+         - <span class="letter2">Т</span>есты по истории</a><br>&nbsp;<a href='https://исторический-сайт.рф/32.html'>
+         - <span class="letter2">Ш</span>паргалка</a><br><a href="/Конкурс-1.html"  name='Конкурс'><b><span class="letter">К</span>онкурс работ</b></a><br>
+<a href="/Генератор-тестов.html"  name='Генератор тестов'><b><span class="letter">С</span>оздать тест</b></a><br>
+<a href="/Отправить-статью.html"  name='Авторам'><b><span class="letter">А</span>вторам</b></a><br>
+<a href="/Друзья.html"  name='Ссылки'><b><span class="letter">Д</span>рузья сайта</b></a><br>
+<a href="/Вопрос-ответ.html"  name='чаВО'><b><span class="letter">В</span>опрос-ответ</b></a><br>
+<a href="/О-проекте.html"><b><span class="letter">О</span> проекте</b></a><br>
+<a href="/Контакты.html"><b><span class="letter">К</span>онтакты</b></a><br>
+</span></p>
+
+
+
+
+<p align= "center">
+<b><span class="letter2">Н</span>овые статьи:</b></p>
+<font size="2">
+  <a href='https://исторический-сайт.рф/gramota--1.html'>В Новгороде нашли первую «зимнюю» грамоту</a><br>........................<br>  <a href='https://исторический-сайт.рф/proval-1.html'>Названо самое провальное оружие Второй мировой войны</a><br>........................<br>  <a href='https://исторический-сайт.рф/asteroid-1.html'>Ученые подтвердили гибель динозавров от астероида</a><br>........................<br>  <a href='https://исторический-сайт.рф/pskov-1.html'>В Пскове под кинотеатром нашли древнюю церковь</a><br>........................<br>  <a href='https://исторический-сайт.рф/bacteria-1.html'>Красная Армия помешала Японии применить биологическое оружие</a><br>........................<br></font>
+
+<!-- Слева2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="7863885467"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+<div class="center_col">
+     
+   
+<!-- Yandex.RTB R-A-141379-6 -->
+<div id="yandex_rtb_R-A-141379-6" style="min-height:240px"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-6',
+    blockId: 'R-A-141379-6'
+  })
+})</script>
+    <br>
+ 
+<center><h1 style="font-size:20px"><b>Как это было или делюсь впечатлениями от первой экспедиции</b></h1>(Заметка)</center>Раздел: <a href=/14.html><span class="letter2">А</span>рхеология</a><br>Автор: <a href ="/Автор-Понаморёв Владислав">Понаморёв Владислав</a><br><br><p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">&nbsp;Уже несколько лет <strong>Владимир Вячеславович Ставицкий </strong>проводит со студентами раскопки в республике Чувашия, близ города Алатырь.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">&nbsp;Этим летом 14 первокурсников и 5 студентов второго курса на месяц поселились в палаточном лагере на берегу Суры. Недалеко от места стоянки студентов в реку впадает приток Утюж, на террасах возле которого погребены остатки памятников эпохи неолита и энеолита. Именно они были целью пензенских археологов. В течении экспедиции 2011 года ими были обследованы объекты Утюж-1 и Утюж-Бугор, на которых были найдены следы жилищ, поселений Хвалынской и других культур. Раскопки велись ежедневно в первой половине дня на протяжении 6 часов. Работать приходилось в поле под палящим июльским солнцем. Поэтому дневную норму&nbsp; мы пытались закончить к полудню, чтобы не работать в самое жаркое время суток.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">&nbsp;&nbsp;Не смотря на кажущуюся, на первый взгляд невыносимость такого распорядка (ведь приходилось вставать в половину шестого утра!), подобные условия имели один существенный плюс &ndash; вся вторая половина дня оставалась в полном нашем распоряжении. Это время мы часто тратили на поход в ближайшую деревню Стемасы или на поездку в Алатырь, чтобы зарядить свои телефоны или купить продуктов, которых нам не хватало в походном рационе. Кстати о питании, хочется выразить благодарность Лебедевой Яне, повару чувашской экспедиции, которая готовила нам вкуснейшие завтраки, обеды и ужины!</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">&nbsp;Одно из важных обстоятельств этой экспедиции состояло в том, что пензенцы работали не в одиночку. Кроме нас раскопки вели ещё две большие экспедиции студентов из Самары под руководством декана исторического факультета Поволжской государственной социально-гуманитарной академии Александра Алексеевича Выборнова и профессора Королёва Аркадия Ивановича. Мне было приятно общаться с самарскими ребятами. Без них впечатления от практики были бы не полными. Нельзя забыть также об иностранных волонтёрах из Чехии и Словении: три девушки и один парень из Европы попали в глубинку России, чтобы попробовать себя в роли археологов. С первого же дня мы установили с ними контакт и стали общаться. К концу экспедиции наши заграничные гости после общения с нами даже могли спеть несколько песен на русском.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">&nbsp;В раскопках в Чувашии участвовал также академик Владимир Владимирович Сидоров из ИА РАН. Это удивительный человек! Во время экспедиции он отметил свой 71й день рождения. Тем не менее он полон сил и радуется жизни. Он не ограничивался только личным участием в работе, где на раскопе вместе с аспиранткой изучал ямы, зарисовывал стратиграфию и высказывал интересные предположения по предназначению того или иного помещения, но и активно занимался фотографией, лепил из глины игрушки, и самое интересное &ndash; читал по вечерам лекции.&nbsp; Мое первое впечатление от его лекции было настолько сильным, что я не мог прийти в себя примерно час. Из его рассказов мы черпали очень много новых знаний. Его слова обладали волшебной силой, заставляющей воображение создавать невероятные картины прошлого.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 14pt;">&nbsp;Жду с нетерпением начала нового сезона и поездки в экспедицию! Хочется, чтобы как можно больше студентов исторического факультета ПГПУ им. В.Г. Белинского приняли участие в будущем году в раскопках под Алатырем.</span></p><br>Раздел: <a href=/14.html><span class="letter2">А</span>рхеология</a><br>Дата публикации: 23.08.2013 02:02:01 <center> <a style="color: #808000; text-decoration: none;" ><b>1</b></a> <br> </center><br> 
+Подписывайтесь на наш <a href="https://t.me/historyarchnews" target="_blank">телеграм-канал</a>
+<br>
+Вступайте в нашу группу в <a href="https://vk.com/istorik_archeolog" target="_blank">Вконтакте</a>
+<br><br><b>Другие социальные сети:</b><br>
+<a href="https://vk.com/istorik_archeolog" target="_blank"><img src="../images/vk.jpg" alt="ВК" ></a>
+<a href="https://twitter.com/istoricheski" target="_blank"><img src="../images/twitter.jpg" alt="Твиттер" ></a>
+<a href="https://t.me/historyarchnews" target="_blank"><img src="../images/telegram.jpg" alt="Телеграм" ></a>
+<a href="https://yandex.ru/q/loves/history/" target="_blank"><img src="../images/q.jpg" alt="Я.Кью" ></a>
+<a href="https://zen.yandex.ru/dorogami_tisyacheletiy" target="_blank"><img src="../images/dzen.jpg" alt="Я.Дзен" ></a>
+<a href="https://www.facebook.com/istoricheski" target="_blank"><img src="../images/fb.jpg" alt="Фейсбук" ></a>
+<a href="https://www.instagram.com/istfil.ru/" target="_blank"><img src="../images/ig.jpg" alt="Инстаграм" ></a><br>
+<br>
+
+
+<br>
+<!-- Yandex.RTB R-A-141379-7 -->
+<div id="yandex_rtb_R-A-141379-7"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-7',
+    blockId: 'R-A-141379-7'
+  })
+})</script>
+<br>
+
+<b>Поделиться материалом в социальных сетях:</b>
+<div class="share42init"></div>
+
+<br>
+<center>
+<br>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="3861370147"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
+
+<script>
+    (yaads = window.yaads || []).push({
+        id: "141379-4",
+        render: "#id-141379-4"
+    });
+</script>
+<div id="id-141379-4"></div> 
+  <br>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="9313007376"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
+<b><span class="letter2">В</span>ас могут заинтересовать другие материалы из данного раздела: </b><br>
+<div class="grid">
+<article>
+<figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>ПРОНИКНОВЕНИЕ ГЕОМЕТРИЧЕСКИХ МИКРОЛИТОВ В СРЕДНЕДНЕПРОВСКУЮ ИСТОРИКО-КУЛЬТУРНУЮ ОБЛАСТЬ ПОЗДНЕЙ ПОРЫ ВЕРХНЕГО ПАЛЕОЛИТА:  МИГРАЦИЯ ЛЮДЕЙ ИЛИ МИГРАЦИЯ ИДЕЙ? </h2>
+                            <p>На рубеже XX–XXI веков в бассейне Днепра на р. Сейм (N51°38´54´´, O35°30´34´´) был открыт и частично исследован новый куст памятников верхнепалеолитической эпохи, получивший по ближайшему селу наименование микрорегион Быки (Чубур, 1998, 2000, 2001; Григорьева, Филиппов, 1978; Гаврилов, Ахметгалеева, 2004 и др.). Археология, геология и радиоуглеродный метод датируют этот куст стоянок постграветтом – максимумом поздневалдайского похолодания (21000-16000 л.н.), исключение представляет лишь более поздняя стоянка Быки 5 (конец верхнего палеолита). Памятники важны для понимания доистории центра и юга Восточной Европы на протяжении начала поздней поры верхнего палеолита. .</p>
+                            <a href='https://исторический-сайт.рф/ПРОНИКНОВЕНИЕ-ГЕОМЕТРИЧЕСКИХ-МИКРОЛИТОВ-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Деградация техники обработки камня как   отражение  характера  использования металла.</h2>
+                            <p>      Состав каменных  орудий и характер их  обработки в  эпоху  бронзы сильно отличается  от тех,  какие  известны  на  неолтитческих стоянках. Орудия каменные  и металлические взаимозаменямы.  Поэтому  исследование каменной индустрии, которая сохраняется  на  поселении  значительно полнее металличсеской, может  быть привлечено для оценки уровня развития  металлургии,  её  роли в обществе.  Металл не  только срабатывается  в  процессе употребления,  практически  сходя на-нет, но и,  обладая  значительной ценностью, крайне  редко  теряется, чаще попадает в  переработку. Частота  находок  металла не тождественна   частоте его использования в  работе. По тому, что  из металлических  орудий доходит  до  нас в составе  находок, мы  не  можем  оценивать масштабы его применения. Это  относится  не  только к  медному  и бронзовому  инструменту. Так, на городищах раннего  железного века  крайне  редко встречаются  топоры. Наполовину раскопанное  и весьма  насыщенное  находками городище Настасьино дало  единственную находку  топора, просуществовав 7-8 веков. Нет таких находок  на Каширских городищах. В  то  же  время громадное количество костяных орудий   и еще  большее – заготовок -  несут следы  именно работы  топором..</p>
+                            <a href='https://исторический-сайт.рф/Деградация-техники-обработки-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Романский меч из Кельгининского могильника в Республике Мордовия</h2>
+                            <p>В 2010-2011 гг. в Серпуховском историко-художественном музее проходила выставка «На окских рубежах Древней Руси», на которой были представлены археологические находки и предметы из частных коллекций с территории Среднего и Нижнего Поочья. Среди экспонатов из частных коллекций был представлен меч, найденный местными жителями села Зарубкино Зубово-Полянского района Республики Мордовия на территории села в карьере. Меч выпал из осыпи. На территории села с начала XX века археологами велись исследования средневекового мордовского могильника, получившего название Кельгиниский (10-13 вв., 17-18 вв.). Находку меча надо связывать с погребальным инвентарем одной из могил. До момента поступления на выставку меч был расчищен находчиками..</p>
+                            <a href='https://исторический-сайт.рф/Романский-меч-из-Кельгининского-могильника-в-Республике-Мордовия-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Тенденции развития пронизок верхнего прикамья  в эпоху раннего средневековья</h2>
+                            <p>Эволюционное развитие раннесредневековых пронизок Прикамья не могло происходить само по себе, изолированно от других регионов. Появление некоторых типов пронизок, закрепление в местном костюме, а также дальнейшая их трансформация зависели от нескольких факторов. На это могли повлиять этнокультурные контакты, индивидуальные предпочтения местного населения, веяния моды, наличие мастеров, а также их технические возможности..</p>
+                            <a href='https://исторический-сайт.рф/Тенденции-развития-пронизок-верхнего-прикамья-в-эпоху-раннего-средневековья-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>К вопросу о локальных районах срубно-алакульской контактной зоны по данным гончарной технологии.</h2>
+                            <p>В результате многолетнего изучения памятников эпохи бронзы Южного Урала, данный регион большинством исследователей признан контактной зоной двух крупных историко-культурных общностей: срубной и алакульской. (Рутто, 2003) В то же время, сам механизм культурных взаимодействий редко становился объектом специального исследования. И сами авторы работ по данной тематике всегда подчёркивали необходимость более детальной разработки проблемы (Рутто, 2003. С. 112)..</p>
+                            <a href='https://исторический-сайт.рф/К-вопросу-о-локальных-районах-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>ТЕКСТИЛЬНЫЕ ИЗДЕЛИЯ  ИЗ ЧУЛКОВСКОГО МОГИЛЬНИКА:  К ВОПРОСУ О МЕЖПЛЕМЕННЫХ КОНТАКТАХ МУРОМЫ</h2>
+                            <p>Чулковский могильник муромы расположен на левом берегу реки Тужи (правый приток р. Оки), неподалеку от д. Чулково и Звягино Вачского района Нижегородской области. Он был открыт в 1959 г. Е. А. Безуховой (Халиковой), впервые исследовался в 1974 г. экспедицией Мордовского государственного университета под руководством М. Ф. Жиганова (было изучено 9 погребений) (Авдеев и др., 1975. С. 132). Широкомасштабные раскопки могильника велись в 1985-1992 гг. под руководством В. В. Гришакова, всего было исследовано около 100 погребений (Гришаков, 1986)..</p>
+                            <a href='https://исторический-сайт.рф/ТЕКСТИЛЬНЫЕ-ИЗДЕЛИЯ-ИЗ-ЧУЛКОВСКОГО-МОГИЛЬНИКА-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Байбек - новая стоянка развитого неолита в Северном Прикаспии. </h2>
+                            <p>Обследование песчаных массивов, расположенных севернее р. Кигач Красноярско¬го района Астраханской области позволили выявить в 5 км на север от пос. Байбек в дефляционной котловине археологический материал: фрагменты грубых лепных керамических сосудов и каменные изделия. Размеры котловины с севера на юг 250 м, с запада на восток - более 300 м, она расположена в южной части разрушенного бархана значительных размеров: с севера на юг его протяженность око¬ло 1000 м, с запада на восток — до 400 м..</p>
+                            <a href='https://исторический-сайт.рф/Байбек-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>П.Д. Либеров о связях населения среднедонской культуры раннего железного века и финно-угорского мира.</h2>
+                            <p>Среднее Подонье в силу своего географического положения являлось «контактной зоной» различных культур и народов. Результатом взаимодействия стало своеобразие культур местного населения различных исторических эпох. Именно это своеобразие послужило причиной того, что местные памятники являются предметом многолетних дискуссий. Ряд исследователей помещают на данной территории скифское, другие – скифоидное население. Впервые не скифское население локализовал на данной территории Петр Дмитриевич Либеров.</p>
+                            <a href='https://исторический-сайт.рф/о-связях-населения-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>К вопросу о территории распространения и происхождении хвалынской культуры</h2>
+                            <p>Во время раскопок 2006-2007 гг. на поселении Утюж I, расположенного вблизи с. Стемассы Алатырского района Чувашии на левом берегу небольшой реки Утюж вблизи ее впадения в р. Суру  было обнаружено жилище, которое по ряду признаков можно отнести к хвалынской культуре. Это позволяет откорректировать ареал распространения хвалынской культуры..</p>
+                            <a href='https://исторический-сайт.рф/Территория-распространения-и-происхождение-хвалынской-культуры-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>РАССЕЛЕНИЕ МОРДВЫ-ЭРЗИ В I ПОЛОВИНЕ II ТЫСЯЧЕЛЕТИЯ</h2>
+                            <p>При изучении материалов средневековых мордовских могильников обращает на себя внимание то, что на исконных эрзянских и мокшанских землях с середины XIII века происходит постепенное уменьшение, как объёма погребального инвентаря, так и количество самих погребений. Погребений же, чётко датируемых исследователями XV веком практически не зафиксировано. Напрашивается версия о средневековом кризисе развития мордовского этноса. Статья Н.М. Арсентьева и В.И. Вихляева как раз посвящена данному вопросу. В ней авторы, на основании письменных и археологических источников связывают обезлюдение мордовских земель  с Золотоордынским, а позже с Казанским влиянием. (Арсентьев, Вихляев, 2011. С. 26-29.) Наша работа – попытка на основании различных источников (археологических, письменных) рассмотреть социально-политические события, повлиявшие на расселение мордвы-эрзи в XII – XVI веках. .</p>
+                            <a href='https://исторический-сайт.рф/РАССЕЛЕНИЕ-МОРДВЫ-ЭРЗИ-1.html'>Читать</a>
+                        </figcaption> </figure></article>
+</div>
+</span>
+</center>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="3459235498"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div class="right_col">
+<br><b><span class="letter2">И</span>скать на сайте:</b>
+<form action="https://www.google.ru/cse" id="cse-search-box" target="_blank">
+    <input type="hidden" name="cx" value="partner-pub-4644943942061688:0428779279" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" class="input-block-level" name="q" size="20" />
+    <input type="submit" name="sa" value="&#x041f;&#x043e;&#x0438;&#x0441;&#x043a;" />
+</form>
+  <script src="./vendor/jquery-2.0.3.min.js"></script>
+  <script async src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="./js/ajax-form.js"></script>
+ <!-- /вход-регистрация -->  
+<br><center><script language="javascript">
+<!--
+var h=(new Date()).getHours();
+if (h > 22 || h < 7) document.write('Доброй ночи,');
+if (h > 6 && h < 12) document.write('Доброе утро,'); 
+if (h > 11 && h < 19) document.write('Добрый день,'); 
+if (h > 18 && h < 23) document. write('Добрый вечер,'); 
+//-->
+</script >
+<script>
+$(document).ready(function() {
+    // Добавляем новую запись, когда произошел клик по кнопке
+    $("#FormSubmit").click(function (e) {
+        e.preventDefault();
+        if($("#contentText").val()==="") //simple validation
+        {
+            alert("Введите текст!");
+            return false;
+        }
+
+        var myData = "content_txt="+ $("#contentText").val(); //post variables
+
+        jQuery.ajax({
+            type: "POST", // HTTP метод  POST или GET
+            url: "./includes/response_stik.php", //url-адрес, по которому будет отправлен запрос
+            dataType:"text", // Тип данных,  которые пришлет сервер в ответ на запрос ,например, HTML, json
+            data:myData, //данные, которые будут отправлены на сервер (post переменные)
+            success:function(response){
+            $("#responds").append(response);
+            $("#contentText").val(''); //очищаем текстовое поле после успешной вставки
+            },
+            error:function (xhr, ajaxOptions, thrownError){
+                alert(thrownError); //выводим ошибку
+            }
+        });
+    });
+
+    //Удаляем запись при клике по крестику
+    $("body").on("click", "#responds .del_button", function(e) {
+        e.preventDefault();
+        var clickedID = this.id.split("-"); //Разбиваем строку (Split работает аналогично PHP explode)
+        var DbNumberID = clickedID[1]; //и получаем номер из массива
+        var myData = 'recordToDelete='+ DbNumberID; //выстраиваем  данные для POST
+
+        jQuery.ajax({
+            type: "POST", // HTTP метод  POST или GET
+            url: "./includes/response_stik.php", //url-адрес, по которому будет отправлен запрос
+            dataType:"text", // Тип данных
+            data:myData, //post переменные
+            success:function(response){
+            // в случае успеха, скрываем, выбранный пользователем для удаления, элемент
+            $('#item_'+DbNumberID).fadeOut("slow");
+            },
+            error:function (xhr, ajaxOptions, thrownError){
+                //выводим ошибку
+                alert(thrownError);
+            }
+        });
+    });
+});
+</script>
+Гость      <form class="form-signin ajax" method="post" action="../includes/ajax.php">
+        Пожалуйста, авторизуйтесь
+        <input name="username" type="text" class="input-block-level" placeholder="Логин" autofocus maxlength="15">
+        <input name="password" type="password" class="input-block-level" placeholder="Пароль" maxlength="15">
+        <label class="checkbox">
+          <input name="remember-me" type="checkbox" value="remember-me" checked> Запомнить
+        </label>
+        <input type="hidden" name="act" value="login">
+<input type="hidden" class="hidefield" id="user" name="user">
+<input type="hidden" class="hidefield" id="site" name="site" value="http://" >
+<input id="check" name="check" type="hidden" value="" />
+<input name="email" id="email2" class = "nonuserfield "maxlength="50" type="text" autocomplete="off" placeholder="Введите E-Mail *">
+        <button class="btn btn-normal btn-block" type="submit" onclick="document.getElementById('check').value = 'secretcode';">Войти</button>
+<font color=red><div class="main-error alert alert-error hide"></div></font>
+            <p>Нет аккаунта? <a href="../Регистрация.html">Регистрация.</a></p>
+      </form>
+       </center>
+<br>
+  <a href="javascript:void(0)" onclick="PressLink()">Заметили ошибку? Выделите её и нажмите ctrl+enter</a>
+
+    
+<!-- Yandex.RTB R-A-141379-2 -->
+<div id="yandex_rtb_R-A-141379-2"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-2',
+    blockId: 'R-A-141379-2'
+  })
+})</script>
+ </div>
+<div class="footer"><br><br><br>
+<span style="font-size:small;">
+<p align="center">
+Все права принадлежат авторам выкладываемых работ. Материалы сайта разрешено копировать с согласия автора работы, с обязательным указанием автора материала и прямой ссылкой на текст копируемого материала. На сайте используются файлы куки (cookie) для организации работы сайта. Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie, пользовательских данных.  Если Вы не хотите, чтобы ваши данные обрабатывались, произведите соответствующие настройки в браузере, либо воздержитесь от посещения сайта. Ознакомтесь с <a href="../Политика-конфиденциальности.html">политикой конфиденциальности</a> нашего сайта.
+</p><p align="center">
+Исторический-сайт.рф © 2011 - 2022.</font><center></span>
+<br>
+
+</center>
+</p>
+</div>
+</div>
+<script src="../vendor/jquery-2.0.3.min.js" ></script>
+<script type="text/javascript" src="../share42/share42/share42.js"></script>
+<script async src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+<script async type="text/javascript" src="../js/mistakes.js"></script>
+<script src="../lightbox/js/lightbox-2.6.min.js"></script>
+<script>
+	// назад
+		var bottom_position = 0; 
+		var flag_bottom = false;
+		var flag_animate = false;
+		
+		$(document).ready(function(){
+			$(".in_top").click(function(){
+				flag_animate = true;
+				if(flag_bottom){
+					$("body,html").animate({"scrollTop":bottom_position}, 300, function(){ 
+						flag_animate = false;
+					});
+						flag_bottom = false;
+					$(".in_top span").html("↑ Наверх ↑");
+				}else{
+						$("body,html").animate({"scrollTop":0}, 300, function(){ 
+						flag_animate = false;
+					});		
+					bottom_position = $(window).scrollTop();
+					flag_bottom = true;
+					$(".in_top span").html("↓ Назад ");
+				}
+			});
+		 
+				$(window).scroll(function(event){
+				var countScroll = $(window).scrollTop();
+							if (countScroll > 100 && !flag_animate){
+					$(".in_top").show();
+					if(flag_bottom){
+						flag_bottom = false;
+						$(".in_top span").html("↑ Наверх ↑");
+					}
+							}else{
+					if(!flag_bottom){
+						$(".in_top").hide();
+					}
+				}
+			});
+		});
+	</script> 
+	<script>
+$("#navToggle").click(function() {
+    $(this).toggleClass("active");
+    $(".overlay").toggleClass("open");
+    // this line ▼ prevents content scroll-behind
+    $("body").toggleClass("locked");
+});
+$('.overlay').click(function() {
+    $(this).removeClass('open');
+    $('.navBurger').removeClass('active');
+});
+</script>
+
+<script>
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 100) {
+            if ($('#upbutton').is(':hidden')) {
+                $('#upbutton').css({opacity : 1}).fadeIn('slow');
+            }
+        } else { $('#upbutton').stop(true, false).fadeOut('fast'); }
+    });
+    $('#upbutton').click(function() {
+        $('html, body').stop().animate({scrollTop : 0}, 300);
+    });
+</script>
+<style>
+  #upbutton {
+    background: url("/images/up.png") no-repeat top left;
+    height: 60px;
+    width: 60px;
+    bottom: 30px;
+    right: 30px;
+    cursor: pointer;
+    display: none;
+    position: fixed;
+    z-index: 999;
+  }
+</style>
+
+<script async src="https://an.yandex.ru/system/widget.js"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173238613-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-173238613-1');
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(65788204, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/65788204" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>
+ 
+ 
+ 
