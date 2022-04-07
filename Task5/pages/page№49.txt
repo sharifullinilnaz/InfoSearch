@@ -1,0 +1,503 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/css/style.css">
+	<link rel="icon" href="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/favicon.ico"  type="image/x-icon">
+	<link rel="preconnect" href="https://mc.yandex.ru/">
+	<link rel="stylesheet" href="../css/style.css">
+    <link href="../css/mistakes.css" rel="stylesheet" type="text/css" />
+	<link href="../lightbox/css/lightbox.css" rel="stylesheet" />
+
+<link rel="canonical" href="https://исторический-сайт.рф/Тепловозные-таблички-Луганского-завода-1.html" />
+	<title>Тепловозные таблички Луганского завода-1</title>
+	<meta name="description" content=" В этой статье предпринята попытка систематизировать самую сложную и запутанную, как показывает опыт, часть табличечно-тепловозной истории - Луганские таблички.-Страница 1">
+	<meta name="keywords" content=" центр железнодорожного наследия, история железных дорог, таблички, тепловоз" > 
+<meta property="og:title" content="Тепловозные таблички Луганского завода"/>
+<meta property="og:description" content=" В этой статье предпринята попытка систематизировать самую сложную и запутанную, как показывает опыт, часть табличечно-тепловозной истории - Луганские таблички."/>
+<meta property="og:image" content="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/data/image/-%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7-1.jpg"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content= "https://исторический-сайт.рф/Тепловозные-таблички-Луганского-завода-1.html" />
+
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+</head>
+
+<body>
+	<div class="in_top">
+		<span>↑ Наверх ↑</span>
+	</div>
+
+<div id="block">
+<div class="header">&nbsp&nbsp&nbsp&nbsp
+<a href="../"><img src="https://xn----8sbnlabhce1bwkeefm9e.xn--p1ai/images/img_03.jpg" alt="Исторический сайт" ></a>
+<div id="css-menu">
+<br>
+<ul>
+<span class="letter3">
+<marquee  scrollamount="2" direction="left" 
+ height="40" width="100%" ><p><span>"Глядя в историю, словно в зеркало, я стараюсь изменить к лучшему собственную жизнь" Плутарх</span></p></marquee> 
+</span>
+<br>
+<li><a href="../">
+<span class="text-top">Главная</span>
+<span class="text-bottom">О нашем проекте</span>
+</a></li>
+<li><a href="../4.html">
+<span class="text-top">Разделы</span>
+<span class="text-bottom">Статьи</span>
+</a></li>
+<li><a href="../Конкурс-1.html">
+<span class="text-top">Конкурс</span>
+<span class="text-bottom">Работ по истории</span>
+</a></li>
+<li><a href="../Вопрос-ответ.html">
+<span class="text-top">Помощь</span>
+<span class="text-bottom">Вопрос-ответ</span>
+</a></li>
+<li><a href="../Генератор-тестов.html">
+<span class="text-top">Тесты</span>
+<span class="text-bottom">Создать тест</span>
+</a></li>
+<li><a href="../Опубликовать-статью.html">
+<span class="text-top">Опубликовать</span>
+<span class="text-bottom">Отправить статью</span>
+</a></li>
+<li><a href="../Новое.html">
+<span class="text-top">Новое</span>
+<span class="text-bottom">Новые статьи</span>
+</a></li>
+<li><a href="../Войти.html">
+<span class="text-top">Войти</span>
+<span class="text-bottom">В свой аккаунт</span>
+</a></li>
+<li><a href="https://vk.com/istorik_archeolog" target="_blank"><img src="../images/vk.jpg" alt="ВК" ></a></li>
+<li><a href="https://twitter.com/istoricheski" target="_blank"><img src="../images/twitter.jpg" alt="Твиттер" ></a></li>
+<li><a href="https://t.me/historyarchnews" target="_blank"><img src="../images/telegram.jpg" alt="Телеграмм" ></a></li>
+<li><a href="https://yandex.ru/q/loves/history/" target="_blank"><img src="../images/q.jpg" alt="Я.Кью" ></a></li>
+<li><a href="https://zen.yandex.ru/dorogami_tisyacheletiy" target="_blank"><img src="../images/dzen.jpg" alt="Я.Дзен" ></a></li>
+</ul>
+</ul>
+</div>
+</div>
+
+<div class="left_col">
+<p><span style="font-size:small;">
+<strong>
+    <a href='https://исторический-сайт.рф/33.html'>
+    <span class="letter">Н</span>овости истории</a></strong><br><strong>
+    <a href='https://исторический-сайт.рф/4.html'>
+    <span class="letter">С</span>татьи и заметки</a></strong><br>&nbsp;<a href='https://исторический-сайт.рф/14.html'>
+         - <span class="letter2">А</span>рхеология</a><br>&nbsp;<a href='https://исторический-сайт.рф/3.html'>
+         - <span class="letter2">В</span>сеобщая история</a><br>&nbsp;<a href='https://исторический-сайт.рф/13.html'>
+         - <span class="letter2">И</span>сторическая поэзия и проза</a><br>&nbsp;<a href='https://исторический-сайт.рф/6.html'>
+         - <span class="letter2">И</span>стория Пензенского края</a><br>&nbsp;<a href='https://исторический-сайт.рф/5.html'>
+         - <span class="letter2">И</span>стория России</a><br>&nbsp;<a href='https://исторический-сайт.рф/8.html'>
+         - <span class="letter2">П</span>олезные и интересные сайты</a><br>&nbsp;<a href='https://исторический-сайт.рф/7.html'>
+         - <span class="letter2">Р</span>азное</a><br>&nbsp;<a href='https://исторический-сайт.рф/19.html'>
+         - <span class="letter2">Т</span>есты по истории</a><br>&nbsp;<a href='https://исторический-сайт.рф/32.html'>
+         - <span class="letter2">Ш</span>паргалка</a><br><a href="/Конкурс-1.html"  name='Конкурс'><b><span class="letter">К</span>онкурс работ</b></a><br>
+<a href="/Генератор-тестов.html"  name='Генератор тестов'><b><span class="letter">С</span>оздать тест</b></a><br>
+<a href="/Отправить-статью.html"  name='Авторам'><b><span class="letter">А</span>вторам</b></a><br>
+<a href="/Друзья.html"  name='Ссылки'><b><span class="letter">Д</span>рузья сайта</b></a><br>
+<a href="/Вопрос-ответ.html"  name='чаВО'><b><span class="letter">В</span>опрос-ответ</b></a><br>
+<a href="/О-проекте.html"><b><span class="letter">О</span> проекте</b></a><br>
+<a href="/Контакты.html"><b><span class="letter">К</span>онтакты</b></a><br>
+</span></p>
+
+
+
+
+<p align= "center">
+<b><span class="letter2">Н</span>овые статьи:</b></p>
+<font size="2">
+  <a href='https://исторический-сайт.рф/gramota--1.html'>В Новгороде нашли первую «зимнюю» грамоту</a><br>........................<br>  <a href='https://исторический-сайт.рф/proval-1.html'>Названо самое провальное оружие Второй мировой войны</a><br>........................<br>  <a href='https://исторический-сайт.рф/asteroid-1.html'>Ученые подтвердили гибель динозавров от астероида</a><br>........................<br>  <a href='https://исторический-сайт.рф/pskov-1.html'>В Пскове под кинотеатром нашли древнюю церковь</a><br>........................<br>  <a href='https://исторический-сайт.рф/bacteria-1.html'>Красная Армия помешала Японии применить биологическое оружие</a><br>........................<br></font>
+
+<!-- Слева2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="7863885467"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+<div class="center_col">
+     
+   
+<!-- Yandex.RTB R-A-141379-6 -->
+<div id="yandex_rtb_R-A-141379-6" style="min-height:240px"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-6',
+    blockId: 'R-A-141379-6'
+  })
+})</script>
+    <br>
+ 
+<center><h1 style="font-size:20px"><b>Тепловозные таблички Луганского завода</b></h1>(Статья)</center>Раздел: <a href=/5.html><span class="letter2">И</span>стория России</a><br>Автор: <a href ="/Автор-Бычков Дмитрий Аркадьевич">Бычков Дмитрий Аркадьевич</a><br><br><p class="article-render__block article-render__block_unstyled" style="text-align: justify;"><span style="font-size: 14pt;">Одним из направлений, всегда интересовавших людей занимающихся историей железных дорог, железнодорожным наследием, были заводские таблички (фирменные доски заводов-изготовителей) подвижного состава. В настоящее время идет постепенное осмысление и систематизация заводских табличек отечественного подвижного состава. Разными людьми ведется постепенная работа в этом направлении. Например, по систематизации дореволюционных вагонных табличек очень серьезную работу проводил Я.И. Дорошенко, возможно в обозримом будущем мы увидим каталог таких табличек. Но некоторые направления оказались вне сегодняшней моды - например тепловозные таблички. История тепловозостроения в нашей стране имеет уже достаточно солидный возраст, но в плане систематизации фирменных знаков заводов изготовителей, до сих пор мало что сделано.</span></p>
+<p class="article-render__block article-render__block_unstyled" style="text-align: justify;"><span style="font-size: 14pt;">Подобные работы, по как-бы "современному" подвижному составу, надо было начинать уже давно. На сегодня по некоторым типам тепловозов, видимо, уже никогда не удастся точно установить внешний вид, форму и текст заводских табличек, так как далеко не все из созданных типов тепловозов сохранились до наших дней. Например, существует полная не ясность по табличкам тепловозов&nbsp;<strong>ТГ101</strong>,&nbsp;<strong>ТГ105</strong>, другим опытным машинам. По некоторым тепловозам, например ТГМ2 или ТЭл, частично удалось воссоздать изображения табличек с помощью имеющихся фотографий достаточно высокого качества, но эти воссозданные изображения никогда не смогут дать исчерпывающей информации. Имеется не плохое заводское фото тепловоза&nbsp;<strong>ТГ100-001</strong>. По этому фото стало понятно, что табличка этого тепловоза была овальной формы, по пропорциям она соответствует табличкам тепловозов ТЭ3 примерно&nbsp;<strong>1963-67</strong>&nbsp;годов выпуска, но по размерам она несколько меньше. Судя по совокупности строк и размеру, это самостоятельный тип табличек, но к сожалению, из-за не достаточной четкости этого участка фото, пока воссоздать изображение её так и не удалось.</span></p>
+<p class="article-render__block article-render__block_unstyled" style="text-align: justify;"><span style="font-size: 14pt;">В этой статье предпринята попытка систематизировать самую сложную и запутанную, как показывает опыт, часть табличечно-тепловозной истории - Луганские таблички. Период времени выбран от начала тепловозостроения на Луганском заводе до 1991 г., то есть до распада СССР, как наиболее логичный по историческим обстоятельствам.</span></p>
+<p class="article-render__block article-render__block_unstyled" style="text-align: justify;"><span style="font-size: 14pt;">Представленная ниже таблица не является &laquo;истинной в последней инстанции&raquo; и имеет ряд моментов, которые можно отнести к разряду личных домыслов, но домыслов очень осторожных и обоснованных.</span></p>
+<p class="article-render__block article-render__block_unstyled" style="text-align: justify;"><span style="font-size: 14pt;">В приведенной таблице, в ячейках сначала указан номер типа таблички (это условная нумерация введена авторами исключительно для удобства пользования), а затем номера тепловозов, на которых точно известно наличие именно такой заводской доски. В тех местах, когда происходила смена типов табличек, дано приблизительное время постройки локомотива, последнего из известных с "предыдущей" табличкой и первого из известных со "следующей". Это пришлось делать потому, что точные номера переходов не ясны, на заводе-изготовителе установить это уже не возможно, а делать это нужно для того, чтобы не пропустить какие то временные (переходные) типы табличек.</span></p>
+<p class="article-render__block article-render__block_unstyled" style="text-align: justify;"><span style="font-size: 14pt;">Таблички&nbsp;<strong>7*</strong>&nbsp;и&nbsp;<strong>9*</strong>, это скорее всего таблички соответственно&nbsp;<strong>№7</strong>&nbsp;и&nbsp;<strong>№9</strong>, но возможно что это похожий, и отдельный, вид табличек.</span></p>
+<p class="article-render__block article-render__block_unstyled" style="text-align: justify;"><span style="font-size: 14pt;">Видимо не имеет смысла разделять таблички&nbsp;<strong>№11</strong>&nbsp;и&nbsp;<strong>№11*</strong>&nbsp;на отдельные типы, т.к. они отличаются только наличием знака качества. Государственный знак качества СССР присваивался ежегодно (или не присваивался), поэтому он то появлялся на табличках, то исчезал. Этот знак отливался отдельно и крепился двумя винтами. Часто встречаются тепловозы с отверстиями в табличках под знак качества, встречаются и с голым полем даже без отверстий.</span></p>
+<p class="article-render__block article-render__block_unstyled" style="text-align: justify;"><span style="font-size: 14pt;">Есть некоторая не ясность с табличками первых тепловозов&nbsp;<strong>М62</strong>. По формальным данным,&nbsp;<strong>М62-02</strong>&nbsp;построен в 1964 г., но в действительности на нем висела табличка 1965 г. и с заводским&nbsp;<strong>№006</strong>&nbsp;или&nbsp;<strong>005</strong>. У таблички&nbsp;<strong>М62-01</strong>&nbsp;(табл. 64 г.) заводской номер выбит на специальном поле, а у табличек&nbsp;<strong>М62-02</strong>&nbsp;и&nbsp;<strong>ТЭП10Л</strong>&nbsp;(табл. 65 г.) номер отлит отдельными цифрами.</span></p>
+<p class="article-render__block article-render__block_unstyled" style="text-align: justify;"><span style="font-size: 14pt;">Тепловоз ТЭ125-001 заводской таблички не имел! Это установлено абсолютно достоверно.</span></p>
+<p class="article-render__block article-render__block_unstyled" style="text-align: justify;"><span style="font-size: 14pt;">Сейчас имеются изображения табличек:&nbsp;<strong>№1, №2, №3, №4, №6, №7, №8, №9, №10, №11, №11*, №12, №16, №18</strong>. Таблички&nbsp;<strong>№1</strong>&nbsp;и&nbsp;<strong>№2</strong>&nbsp;не сохранились. Данные о них получены путем сканирования фотографий тепловозов и последующей компьютерной обработкой изображения. К сожалению, прочитать тексты на фото так и не удалось, но достоверно восстановить сам внешний вид таблички оказалось вполне возможным. Остальные изображения табличек получены путем выдавливания листов бумаги на оригиналах табличек, обводкой чернилами, сканированием и компьютерной обработкой изображений. К сожалению табличка&nbsp;<strong>№15</strong>&nbsp;была выдавлена не качественно (тогда технология еще только отрабатывалась) и пока полноценного ее изображения нет. Таблички&nbsp;<strong>№14</strong>&nbsp;встречал не однократно, но сделать оттиск пока не удалось. Некоторая &laquo;корявость&raquo; отдельных букв и слов на изображениях табличек объясняется плохим качеством литья, возрастом, наличием толстого слоя краски и прочими изъянами, так как примененный метод получения изображений весьма точен.</span></p>
+<p class="article-render__block article-render__block_unstyled" style="text-align: justify;"><span style="font-size: 14pt;">В этой статье представлено только то, что пока удалось установить и что имеется на сегодняшний день.</span></p>
+<p class="article-render__block article-render__block_unstyled"><span style="font-size: 14pt;"><img style="display: block; margin-left: auto; margin-right: auto;" src="../data/image/-%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7-1.jpg" alt="Тепловозные таблички Луганского завода" width="591" height="182" /> </span></p>
+<p class="article-render__block article-render__block_unstyled"><img style="display: block; margin-left: auto; margin-right: auto;" src="../data/image/-%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7-2.jpg" alt="Тепловозные таблички Луганского завода" width="586" height="318" /></p>
+<p class="article-render__block article-render__block_unstyled"><img style="display: block; margin-left: auto; margin-right: auto;" src="../data/image/-%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7-3_1.jpg" alt="Тепловозные таблички Луганского завода" width="588" height="349" /></p>
+<p class="article-render__block article-render__block_unstyled"><img style="display: block; margin-left: auto; margin-right: auto;" src="../data/image/-%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7-5.jpg" alt="Тепловозные таблички Луганского завода" width="589" height="354" /><img style="display: block; margin-left: auto; margin-right: auto;" src="../data/image/-%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7-4_1.jpg" alt="Тепловозные таблички Луганского завода" width="588" height="351" /></p>
+<p class="article-render__block article-render__block_unstyled"><img style="display: block; margin-left: auto; margin-right: auto;" src="../data/image/-%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7-6.jpg" alt="Тепловозные таблички Луганского завода" width="589" height="294" /></p><br>Раздел: <a href=/5.html><span class="letter2">И</span>стория России</a><br>Дата публикации: 06.11.2020 15:39:11 <center> <a style="color: #808000; text-decoration: none;" ><b>1</b></a> <br> </center><br> 
+Подписывайтесь на наш <a href="https://t.me/historyarchnews" target="_blank">телеграм-канал</a>
+<br>
+Вступайте в нашу группу в <a href="https://vk.com/istorik_archeolog" target="_blank">Вконтакте</a>
+<br><br><b>Другие социальные сети:</b><br>
+<a href="https://vk.com/istorik_archeolog" target="_blank"><img src="../images/vk.jpg" alt="ВК" ></a>
+<a href="https://twitter.com/istoricheski" target="_blank"><img src="../images/twitter.jpg" alt="Твиттер" ></a>
+<a href="https://t.me/historyarchnews" target="_blank"><img src="../images/telegram.jpg" alt="Телеграм" ></a>
+<a href="https://yandex.ru/q/loves/history/" target="_blank"><img src="../images/q.jpg" alt="Я.Кью" ></a>
+<a href="https://zen.yandex.ru/dorogami_tisyacheletiy" target="_blank"><img src="../images/dzen.jpg" alt="Я.Дзен" ></a>
+<a href="https://www.facebook.com/istoricheski" target="_blank"><img src="../images/fb.jpg" alt="Фейсбук" ></a>
+<a href="https://www.instagram.com/istfil.ru/" target="_blank"><img src="../images/ig.jpg" alt="Инстаграм" ></a><br>
+<br>
+
+
+<br>
+<!-- Yandex.RTB R-A-141379-7 -->
+<div id="yandex_rtb_R-A-141379-7"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-7',
+    blockId: 'R-A-141379-7'
+  })
+})</script>
+<br>
+
+<b>Поделиться материалом в социальных сетях:</b>
+<div class="share42init"></div>
+
+<br>
+<center>
+<br>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="3861370147"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
+
+<script>
+    (yaads = window.yaads || []).push({
+        id: "141379-4",
+        render: "#id-141379-4"
+    });
+</script>
+<div id="id-141379-4"></div> 
+  <br>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="9313007376"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
+<b><span class="letter2">В</span>ас могут заинтересовать другие материалы из данного раздела: </b><br>
+<div class="grid">
+<article>
+<figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>О чём может рассказать пуговица</h2>
+                            <p>Большинство из окружающих нас вещей придумано так давно, что теперь уже никто не может сказать точно, когда именно это произошло. Так случилось и с пуговицей, которая сопровождает нас всю жизнь. Обычная пуговица - простая и привычная для нас деталь одежды. Но и эта мелочь, в нашем понимании, способна так или иначе повлиять на мировую историю..</p>
+                            <a href='https://исторический-сайт.рф/О-чём-может-рассказать-пуговица-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Колонизационная политика России в Закубанье на завершающем этапе Кавказской войны: казаки и горцы</h2>
+                            <p>В 1862 г. начался заключительный этап Кавказской войны, и в Закубанье осталось лишь несколько не покорившихся племен. Следующим тактическим шагом, предпринятым русским правительством было выселение горцев на равнинные территории или отправка последних в Турцию. .</p>
+                            <a href='https://исторический-сайт.рф/Колонизационная-политика-России-в-Закубанье-на-завершающем-этапе-Кавказской-войны-казаки-и-горцы-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Дети-герои в Великой Отечественной войне</h2>
+                            <p>Но 22 июня 1941 года началась Великая Отечественная война и на хрупкие детские плечи легла тяжесть невзгод и бедствий военных лет. В суровые годы войны, дети не оставались в стороне, а принимали активное участие в достижении победы. И вклад детей в победу был очень весом. .</p>
+                            <a href='https://исторический-сайт.рф/Дети-герои-в-Великой-Отечественной-войне-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Дневник майора Наякшина</h2>
+                            <p>Этот дневник я обнаружила среди рукописей моего прадеда профессора К.Я. Наякшина.  Небольшая  затертая тетрадь  была исписана каранлашом мелким почти нечитаемым почерком. В расшифровке текста мне помогли родители, самарские историки Андрей и Ирина Демидовы, а также знаток военной истории Станислав Владимирович Шанько..</p>
+                            <a href='https://исторический-сайт.рф/Дневник-майора-Наякшина-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>«И будет помнить вся Россия…»: Отечественная война 1812 года и Бородинское сражение в народных преданиях и в некоторых редких документах Олонецкой губернии. Историческое эссе-исследование.</h2>
+                            <p>Наша исследовательская работа уникальна: никто еще не рассматривал тему преданий Олонецкой губернии, возникших на основе реальных событий войны. Мы хотим рассказать о том, что о Бородинской битве действительно помнила вся Россия – на примере отдаленной от мест событий Олонецкой губернии. Мы впервые создаем в работе электронную карту с указанием деревень губернии, откуда происходили наши земляки - герои Отечественной войны 1812 года.</p>
+                            <a href='https://исторический-сайт.рф/И-будет-помнить-вся-Россия-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Памятник «Красным мадьярам» на Березовом острове озера Сугомак</h2>
+                            <p>Гражданская война... Это незабываемые страницы нашего прошлого. Из многочисленных кинофильмов перед нами проплывают конармейцы в буденовках, тачанки с пулеметами, юные «неуловимые мстители» и их старшие наставники в кожанках. Героизм, стойкость, подвиги..</p>
+                            <a href='https://исторический-сайт.рф/Памятник--Красным-мадьярам--на-Березовом-острове-озера-Сугомак-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Бой у мыса Сарыч</h2>
+                            <p>В начале Первой мировой войны Оттоманская империя придерживалась нейтралитета. 2 августа 1914 года между Турцией и Германией была заключена тайная конвенция, согласно которой  Османская империя присоединялась к  противникам Антанты..</p>
+                            <a href='https://исторический-сайт.рф/Бой-у-мыса-Сарыч-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Моя семья в Великой Отечественной войне</h2>
+                            <p>Навеки останутся в памяти людей даты 22 июня 1941 года и 9 мая 1945 года. 1418 дней и ночей шла война. Гитлеровские полчища ринулись на нашу землю, сея смерть и разрушение. Немецко-фашистские захватчики несли угрозу гибели всему, что завоевано, создано творческим трудом народов Союза Советских Социалистических Республик. Страна перестроилась для отпора врагу. Для Родины наступили дни великого испытания..</p>
+                            <a href='https://исторический-сайт.рф/Моя-семья-в-Великой-Отечественной-войне-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>Исторические и культурные памятники родного города</h2>
+                            <p>В мире есть много удивительных и интересных стран. Есть много красивых и современных годов. В небольшой суверенной республике Беларусь есть прекрасный город Могилёв, в котором я живу..</p>
+                            <a href='https://исторический-сайт.рф/Исторические-и-культурные-памятники-родного-города-1.html'>Читать</a>
+                        </figcaption> </figure><figure class='effect-sadie'>
+    <img src='https://исторический-сайт.рф/../images/preview1.jpeg'height=50%>     <figcaption> <h2>А.К. Казем-Бек как исследователь персидской литературы</h2>
+                            <p>Александр Касимович Казем-бек рано приобрел европейскую известность как ориенталист. В 1829 г. в возрасте 27 лет он получил почетное звание члена Британского Азиатского общества в Лондоне.  В казанский период деятельности он плодотворно занимался иранистикой. .</p>
+                            <a href='https://исторический-сайт.рф/А-К-Казем-Бек-как-исследователь-персидской-литературы-1.html'>Читать</a>
+                        </figcaption> </figure></article>
+</div>
+</span>
+</center>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4644943942061688"
+     data-ad-slot="3459235498"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div class="right_col">
+<br><b><span class="letter2">И</span>скать на сайте:</b>
+<form action="https://www.google.ru/cse" id="cse-search-box" target="_blank">
+    <input type="hidden" name="cx" value="partner-pub-4644943942061688:0428779279" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" class="input-block-level" name="q" size="20" />
+    <input type="submit" name="sa" value="&#x041f;&#x043e;&#x0438;&#x0441;&#x043a;" />
+</form>
+  <script src="./vendor/jquery-2.0.3.min.js"></script>
+  <script async src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="./js/ajax-form.js"></script>
+ <!-- /вход-регистрация -->  
+<br><center><script language="javascript">
+<!--
+var h=(new Date()).getHours();
+if (h > 22 || h < 7) document.write('Доброй ночи,');
+if (h > 6 && h < 12) document.write('Доброе утро,'); 
+if (h > 11 && h < 19) document.write('Добрый день,'); 
+if (h > 18 && h < 23) document. write('Добрый вечер,'); 
+//-->
+</script >
+<script>
+$(document).ready(function() {
+    // Добавляем новую запись, когда произошел клик по кнопке
+    $("#FormSubmit").click(function (e) {
+        e.preventDefault();
+        if($("#contentText").val()==="") //simple validation
+        {
+            alert("Введите текст!");
+            return false;
+        }
+
+        var myData = "content_txt="+ $("#contentText").val(); //post variables
+
+        jQuery.ajax({
+            type: "POST", // HTTP метод  POST или GET
+            url: "./includes/response_stik.php", //url-адрес, по которому будет отправлен запрос
+            dataType:"text", // Тип данных,  которые пришлет сервер в ответ на запрос ,например, HTML, json
+            data:myData, //данные, которые будут отправлены на сервер (post переменные)
+            success:function(response){
+            $("#responds").append(response);
+            $("#contentText").val(''); //очищаем текстовое поле после успешной вставки
+            },
+            error:function (xhr, ajaxOptions, thrownError){
+                alert(thrownError); //выводим ошибку
+            }
+        });
+    });
+
+    //Удаляем запись при клике по крестику
+    $("body").on("click", "#responds .del_button", function(e) {
+        e.preventDefault();
+        var clickedID = this.id.split("-"); //Разбиваем строку (Split работает аналогично PHP explode)
+        var DbNumberID = clickedID[1]; //и получаем номер из массива
+        var myData = 'recordToDelete='+ DbNumberID; //выстраиваем  данные для POST
+
+        jQuery.ajax({
+            type: "POST", // HTTP метод  POST или GET
+            url: "./includes/response_stik.php", //url-адрес, по которому будет отправлен запрос
+            dataType:"text", // Тип данных
+            data:myData, //post переменные
+            success:function(response){
+            // в случае успеха, скрываем, выбранный пользователем для удаления, элемент
+            $('#item_'+DbNumberID).fadeOut("slow");
+            },
+            error:function (xhr, ajaxOptions, thrownError){
+                //выводим ошибку
+                alert(thrownError);
+            }
+        });
+    });
+});
+</script>
+Гость      <form class="form-signin ajax" method="post" action="../includes/ajax.php">
+        Пожалуйста, авторизуйтесь
+        <input name="username" type="text" class="input-block-level" placeholder="Логин" autofocus maxlength="15">
+        <input name="password" type="password" class="input-block-level" placeholder="Пароль" maxlength="15">
+        <label class="checkbox">
+          <input name="remember-me" type="checkbox" value="remember-me" checked> Запомнить
+        </label>
+        <input type="hidden" name="act" value="login">
+<input type="hidden" class="hidefield" id="user" name="user">
+<input type="hidden" class="hidefield" id="site" name="site" value="http://" >
+<input id="check" name="check" type="hidden" value="" />
+<input name="email" id="email2" class = "nonuserfield "maxlength="50" type="text" autocomplete="off" placeholder="Введите E-Mail *">
+        <button class="btn btn-normal btn-block" type="submit" onclick="document.getElementById('check').value = 'secretcode';">Войти</button>
+<font color=red><div class="main-error alert alert-error hide"></div></font>
+            <p>Нет аккаунта? <a href="../Регистрация.html">Регистрация.</a></p>
+      </form>
+       </center>
+<br>
+  <a href="javascript:void(0)" onclick="PressLink()">Заметили ошибку? Выделите её и нажмите ctrl+enter</a>
+
+    
+<!-- Yandex.RTB R-A-141379-2 -->
+<div id="yandex_rtb_R-A-141379-2"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-141379-2',
+    blockId: 'R-A-141379-2'
+  })
+})</script>
+ </div>
+<div class="footer"><br><br><br>
+<span style="font-size:small;">
+<p align="center">
+Все права принадлежат авторам выкладываемых работ. Материалы сайта разрешено копировать с согласия автора работы, с обязательным указанием автора материала и прямой ссылкой на текст копируемого материала. На сайте используются файлы куки (cookie) для организации работы сайта. Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie, пользовательских данных.  Если Вы не хотите, чтобы ваши данные обрабатывались, произведите соответствующие настройки в браузере, либо воздержитесь от посещения сайта. Ознакомтесь с <a href="../Политика-конфиденциальности.html">политикой конфиденциальности</a> нашего сайта.
+</p><p align="center">
+Исторический-сайт.рф © 2011 - 2022.</font><center></span>
+<br>
+
+</center>
+</p>
+</div>
+</div>
+<script src="../vendor/jquery-2.0.3.min.js" ></script>
+<script type="text/javascript" src="../share42/share42/share42.js"></script>
+<script async src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+<script async type="text/javascript" src="../js/mistakes.js"></script>
+<script src="../lightbox/js/lightbox-2.6.min.js"></script>
+<script>
+	// назад
+		var bottom_position = 0; 
+		var flag_bottom = false;
+		var flag_animate = false;
+		
+		$(document).ready(function(){
+			$(".in_top").click(function(){
+				flag_animate = true;
+				if(flag_bottom){
+					$("body,html").animate({"scrollTop":bottom_position}, 300, function(){ 
+						flag_animate = false;
+					});
+						flag_bottom = false;
+					$(".in_top span").html("↑ Наверх ↑");
+				}else{
+						$("body,html").animate({"scrollTop":0}, 300, function(){ 
+						flag_animate = false;
+					});		
+					bottom_position = $(window).scrollTop();
+					flag_bottom = true;
+					$(".in_top span").html("↓ Назад ");
+				}
+			});
+		 
+				$(window).scroll(function(event){
+				var countScroll = $(window).scrollTop();
+							if (countScroll > 100 && !flag_animate){
+					$(".in_top").show();
+					if(flag_bottom){
+						flag_bottom = false;
+						$(".in_top span").html("↑ Наверх ↑");
+					}
+							}else{
+					if(!flag_bottom){
+						$(".in_top").hide();
+					}
+				}
+			});
+		});
+	</script> 
+	<script>
+$("#navToggle").click(function() {
+    $(this).toggleClass("active");
+    $(".overlay").toggleClass("open");
+    // this line ▼ prevents content scroll-behind
+    $("body").toggleClass("locked");
+});
+$('.overlay').click(function() {
+    $(this).removeClass('open');
+    $('.navBurger').removeClass('active');
+});
+</script>
+
+<script>
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 100) {
+            if ($('#upbutton').is(':hidden')) {
+                $('#upbutton').css({opacity : 1}).fadeIn('slow');
+            }
+        } else { $('#upbutton').stop(true, false).fadeOut('fast'); }
+    });
+    $('#upbutton').click(function() {
+        $('html, body').stop().animate({scrollTop : 0}, 300);
+    });
+</script>
+<style>
+  #upbutton {
+    background: url("/images/up.png") no-repeat top left;
+    height: 60px;
+    width: 60px;
+    bottom: 30px;
+    right: 30px;
+    cursor: pointer;
+    display: none;
+    position: fixed;
+    z-index: 999;
+  }
+</style>
+
+<script async src="https://an.yandex.ru/system/widget.js"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173238613-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-173238613-1');
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(65788204, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/65788204" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>
+ 
+ 
+ 
